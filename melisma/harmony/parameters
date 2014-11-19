@@ -1,0 +1,15 @@
+verbosity=0
+pruning_cutoff = 10.0
+compat_values = -5.0 -5.0 -10.0 1.0 -3.0 -10.0 5.0 3.0 -10.0 -10.0 2.0 -10.0
+tpc_var_factor = 0.3
+har_var_factor = 2.0
+odp_linear_factor = 3.0
+odp_quadratic_factor = 1.0
+odp_constant = 2.0
+compat_factor = 1.0
+sbp_weight = 2.0
+sbp_constant = 1.5
+half_life = 2.0
+voice_leading_penalty = 3.0
+voice_leading_time = 1.0
+

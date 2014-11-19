@@ -1,0 +1,17 @@
+verbosity=0
+pip_time = 35
+highest_level = 2
+tactus_min = 420
+tactus_max = 1600
+tactus_width = 1.8
+tactus_step = 1.1
+beat_interval_factor = 3.0
+note_factor = 1.0
+beat_slop = 35
+raising_change_penalty = 3.0
+meter_change_penalty = 0.3
+max_effective_length = 1.0
+duple_bonus = 0.2
+triple_bonus = 1.4
+note_bonus = 0.2
+
