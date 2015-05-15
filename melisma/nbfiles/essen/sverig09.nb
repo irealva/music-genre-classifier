@@ -1,0 +1,165 @@
+Beat      0  1
+Beat    105  0
+Beat    210  4
+Beat    280  0
+Beat    385  1
+Beat    490  0
+Beat    595  1
+Beat    700  0
+Beat    805  2
+Beat    875  0
+Beat    980  1
+Beat   1085  0
+Beat   1190  1
+Beat   1295  0
+Beat   1400  3
+Beat   1470  0
+Beat   1575  1
+Beat   1680  0
+Beat   1785  1
+Beat   1890  0
+Beat   1995  2
+Beat   2065  0
+Beat   2170  1
+Beat   2275  0
+Beat   2380  1
+Beat   2485  0
+Beat   2590  4
+Beat   2695  0
+Beat   2800  1
+Beat   2905  0
+Beat   3010  1
+Beat   3080  0
+Beat   3185  2
+Beat   3290  0
+Beat   3395  1
+Beat   3500  0
+Beat   3605  1
+Beat   3710  0
+Beat   3815  3
+Beat   3885  0
+Beat   3990  1
+Beat   4095  0
+Beat   4200  1
+Beat   4305  0
+Beat   4410  2
+Beat   4480  0
+Beat   4585  1
+Beat   4690  0
+Beat   4795  1
+Beat   4900  0
+Beat   5005  4
+Beat   5075  0
+Beat   5180  1
+Beat   5285  0
+Beat   5390  1
+Beat   5495  0
+Beat   5600  2
+Beat   5670  0
+Beat   5775  1
+Beat   5880  0
+Beat   5985  1
+Beat   6090  0
+Beat   6195  3
+Beat   6265  0
+Beat   6370  1
+Beat   6475  0
+Beat   6580  1
+Beat   6685  0
+Beat   6790  2
+Beat   6860  0
+Beat   6965  1
+Beat   7070  0
+Beat   7175  1
+Beat   7280  0
+Beat   7385  4
+Beat   7455  0
+Beat   7560  1
+Beat   7665  0
+Beat   7770  1
+Beat   7875  0
+Beat   8015  2
+Beat   8085  0
+Beat   8190  1
+Beat   8295  0
+Beat   8400  1
+Beat   8505  0
+Beat   8610  3
+Beat   8680  0
+Beat   8785  1
+Beat   8890  0
+Beat   8995  1
+Beat   9100  0
+Beat   9205  2
+Beat   9275  0
+Beat   9380  1
+Beat   9485  0
+Beat   9590  1
+Beat   9695  0
+Beat   9800  4
+Beat   9870  0
+Beat   9975  1
+Beat  10080  0
+Beat  10185  1
+Beat  10290  0
+Beat  10395  2
+Beat  10465  0
+Beat  10570  1
+Beat  10675  0
+Beat  10780  1
+Beat  10885  0
+Beat  10990  3
+Beat  11060  0
+Beat  11165  1
+Beat  11270  0
+Beat  11375  1
+Beat  11480  0
+Beat  11585  2
+Beat  11690  0
+Beat  11795  1
+Beat  11900  0
+Beat  12005  1
+Beat  12110  0
+Beat  12215  4
+Beat  12285  0
+Beat  12390  1
+Beat  12495  0
+Beat  12600  1
+Beat  12740  0
+Beat  12880  2
+Beat 12940 0
+Beat  12985  1
+%Last beat changed to level 1, another beat inserted before
+Note      0    210  67
+Note    210    595  67
+Note    595    805  69
+Note    805   1190  70
+Note   1190   1400  66
+Note   1400   1995  73
+Note   1995   2415  74
+|
+Note   2590   3010  74
+Note   3010   3185  73
+Note   3185   3605  74
+Note   3605   3815  70
+Note   3815   4410  69
+|
+Note   5005   5390  69
+Note   5390   5600  70
+Note   5600   5985  72
+Note   5985   6195  74
+Note   6195   6790  69
+Note   6790   7210  70
+|
+Note   7385   8015  67
+Note   8015   8400  67
+Note   8400   8610  67
+Note   8610   9205  66
+|
+Note   9800  10395  67
+Note  10395  10990  69
+Note  10990  11585  70
+Note  11585  12005  69
+Note  12005  12215  70
+Note  12215  12600  67
+Note  12600  12985  67

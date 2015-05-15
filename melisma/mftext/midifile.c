@@ -25,7 +25,6 @@
 #define NULLFUNC 0
 #define NULL 0
 
-
 #define THINK
 
 #ifdef THINK
@@ -224,9 +223,8 @@ int readtrack()		 /* read a track chunk */
 
 			if ( running )
 				c1 = c;
-			else {
+			else
 				c1 = egetc();
-			}
 
 			/* This is where it happens - Davy */
 
@@ -235,34 +233,27 @@ int readtrack()		 /* read a track chunk */
 		}
 
 		switch ( c ) {
-		    int temp;
 
 		case 0xff:			/* meta event */
 
 			type = egetc();
-		        temp=readvarinum();
-    		        lookfor = Mf_toberead - temp;
-
+			lookfor = Mf_toberead - readvarinum();
 			msginit();
 
-			while ( Mf_toberead > lookfor ) {
+			while ( Mf_toberead > lookfor )
 				msgadd(egetc());
-			}
 
 			metaevent(type);
 			break;
 
 		case 0xf0:		/* start of system exclusive */
 
-		        temp=readvarinum();
-    		        lookfor = Mf_toberead - temp;
-
+			lookfor = Mf_toberead - readvarinum();
 			msginit();
 			msgadd(0xf0);
 
-			while ( Mf_toberead > lookfor ){
+			while ( Mf_toberead > lookfor )
 				msgadd(c=egetc());
-			}
 
 			if ( c==0xf7 || Mf_nomerge==0 )
 				sysex();
@@ -277,9 +268,8 @@ int readtrack()		 /* read a track chunk */
 			if ( ! sysexcontinue )
 				msginit();
 
-			while ( Mf_toberead > lookfor ) {
+			while ( Mf_toberead > lookfor )
 				msgadd(c=egetc());
-			}
 
 			if ( ! sysexcontinue ) {
 				if ( Mf_arbitrary )

@@ -1,0 +1,124 @@
+Beat      0  2
+Beat    140  0
+Beat    280  1
+Beat    420  0
+Beat    595  4
+Beat    735  0
+Beat    875  1
+Beat   1015  0
+Beat   1190  2
+Beat   1330  0
+Beat   1505  1
+Beat   1645  0
+Beat   1785  3
+Beat   1925  0
+Beat   2100  1
+Beat   2240  0
+Beat   2415  2
+Beat   2555  0
+Beat   2695  1
+Beat   2835  0
+Beat   3010  4
+Beat   3150  0
+Beat   3290  1
+Beat   3430  0
+Beat   3605  2
+Beat   3745  0
+Beat   3885  1
+Beat   4025  0
+Beat   4200  3
+Beat   4340  0
+Beat   4480  1
+Beat   4620  0
+Beat   4795  2
+Beat   4935  0
+Beat   5110  1
+Beat   5250  0
+Beat   5390  4
+Beat   5530  0
+Beat   5670  1
+Beat   5810  0
+Beat   5985  2
+Beat   6125  0
+Beat   6300  1
+Beat   6440  0
+Beat   6615  3
+Beat   6755  0
+Beat   6895  1
+Beat   7035  0
+Beat   7210  2
+Beat   7350  0
+Beat   7490  1
+Beat   7630  0
+Beat   7805  4
+Beat   7945  0
+Beat   8085  1
+Beat   8225  0
+Beat   8365  2
+Beat   8505  0
+Beat   8645  1
+Beat   8785  0
+Beat   8960  3
+Beat   9100  0
+Beat   9275  1
+Beat   9415  0
+Beat   9590  2
+Beat   9730  0
+Beat   9905  1
+Beat  10045  0
+Beat  10185  4
+Beat  10325  0
+Beat  10500  1
+Beat  10640  0
+Beat  10815  2
+Beat  10955  0
+Beat  11095  1
+Beat  11235  0
+Beat  11410  3
+Beat  11550  0
+Beat  11690  1
+Beat  11830  0
+Beat  12005  2
+Beat  12145  0
+Beat  12285  1
+Beat  12425  0
+Beat  12600  4
+Beat  12740  0
+Beat  12880  1
+Beat  13020  0
+Beat  13195  2
+Beat  13335  0
+Beat  13475  1
+Beat  13615  0
+Beat  13790  3
+Note      0    595  67
+Note    595   1190  72
+Note   1190   1505  71
+Note   1505   1785  69
+Note   1785   2100  67
+Note   2100   2415  67
+Note   2415   3010  72
+Note   3010   3290  67
+Note   3290   3605  64
+Note   3605   3885  65
+Note   3885   4200  67
+Note   4200   4795  64
+|
+Note   4795   5110  65
+Note   5110   5390  62
+Note   5390   5985  64
+Note   5985   6300  65
+Note   6300   6615  62
+Note   6615   7210  64
+Note   7210   7805  62
+Note   7805   8400  60
+|
+Note   9590   9905  72
+Note   9905  10185  72
+Note  10185  10500  71
+Note  10500  10815  74
+Note  10815  11095  72
+Note  11095  11410  69
+Note  11410  12005  71
+Note  12005  12600  69
+Note  12600  13790  67

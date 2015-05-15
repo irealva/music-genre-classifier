@@ -1,0 +1,96 @@
+echo ../kfiles/wtc/I.1
+../key/key ../kfiles/wtc/I.1 
+echo ../kfiles/wtc/I.2
+../key/key -p ../key/params-4 ../kfiles/wtc/I.2 
+echo ../kfiles/wtc/I.3
+../key/key ../kfiles/wtc/I.3 
+echo ../kfiles/wtc/I.4
+../key/key ../kfiles/wtc/I.4 
+echo ../kfiles/wtc/I.5
+../key/key -p ../key/params-4 ../kfiles/wtc/I.5 
+echo ../kfiles/wtc/I.6
+../key/key ../kfiles/wtc/I.6 
+echo ../kfiles/wtc/I.7
+../key/key ../kfiles/wtc/I.7 
+echo ../kfiles/wtc/I.8
+../key/key ../kfiles/wtc/I.8 
+echo ../kfiles/wtc/I.9
+../key/key ../kfiles/wtc/I.9 
+echo ../kfiles/wtc/I.10
+../key/key ../kfiles/wtc/I.10 
+echo ../kfiles/wtc/I.11
+../key/key -p ../key/params-2 ../kfiles/wtc/I.11 
+echo ../kfiles/wtc/I.12
+../key/key -p ../key/params-2 ../kfiles/wtc/I.12 
+echo ../kfiles/wtc/I.13
+../key/key -p ../key/params-4 ../kfiles/wtc/I.13 
+echo ../kfiles/wtc/I.14
+../key/key ../kfiles/wtc/I.14 
+echo ../kfiles/wtc/I.15
+../key/key ../kfiles/wtc/I.15 
+echo ../kfiles/wtc/I.16
+../key/key ../kfiles/wtc/I.16 
+echo ../kfiles/wtc/I.17
+../key/key ../kfiles/wtc/I.17 
+echo ../kfiles/wtc/I.18
+../key/key -p ../key/params-4 ../kfiles/wtc/I.18 
+echo ../kfiles/wtc/I.19
+../key/key ../kfiles/wtc/I.19 
+echo ../kfiles/wtc/I.20
+../key/key -p ../key/params-4 ../kfiles/wtc/I.20 
+echo ../kfiles/wtc/I.21
+../key/key ../kfiles/wtc/I.21 
+echo ../kfiles/wtc/I.22
+../key/key ../kfiles/wtc/I.22 
+echo ../kfiles/wtc/I.23
+../key/key ../kfiles/wtc/I.23 
+echo ../kfiles/wtc/I.24
+../key/key ../kfiles/wtc/I.24 
+echo ../kfiles/wtc/II.1
+../key/key ../kfiles/wtc/II.1 
+echo ../kfiles/wtc/II.2
+../key/key -p ../key/params-4 ../kfiles/wtc/II.2 
+echo ../kfiles/wtc/II.3
+../key/key -p ../key/params-4 ../kfiles/wtc/II.3 
+echo ../kfiles/wtc/II.4
+../key/key ../kfiles/wtc/II.4 
+echo ../kfiles/wtc/II.5
+../key/key ../kfiles/wtc/II.5 
+echo ../kfiles/wtc/II.6
+../key/key ../kfiles/wtc/II.6 
+echo ../kfiles/wtc/II.7
+../key/key ../kfiles/wtc/II.7 
+echo ../kfiles/wtc/II.8
+../key/key ../kfiles/wtc/II.8 
+echo ../kfiles/wtc/II.9
+../key/key -p ../key/params-2 ../kfiles/wtc/II.9 
+echo ../kfiles/wtc/II.10
+../key/key -p ../key/params-4 ../kfiles/wtc/II.10 
+echo ../kfiles/wtc/II.11
+../key/key ../kfiles/wtc/II.11 
+echo ../kfiles/wtc/II.12
+../key/key ../kfiles/wtc/II.12 
+echo ../kfiles/wtc/II.13
+../key/key ../kfiles/wtc/II.13 
+echo ../kfiles/wtc/II.14
+../key/key ../kfiles/wtc/II.14 
+echo ../kfiles/wtc/II.15
+../key/key ../kfiles/wtc/II.15 
+echo ../kfiles/wtc/II.16
+../key/key ../kfiles/wtc/II.16 
+echo ../kfiles/wtc/II.17
+../key/key -p ../key/params-4 ../kfiles/wtc/II.17 
+echo ../kfiles/wtc/II.18
+../key/key ../kfiles/wtc/II.18 
+echo ../kfiles/wtc/II.19
+../key/key ../kfiles/wtc/II.19 
+echo ../kfiles/wtc/II.20
+../key/key -p ../key/params-4 ../kfiles/wtc/II.20 
+echo ../kfiles/wtc/II.21
+../key/key ../kfiles/wtc/II.21 
+echo ../kfiles/wtc/II.22
+../key/key ../kfiles/wtc/II.22 
+echo ../kfiles/wtc/II.23
+../key/key ../kfiles/wtc/II.23 
+echo ../kfiles/wtc/II.24
+../key/key -p ../key/params-2 ../kfiles/wtc/II.24 

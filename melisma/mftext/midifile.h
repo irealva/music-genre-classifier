@@ -34,7 +34,6 @@ unsigned long mf_sec2ticks();
 void mfwrite();
 
 int davypitch[100];
-
 struct {
   int ontime;
   int offtime;

@@ -1,0 +1,8 @@
+verbosity = 0
+mode = 0
+optimal_length = 10.0
+length_weight = 600
+gap_weight = 500
+phase_3_penalty = 300
+phase_4_penalty = 150
+mark_first_phrase = 0

@@ -1,0 +1,76 @@
+Beat      0  2
+Beat    105  0
+Beat    245  1
+Beat    385  0
+Beat    525  3
+Beat    665  0
+Beat    805  1
+Beat    945  0
+Beat   1085  2
+Beat   1190  0
+Beat   1330  1
+Beat   1470  0
+Beat   1610  4
+Beat   1750  0
+Beat   1890  1
+Beat   2030  0
+Beat   2170  2
+Beat   2275  0
+Beat   2415  1
+Beat   2555  0
+Beat   2695  3
+Beat   2800  0
+Beat   2940  1
+Beat   3045  0
+Beat   3185  2
+Beat   3290  0
+Beat   3430  1
+Beat   3570  0
+Beat   3710  4
+Beat   3850  0
+Beat   3990  1
+Beat   4130  0
+Beat   4270  2
+Beat   4410  0
+Beat   4550  1
+Beat   4690  0
+Beat   4830  3
+Beat   4935  0
+Beat   5075  1
+Beat   5215  0
+Beat   5355  2
+Beat   5495  0
+Beat   5635  1
+Beat   5740  0
+Beat   5880  4
+Beat   6020  0
+Beat   6160  1
+Beat   6300  0
+Beat   6440  2
+Beat   6545  0
+Beat   6685  1
+Beat   6825  0
+Beat   6965  3
+Chord      0    525  0
+Chord    525   1085 -1
+Chord   1085   1610 -1
+Chord   1610   2695 -1
+Chord   2695   3710 -1
+Chord   3710   4270  0
+Chord   4270   4550  0
+Chord   4550   4830  0
+Chord   4830   5355  2
+Chord   5355   5635  0
+Chord   5635   5880  0
+Chord   5880   6965  0
+TPCNote      0    525  62   4
+TPCNote    525   1085  63  -1
+TPCNote   1085   1610  55   3
+TPCNote   1610   2695  54  8
+TPCNote   2695   3745  55   3
+TPCNote   4270   4550  57   5
+TPCNote   4550   4830  58   0
+TPCNote   4830   5355  60   2
+TPCNote   5355   5635  58   0
+TPCNote   5635   5880  57   5
+TPCNote   5880   6965  58   0

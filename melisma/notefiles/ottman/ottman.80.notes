@@ -1,0 +1,33 @@
+Meta Text, type=0x03 (Sequence/Track Name)  leng=11
+     Text = <Grand Piano>
+Program, chan=1 program=0
+Note-on 0 63
+Note-off 1250 63
+Note-on 1250 65
+Note-off 2500 65
+Note-on 2500 67
+Note-off 2812 67
+Note-on 2812 63
+Note-off 3125 63
+Note-on 3125 75
+Note-off 4375 75
+Note-on 4375 74
+Note-off 5000 74
+Note-on 5000 75
+Note-off 5312 75
+Note-on 5312 74
+Note-off 5625 74
+Note-on 5625 72
+Note-off 5937 72
+Note-on 5937 70
+Note-off 6250 70
+Note-on 6250 68
+Note-off 6875 68
+Note-on 6875 68
+Note-off 7500 68
+Note-on 7500 67
+Note-off 8125 67
+Note-on 8125 67
+Note-off 8750 67
+Note-on 8750 65
+Note-off 10000 65

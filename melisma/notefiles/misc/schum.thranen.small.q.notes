@@ -1,0 +1,15 @@
+% This file contains just the first four eighth-note beats of Schumann's "Thranen"
+% You need to set highest_level = 3 in order to run this file
+Note 2250 3000 73
+Note 2250 3750 69
+Note 2250 3000 73
+Note 2250 3750 69
+Note 3000 3750 73
+Note 3750 4500 69
+Note 3750 4125 73
+Note 3750 4500 68
+Note 4125 4500 73
+Note 4500 5250 73
+Note 4500 5250 69
+Note 4500 5250 73
+Note 4500 5250 66

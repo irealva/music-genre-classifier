@@ -1,0 +1,97 @@
+Beat 0 4
+Beat 125 0
+Beat 250 1
+Beat 375 0
+Beat 500 2
+Beat 625 0
+Beat 750 1
+Beat 875 0
+Beat 1000 3
+Beat 1125 0
+Beat 1250 1
+Beat 1375 0
+Beat 1500 2
+Beat 1625 0
+Beat 1750 1
+Beat 1875 0
+Beat 2000 4
+Beat 2125 0
+Beat 2250 1
+Beat 2375 0
+Beat 2500 2
+Beat 2625 0
+Beat 2750 1
+Beat 2875 0
+Beat 3000 3
+Beat 3125 0
+Beat 3250 1
+Beat 3375 0
+Beat 3500 2
+Beat 3625 0
+Beat 3750 1
+Beat 3875 0
+Beat 4000 4
+Beat 4125 0
+Beat 4250 1
+Beat 4375 0
+Beat 4500 2
+Beat 4625 0
+Beat 4750 1
+Beat 4875 0
+Beat 5000 3
+Beat 5125 0
+Beat 5250 1
+Beat 5375 0
+Beat 5500 2
+Beat 5625 0
+Beat 5750 1
+Beat 5875 0
+Beat 6000 4
+Beat 6125 0
+Beat 6250 1
+Beat 6375 0
+Beat 6500 2
+Beat 6625 0
+Beat 6750 1
+Beat 6875 0
+Beat 7000 3
+Beat 7125 0
+Beat 7250 1
+Beat 7375 0
+Beat 7500 2
+Beat 7625 0
+Beat 7750 1
+Beat 7875 0
+Beat 8000 4
+
+
+Note 0 250 62
+Note 0 250 66
+Note 500 750 64
+Note 500 750 67
+Note 1000 1250 62
+Note 1000 1250 66
+Note 1500 1750 64
+Note 1500 1750 57
+Note 2000 2500 54
+Note 2000 2500 62
+Note 2000 2250 38
+Note 2500 2750 42
+Note 3000 3250 45
+Note 3500 3750 50
+
+Note 4000 4500 45
+Note 4000 4250 64
+Note 4000 4250 67
+Note 4500 4750 66
+Note 4500 4750 69
+Note 5000 5250 64
+Note 5000 5250 67
+Note 5500 5750 62
+Note 5500 5750 66
+Note 6000 6500 57
+Note 6000 6500 64
+Note 6000 6250 45
+Note 6500 6750 57
+Note 7000 7250 55
+Note 7500 7750 52

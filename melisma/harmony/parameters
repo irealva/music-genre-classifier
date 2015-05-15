@@ -1,4 +1,4 @@
-verbosity=0
+verbosity=2
 pruning_cutoff = 10.0
 compat_values = -5.0 -5.0 -10.0 1.0 -3.0 -10.0 5.0 3.0 -10.0 -10.0 2.0 -10.0
 tpc_var_factor = 0.3

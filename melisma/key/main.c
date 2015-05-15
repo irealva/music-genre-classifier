@@ -10,6 +10,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "key.h"
+#include "stdlib.h"
 
 bad_param(char * line) {
   char * x;
@@ -29,7 +30,7 @@ read_parameter_file(char *filename, int file_specified) {
       param_stream = fopen(filename, "r");
       if (param_stream == NULL) {
 	  printf("Warning: cannot open \"%s\".  Using defaults.\n", filename);
-	  return;
+	  return 0;
       }
   }
   else {
@@ -37,7 +38,7 @@ read_parameter_file(char *filename, int file_specified) {
       param_stream = fopen(filename, "r");
       if(param_stream == NULL) filename = "key/parameters";
       param_stream = fopen(filename, "r");
-      if(param_stream == NULL) return;
+      if(param_stream == NULL) return 0;
   }
 
 

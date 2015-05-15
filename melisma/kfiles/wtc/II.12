@@ -1,0 +1,85 @@
+Beat      0  1
+Beat    175  0
+Beat    385  4
+Beat    595  0
+Beat    805  1
+Beat    980  0
+Beat   1190  2
+Beat   1365  0
+Beat   1575  1
+Beat   1785  0
+Beat   1960  3
+Beat   2170  0
+Beat   2380  1
+Beat   2555  0
+Beat   2765  2
+Beat   2975  0
+Beat   3150  1
+Beat   3360  0
+Beat   3535  4
+Beat   3745  0
+Beat   3955  1
+Beat   4130  0
+Beat   4340  2
+Beat   4550  0
+Beat   4725  1
+Beat   4935  0
+Beat   5145  3
+Beat   5320  0
+Beat   5530  1
+Beat   5740  0
+Beat   5915  2
+Beat   6125  0
+Beat   6300  1
+Chord      0    385  1
+Chord    385    805  1
+Chord    805   1190  1
+Chord   1190   1575  0
+Chord   1575   1785  0
+Chord   1785   1960  0
+Chord   1960   2380  2
+Chord   2380   2765  2
+Chord   2765   2975  2
+Chord   2975   3150  2
+Chord   3150   3360  2
+Chord   3360   3535  2
+Chord   3535   3745  3
+Chord   3745   3955  3
+Chord   3955   4130  3
+Chord   4130   4340  3
+Chord   4340   4550  2
+Chord   4550   4725  2
+Chord   4725   4935  2
+Chord   4935   5145  2
+Chord   5145   5320  3
+Chord   5320   5530  3
+Chord   5530   5740  3
+Chord   5740   5915  3
+Chord   5915   6125  3
+Chord   6125   6300  3
+TPCNote      0    385  72   2
+TPCNote    385    805  65   1
+TPCNote    805   1190  65   1
+TPCNote   1190   1575  65   1
+TPCNote   1575   1785  73  -3
+TPCNote   1785   1960  70   0
+TPCNote   1960   2380  64   6
+TPCNote   2380   2765  64   6
+TPCNote   2765   2975  64   6
+TPCNote   2975   3150  65   1
+TPCNote   3150   3360  67   3
+TPCNote   3360   3535  68  -2
+TPCNote   3535   3745  70   0
+TPCNote   3745   3955  68  -2
+TPCNote   3955   4130  67   3
+TPCNote   4130   4340  68  -2
+TPCNote   4340   4550  70   0
+TPCNote   4550   4725  73  -3
+TPCNote   4725   4935  72   2
+TPCNote   4935   5145  70   0
+TPCNote   5145   5320  68  -2
+TPCNote   5320   5530  67   3
+TPCNote   5530   5740  65   1
+TPCNote   5740   5915  67   3
+TPCNote   5915   6125  68  -2
+TPCNote   6125   6300  70   0

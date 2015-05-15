@@ -1,0 +1,120 @@
+Beat      0  2
+Beat    140  0
+Beat    315  1
+Beat    455  0
+Beat    630  2
+Beat    770  0
+Beat    945  1
+Beat   1085  0
+Beat   1260  3
+Beat   1400  0
+Beat   1540  1
+Beat   1680  0
+Beat   1855  2
+Beat   1995  0
+Beat   2135  1
+Beat   2275  0
+Beat   2450  2
+Beat   2590  0
+Beat   2765  1
+Beat   2905  0
+Beat   3080  4
+Beat   3220  0
+Beat   3395  1
+Beat   3570  0
+Beat   3745  2
+Beat   3885  0
+Beat   4060  1
+Beat   4200  0
+Beat   4375  2
+Beat   4515  0
+Beat   4690  1
+Beat   4830  0
+Beat   5005  3
+Beat   5145  0
+Beat   5320  1
+Beat   5460  0
+Beat   5635  2
+Beat   5775  0
+Beat   5950  1
+Beat   6090  0
+Beat   6265  2
+Beat   6405  0
+Beat   6545  1
+Beat   6685  0
+Beat   6860  4
+Beat   7000  0
+Beat   7175  1
+Beat   7315  0
+Beat   7490  2
+Beat   7630  0
+Beat   7805  1
+Beat   7945  0
+Beat   8120  2
+Beat   8260  0
+Beat   8435  1
+Beat   8575  0
+Beat   8750  3
+Beat   8890  0
+Beat   9065  1
+Beat   9205  0
+Beat   9380  2
+Beat   9520  0
+Beat   9695  1
+Beat   9835  0
+Beat  10010  2
+Beat  10150  0
+Beat  10325  1
+Beat  10465  0
+Beat  10640  4
+Beat  10780  0
+Beat  10955  1
+Beat  11095  0
+Beat  11270  2
+Beat  11410  0
+Beat  11585  1
+Beat  11725  0
+Beat  11900  2
+Beat  12040  0
+Beat  12180  1
+Beat  12320  0
+Beat  12495  3
+Chord      0    630  4
+Chord    630   1260  6
+Chord   1260   3080  5
+Chord   3080   3745  5
+Chord   3745   4060 12
+Chord   4060   4375 12
+Chord   4375   5005  7
+Chord   5005   5635  7
+Chord   5635   5950  8
+Chord   5950   6265  8
+Chord   6265   6545  8
+Chord   6545   6860  8
+Chord   6860   7805  8
+Chord   7805   8120  8
+Chord   8120   8435  8
+Chord   8435   8750  8
+Chord   8750   9065  7
+Chord   9065   9380  7
+Chord   9380  10010  9
+Chord  10010  10640  9
+Chord  10640  12495  8
+TPCNote      0    630  54   8
+TPCNote    630   1260  56  10
+TPCNote   1260   3745  57   5
+TPCNote   3745   4060  56  10
+TPCNote   4060   4375  58  12
+TPCNote   4375   5635  59   7
+TPCNote   5635   5950  58  12
+TPCNote   5950   6265  56  10
+TPCNote   6265   6545  58  12
+TPCNote   6545   6860  60  14
+TPCNote   6860   7805  61   9
+TPCNote   7805   8120  59   7
+TPCNote   8120   8435  57   5
+TPCNote   8435   8750  61   9
+TPCNote   8750   9065  59   7
+TPCNote   9065   9380  57   5
+TPCNote   9380  10640  56  10
+TPCNote  10640  12495  54   8

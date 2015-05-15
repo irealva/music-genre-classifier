@@ -21,7 +21,7 @@ change_penalty=12
 %BAYESIAN MODEL
 %major_profile = 0.748 0.060 0.488 0.082 0.670 0.460 0.096 0.715 0.104 0.366 0.057 0.400
 %minor_profile = 0.712 0.084 0.474 0.618 0.049 0.460 0.105 0.747 0.404 0.067 0.133 0.330
-%change_penalty = 0.04
+%change_penalty = 0.002
 
 
 

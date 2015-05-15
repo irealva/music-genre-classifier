@@ -1,0 +1,5 @@
+#!/usr/bin/csh
+
+../meter/meter $1 | ../harmony/harmony -p ../harmony/parameters
+
+

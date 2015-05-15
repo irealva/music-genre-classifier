@@ -1,0 +1,22 @@
+%The first two measures only
+
+Note-on 444 59
+Note-off 555 59
+Note-on 555 60
+Note-off 666 60
+Note-on 666 62
+Note-off 888 62
+Note-on 888 64
+Note-off 999 64
+Note-on 999 66
+Note-off 1111 66
+Note-on 1111 67
+Note-off 1333 67
+Note-on 1333 69
+Note-off 1444 69
+Note-on 1444 71
+Note-off 1555 71
+Note-on 1555 72
+Note-off 1777 72
+Note-on 1777 73
+Note-off 1999 73

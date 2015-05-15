@@ -1,0 +1,16 @@
+Note-on 0 60
+Note-off 500 60
+Note-on 500 60 
+Note-off 1000 60
+Note-on 1000 62
+Note-off 2000 62
+Note-on 1500 62
+Note-off 1600 62
+Note-on 2000 60
+Note-off 2500 60
+Note-on 2500 60
+Note-off 3000 60
+Note-on 3000 60
+Note-off 3500 60
+Note-on 3500 60
+Note-off 4000 60

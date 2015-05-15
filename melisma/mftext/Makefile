@@ -1,4 +1,4 @@
-CC      =gcc
+CC=gcc
 # CFLAGS  = -g -Wuninitialized -Wall -Wno-implicit -Wno-char-subscripts
 CFLAGS =
 

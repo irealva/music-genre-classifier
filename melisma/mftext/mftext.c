@@ -23,9 +23,7 @@ long tempo = 500000; /* the default tempo is 120 beats/minute */
 
 int filegetc()
 {
-    int x;
-    x = getc(F);
-	return(x);
+	return(getc(F));
 }
 
 int main(argc,argv)
@@ -88,8 +86,12 @@ char *mode;
 	const char *errmess;
 
 	if ( (f=fopen(name,mode)) == NULL ) {
- 		fprintf(stderr,"*** ERROR in mftext *** Cannot open '%s'!\n",name);
- 		perror("Reason");
+		(void) fprintf(stderr,"*** ERROR *** Cannot open '%s'!\n",name);
+		if ( errno <= sys_nerr )
+			errmess = sys_errlist[errno];
+		else
+			errmess = "Unknown error!";
+		(void) fprintf(stderr,"************* Reason: %s\n",errmess);
 		exit(1);
 	}
 	return(f);
