@@ -1,0 +1,53 @@
+Some comments on how the address files for the jen corpus were generated.
+
+beet.rondo - best performance from meter program is with chord_weight
+= 1.0, max_effective_length = 0.5, duple_bonus = 1.0 (prechords were
+added by hand). Regarding addresses, the triplets near the end are
+tricky: the first one is represented properly, but the second one
+can't be because it's a simultaneous 3:2.
+
+beet.son10-1.II - boost duple_bonus to 1.0
+
+beet.son10-3.II - weak 64th notes are below the lowest metrical level,
+and are represented as extrametrical.
+
+beet.son13.II - One erroneous note commented out in m. 1 of notefile.
+Program gets tactus level correct (eighth) naturally, unlike on
+quantized file.
+
+beet.son14-1.III - One erroneous note commented out in m. 4 of
+notefile. Reduce tactus range to (350, 700) to force right choice of
+tactus level.
+
+beet.son2-3.III - one hypermetrical level removed from nbfile.
+
+beet.son27-2.I - one note left out in notefile, F# in m. 8. Raised tactus_min
+to 600 to force correct level. Sixteenth notes in melody are represented on
+level 0 beats.
+
+chop.maz63-2 - several notes seem to be wrong or missing in notefile;
+see m. 15 for example. One HM level removed from nbfile.
+
+chop.maz67-2 - the performer really seems to play the grace-note ->
+eighth figures more like two sixteenths, starting on the beat. They are
+encoded as notated, though.
+
+chop.noc27-1 - note commented out of notefile in m. 51. Several notes
+missing, e.g. in m. 50. In nafile, sixteenth-notes are assigned to
+lowest-level beats.
+	In fifth measure of excerpt, the C# in the bass is present in
+notefile but only has a duration of 29 ms. This means it is dropped by
+the meter program and does not register in the nbfile (though it does
+show up on the meter program's graphic display). This note was
+restored to the correct ANote file.
+
+haydn.son30.I - trills are problematic; I just let the notes fall where
+they may in terms of beats.
+
+mzt.pc488.II - note commented out of m. 11 of notefile.
+
+mzt.son330.II - note missing in m. 21. Set tactus range at (800,
+1200), width at 1.5, to force correct tactus.
+
+schub.bfson.I - note commented out of m. 154 in notefile, also one in m. 
+166.

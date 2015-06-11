@@ -1,0 +1,132 @@
+#!/usr/bin/csh
+
+echo ../nbfiles/essen/child05.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/child05.nb 
+echo ../nbfiles/essen/child53.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/child53.nb 
+echo ../nbfiles/essen/czech01.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/czech01.nb 
+echo ../nbfiles/essen/czech10.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/czech10.nb 
+echo ../nbfiles/essen/czech13.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/czech13.nb 
+echo ../nbfiles/essen/czech35.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/czech35.nb 
+echo ../nbfiles/essen/danmark3.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/danmark3.nb 
+echo ../nbfiles/essen/danmark6.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/danmark6.nb 
+echo ../nbfiles/essen/danmark7.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/danmark7.nb 
+echo ../nbfiles/essen/danmark9.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/danmark9.nb 
+echo ../nbfiles/essen/deut0206.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/deut0206.nb 
+echo ../nbfiles/essen/deut0214.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/deut0214.nb 
+echo ../nbfiles/essen/deut0717.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/deut0717.nb 
+echo ../nbfiles/essen/deut1334.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/deut1334.nb 
+echo ../nbfiles/essen/elsass01.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/elsass01.nb 
+echo ../nbfiles/essen/elsass45.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/elsass45.nb 
+echo ../nbfiles/essen/elsass54.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/elsass54.nb 
+echo ../nbfiles/essen/elsass71.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/elsass71.nb 
+echo ../nbfiles/essen/france01.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/france01.nb 
+echo ../nbfiles/essen/france03.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/france03.nb 
+echo ../nbfiles/essen/france08.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/france08.nb 
+echo ../nbfiles/essen/france13.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/france13.nb 
+echo ../nbfiles/essen/italia02.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/italia02.nb 
+echo ../nbfiles/essen/italia04.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/italia04.nb 
+echo ../nbfiles/essen/italia08.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/italia08.nb 
+echo ../nbfiles/essen/jugos003.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/jugos003.nb 
+echo ../nbfiles/essen/jugos051.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/jugos051.nb 
+echo ../nbfiles/essen/jugos117.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/jugos117.nb 
+echo ../nbfiles/essen/lothr017.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/lothr017.nb 
+echo ../nbfiles/essen/lothr043.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/lothr043.nb 
+echo ../nbfiles/essen/luxemb03.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/luxemb03.nb 
+echo ../nbfiles/essen/luxemb04.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/luxemb04.nb 
+echo ../nbfiles/essen/magyar21.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/magyar21.nb 
+echo ../nbfiles/essen/magyar26.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/magyar26.nb 
+echo ../nbfiles/essen/magyar29.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/magyar29.nb 
+echo ../nbfiles/essen/neder040.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/neder040.nb 
+echo ../nbfiles/essen/oestr035.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/oestr035.nb 
+echo ../nbfiles/essen/oestr081.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/oestr081.nb 
+echo ../nbfiles/essen/oestr102.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/oestr102.nb 
+echo ../nbfiles/essen/polska01.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/polska01.nb 
+echo ../nbfiles/essen/polska11.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/polska11.nb 
+echo ../nbfiles/essen/polska22.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/polska22.nb 
+echo ../nbfiles/essen/romani01.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/romani01.nb 
+echo ../nbfiles/essen/romani09.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/romani09.nb 
+echo ../nbfiles/essen/romani13.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/romani13.nb 
+echo ../nbfiles/essen/romani22.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/romani22.nb 
+echo ../nbfiles/essen/suisse28.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/suisse28.nb 
+echo ../nbfiles/essen/suisse35.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/suisse35.nb 
+echo ../nbfiles/essen/suisse57.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/suisse57.nb 
+echo ../nbfiles/essen/suisse67.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/suisse67.nb 
+echo ../nbfiles/essen/sverig01.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/sverig01.nb 
+echo ../nbfiles/essen/sverig06.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/sverig06.nb 
+echo ../nbfiles/essen/sverig07.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/sverig07.nb 
+echo ../nbfiles/essen/sverig09.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/sverig09.nb 
+echo ../nbfiles/essen/tirol03.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/tirol03.nb 
+echo ../nbfiles/essen/tirol06.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/tirol06.nb 
+echo ../nbfiles/essen/tirol12.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/tirol12.nb 
+echo ../nbfiles/essen/tirol14.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/tirol14.nb 
+echo ../nbfiles/essen/ukrain06.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ukrain06.nb 
+echo ../nbfiles/essen/ukrain11.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ukrain11.nb 
+echo ../nbfiles/essen/ukrain12.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ukrain12.nb 
+echo ../nbfiles/essen/ussr21.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ussr21.nb 
+echo ../nbfiles/essen/ussr25.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ussr25.nb 
+echo ../nbfiles/essen/ussr26.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ussr26.nb 
+echo ../nbfiles/essen/ussr36.nb 
+../grouper2/grouper -p ../grouper2/parameters ../nbfiles/essen/ussr36.nb 

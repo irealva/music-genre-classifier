@@ -1,0 +1,92 @@
+echo ../kfiles/kp/bach.annamin.q.k
+../key/key ../kfiles/kp/bach.annamin.q.k
+echo ../kfiles/kp/bach.kindlein.q.k
+../key/key ../kfiles/kp/bach.kindlein.q.k
+echo ../kfiles/kp/bach.jesu.q.k
+../key/key ../kfiles/kp/bach.jesu.q.k
+echo ../kfiles/kp/beet.rondo.q.k 
+../key/key -p ../key/params-4 ../kfiles/kp/beet.rondo.q.k 
+echo ../kfiles/kp/beet.son10-1.II.q.k 
+../key/key -p ../key/params-2 ../kfiles/kp/beet.son10-1.II.q.k 
+echo ../kfiles/kp/beet.son10-3.II.q.k
+../key/key ../kfiles/kp/beet.son10-3.II.q.k
+echo ../kfiles/kp/beet.son13.II.q.k
+../key/key ../kfiles/kp/beet.son13.II.q.k
+echo ../kfiles/kp/beet.son14-1.III.q.k
+../key/key ../kfiles/kp/beet.son14-1.III.q.k
+echo ../kfiles/kp/beet.son2-3.III.q.k
+../key/key -p ../key/params-2 ../kfiles/kp/beet.son2-3.III.q.k 
+echo ../kfiles/kp/beet.son27-2.I.q.k
+../key/key ../kfiles/kp/beet.son27-2.I.q.k
+echo ../kfiles/kp/beet.sq135.III.q.k
+../key/key ../kfiles/kp/beet.sq135.III.q.k
+echo ../kfiles/kp/beet.strio.q.k
+../key/key ../kfiles/kp/beet.strio.q.k
+echo ../kfiles/kp/brahms.undgehst.q.k
+../key/key ../kfiles/kp/brahms.undgehst.q.k
+echo ../kfiles/kp/campbell.barb.q.k
+../key/key ../kfiles/kp/campbell.barb.q.k
+echo ../kfiles/kp/chop.maz62-2.q.k
+../key/key ../kfiles/kp/chop.maz62-2.q.k
+echo ../kfiles/kp/chop.maz63-2.q.k
+../key/key ../kfiles/kp/chop.maz63-2.q.k
+echo ../kfiles/kp/chop.noc27-1.q.k
+../key/key ../kfiles/kp/chop.noc27-1.q.k
+echo ../kfiles/kp/grieg.mountain.q.k
+../key/key -p ../key/params-2 ../kfiles/kp/grieg.mountain.q.k 
+echo ../kfiles/kp/haydn.son22.III.q.k
+../key/key ../kfiles/kp/haydn.son22.III.q.k
+echo ../kfiles/kp/haydn.son30.I.q.k
+../key/key ../kfiles/kp/haydn.son30.I.q.k
+echo ../kfiles/kp/haydn.sq20-4.I.q.k
+../key/key ../kfiles/kp/haydn.sq20-4.I.q.k
+echo ../kfiles/kp/haydn.sq50-6.II.q.k
+../key/key ../kfiles/kp/haydn.sq50-6.II.q.k
+echo ../kfiles/kp/haydn.sq74-3.II.q.k
+../key/key ../kfiles/kp/haydn.sq74-3.II.q.k
+echo ../kfiles/kp/haydn.sq76-6.II.q.k
+../key/key ../kfiles/kp/haydn.sq76-6.II.q.k
+echo ../kfiles/kp/mzt.bsnconc.q.k
+../key/key ../kfiles/kp/mzt.bsnconc.q.k
+echo ../kfiles/kp/mzt.ekn.II.q.k
+../key/key ../kfiles/kp/mzt.ekn.II.q.k
+echo ../kfiles/kp/mzt.pc488.II.q.k
+../key/key ../kfiles/kp/mzt.pc488.II.q.k
+echo ../kfiles/kp/mzt.son330.II.q.k
+../key/key ../kfiles/kp/mzt.son330.II.q.k
+echo ../kfiles/kp/mzt.son333.III.q.k
+../key/key ../kfiles/kp/mzt.son333.III.q.k
+echo ../kfiles/kp/mzt.trio.I.q.k
+../key/key ../kfiles/kp/mzt.trio.I.q.k
+echo ../kfiles/kp/mzt.voiche.q.k
+../key/key -p ../key/params-4 ../kfiles/kp/mzt.voiche.q.k 
+echo ../kfiles/kp/schub.bfson.I.q.k
+../key/key ../kfiles/kp/schub.bfson.I.q.k
+echo ../kfiles/kp/schub.erlkonig.I.q.k
+../key/key ../kfiles/kp/schub.erlkonig.I.q.k
+echo ../kfiles/kp/schub.erlkonig.II.q.k
+../key/key ../kfiles/kp/schub.erlkonig.II.q.k
+echo ../kfiles/kp/schub.flusse.q.k
+../key/key ../kfiles/kp/schub.flusse.q.k
+echo ../kfiles/kp/schub.imp1.q.k
+../key/key ../kfiles/kp/schub.imp1.q.k
+echo ../kfiles/kp/schub.strio.q.k
+../key/key -p ../key/params-4 ../kfiles/kp/schub.strio.q.k 
+echo ../kfiles/kp/schub.tanze.q.k
+../key/key ../kfiles/kp/schub.tanze.q.k
+echo ../kfiles/kp/schum.grenadiere.q.k
+../key/key ../kfiles/kp/schum.grenadiere.q.k
+echo ../kfiles/kp/schum.sehnsucht.q.k
+../key/key -p ../key/params-4 ../kfiles/kp/schum.sehnsucht.q.k 
+echo ../kfiles/kp/schum.thranen.q.k 
+../key/key -p ../key/params-2 ../kfiles/kp/schum.thranen.q.k 
+echo ../kfiles/kp/schum.tragodie.q.k
+../key/key -p ../key/params-2 ../kfiles/kp/schum.tragodie.q.k 
+echo ../kfiles/kp/schum.wennich.q.k
+../key/key ../kfiles/kp/schum.wennich.q.k
+echo ../kfiles/kp/tchaik.morning.q.k
+../key/key ../kfiles/kp/tchaik.morning.q.k
+echo ../kfiles/kp/tchaik.nurse.q.k
+../key/key ../kfiles/kp/tchaik.nurse.q.k
+echo ../kfiles/kp/tchaik.symph6.q.k
+../key/key -p ../key/params-4 ../kfiles/kp/tchaik.symph6.q.k 

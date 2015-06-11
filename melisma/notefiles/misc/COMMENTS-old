@@ -1,0 +1,301 @@
+Here are comments about the notefiles contained in this directory.
+
+Each file contains a list of notes with an on-time, and off-time (both
+in milliseconds) and a pitch. These files can be used as input to the
+"met-harm" script (the combined meter and harmony programs). They can
+also be used as input to the "meter" program alone. They cannot be
+used as input to the other programs (the grouping, counterpoint,
+harmony and key programs), since that requires metrical information.
+
+The files are of two basic types: quantized files and performance files.
+Quantized files are those generated from a score, such as a Finale file. 
+In quantized files, all timepoints (ontimes and offtimes) are quantized to
+a large value such as 250 milliseconds. Performance files are generated
+from a live performance on a MIDI keyboard; in such cases, the timepoints are
+not quantized (except of course at the millisecond level).
+
+Each notesfile is listed below. We give the name and composer of the
+piece. If less the entire piece is included, we indicate what portion
+is included. Where we have examined the output of the program
+on a particular file, we give comments on the program's performance.
+
+Almost all of these notefiles (both quantized and performed) are
+generated from MIDI files. The MIDI files are available in the
+directory "midi". (This could be useful, for example, if one wanted to
+actually hear the file.) The name of the midi file is the same as the
+corresponding notesfile except ending in ".mid" instead of ".notes".
+
+The following MIDI files were generously provided by Pierre Schwab
+(through the Classical Midi Archive, www.prs.net): bach.bfmainv.mid,
+bach.bmiinv.mid, bach.cma-vcsuite.bour.mid, bach.cma-vcsuite.cour.mid,
+bach.cmiinv.mid, bach.fmainv.mid, bach.wtc.cmaprel.mid,
+bach.wtc.cmiprel.mid, beet.fmison.I.mid, beet.fmison.III.mid,
+beet.fmison.IV.mid, brahms.int117-1.mid, deb.lisle.mid,
+handel.harm-black.mid, joplin.ent.mid, mend.sww-bee.mid,
+mend.sww102-2.mid, mzt.sqK159.II.mid.
+
+* NOTESFILES *
+
+* Quantized files *
+
+bach.bfmainv.q.notes: Bach, Bb major Two-Part Invention.
+
+bach.bmiinv.q.notes: Bach, B minor Two-Part Invention.
+
+bach.cma-vcsuite.bour.q.notes: Bach, C major Unaccompanied Cello Suite,
+Bourree.
+
+bach.cma-vc.suite.cour.q.notes: Bach, C major Unaccompanied Cello Suite,
+Courante.  Meter: correct except level 4 is out of phase. Harmony:
+mm. 17-18, should be E-A, not A-D.  E in m. 54 is missed; so is C in
+m. 57. Several mistakes in following passage. Also several Ab's
+instead of G#.
+
+bach.cmainv.q.notes: Bach, C major Invention. Meter: Correct up to
+quarter-note level (level 3), then out-of-phase. Harmony: anticipations
+at cadences are missed, e.g. at end of m. 6.
+
+bach.cmiinv.q.notes: Bach, C minor Invention.
+
+bach.cmimin.q.notes: Bach, C minor English Suite, Minuet. Meter correct
+except level 4 out of phase. Harmony almost perfect. Mm. 19-20, should
+be Eb-Ab, not C-F.
+
+bach.emamin.q.notes: Bach, French Suite No. 6, Minuet. Meter: level 3 is
+duple, not triple. (Twopass system does not help.) Harmony: B# are
+missed in 12, causing incorrect harmony also.
+
+bach.fmainv.q.notes: Bach, F major Two-Part Invention. Meter - totally
+off. Tactus level is one eighth out of phase. After a weird
+triple-eighth section in middle, tactus gets in phase. (Twopass system
+helps a little, not much.) Some harmony problems also, no doubt partly
+due to meter.
+
+bach.gmagav.q.notes: Bach, French Suite No. 5, Gavotte. Meter exactly
+like notated score (possibly first level 3 beat should be strong).
+M. 12 should be A or F#, not D; mm. 17-18 should be G-C, not G-A-D-A.
+Anticipations are a problem, as in final cadence.
+
+bach.wtc.cmaprel.q.notes: Bach, Well-Tempered Clavier Book I, Prelude
+No. 1.  Meter totally wrong, tactus (eighth-note) level is one
+sixteenth out of phase. (It gives no priority to the lowest note of
+each chord; and the "maximum effective length" is set so that the
+first two notes of each measure are considered equal in length.)
+A number of spelling mistakes in diminished sevenths.
+
+bach.wtc.cmifug.q.notes: Bach, Well-Tempered Clavier Book I, Fugue No. 2,
+mm. 1-24. Meter correct. Harmony and spelling mostly correct.
+
+bach.wtc.cmiprel.q.notes: Bach, Well-Tempered Clavier Book I, Prelude No. 2.
+
+bartok.mikro.q.notes: Bartok, "Syncopation", from Book V of Mikrokosmos.
+An experiment to test the meter program's performance on metrically
+irregular music. Not very satisfactory: the program analyzes it with a
+perfectly regular meter. By boosting the note value relative to the
+beat penalty (e.g., note_factor=2, beat_interval_factor=1,
+meter_change_penalty=0), one can get a more satisfactory analysis
+where many of the accented events (chords, long notes) are aligned
+with beats. Probably one would need to incorporate parallelism to
+handle this properly.
+
+beet.cmison.q.notes: Beethoven, Sonata Op. 10 No. 1, I, mm. 1-22. Meter:
+correct up to tactus (measure level), then out of phase. (However,
+this becomes correct later in passage.) Shift to triples is handled
+well. (Sixteenth notes in beginning require an extra level...) Harmony
+good.
+
+beet.fmison.I.q.notes: Beethoven, Sonata Op. 2 No. 1, I, exposition.
+Meter: Several problems. Okay at beginning, except gets temporarily
+confused by fermata. After move to Ab major, level 1 goes triple, then
+tactus beat gets off. (It gets confused by syncopations.) At end, the
+left-hand chords seem stronger than right-hand melody notes. Harmony
+mostly not bad.
+
+beet.fmison.III.q.notes: Beethoven, Sonata Op. 2 No. 1, III.
+
+beet.fmison.IV.q.notes: Beethoven, Sonata Op. 2 No. 1, IV.
+
+beet.path.q.notes: Beethoven, Sonata Op. 13, II. Meter correct. A few
+harmonic problems, just like in unquantized version.
+
+brahms.int116-6.q.notes: Brahms, Intermezzo Op. 116 No. 6. Meter: level
+1 is duple, not triple. (It's not clear what the cue should be for
+this...)  Move to triplets handled well. Harmony good; E-C-A in mm. 13-14
+is odd, so is B in mm. 19-20. Spelling is
+almost perfect (in my opinion...though different from score in a few
+places). 
+
+brahms.in117-1.q.notes: Brahms, Intermezzo Op. 117 No. 1.
+
+chop.ammaz.q.notes: Chopin, Mazurka Op. 17 No. 4.
+
+deb.lisle.q.notes: Debussy, "L'Isle Joyeuse".
+
+handel.harm-black.q.notes: Handel, "Harmonious Blacksmith" theme.
+
+haydn.bmisq.q.notes: Haydn, Quartet Op. 64 #2, I. Demonstrates harmonic
+"garden-path" effect. If mm. 1-2 are given (as in
+haydn.bmisq.small.q.notes), it analyzes them with a root of D. If you
+give it mm. 1-4, however, it begins in B minor.  (Actually the first
+chord-span has a root of C#, but it quickly moves to F#-B. Also it's
+in the wrong cycle of the line of fifths, Db-Gb-Cb...)
+
+haydn.bmisq.small.q.notes: see haydn.bmisq.q.notes, above.
+
+joplin.ent.q.notes: Scott Joplin, "The Entertainer".
+
+kings.q.notes: "We Three Kings", melody only. Meter: level 3 out of phase.
+Harmony mostly good, A-G-A-D in mm. 7-8 is odd.
+
+mend.sww-bee.q.notes: Mendelssohn, Songs Without Words, "Bee's Wedding".
+
+mend.sww102-2.q.notes: Mendelssohn, Songs Without Words, Op. 102 No. 2.
+Meter correct, although treating 16th level as tactus is odd. Harmony
+and spelling: virtually perfect. A few G# half-diminished chords are
+treated as B's, a few E#'s are spelled as F's.
+
+mzt.309son.q.notes: Mozart, Sonata K. 309, I, mm. 1-7. Meter correct. Harmony
+and spelling: one strange Bb chord (and Db note) in m. 7, also F in m. 6
+should probably be D.
+
+mzt.amavnson.q.notes: Mozart, Violin Sonata K. 526, I. Demonstration of
+metric garden-path effect. Given mm. 1-3 (mzt.amavnson.small.q.notes),
+the program will analyze even-numbered tactus beats as strong. Given
+the whole opening section up to mm. 20, it analyzes odd-numbered ones
+strong, as in score. (For this to work, tactus_min has to be set a
+little higher - 450 mm - otherwise it finds bizarre duple analysis.)
+(Harmony in mzt.amavnson.q.notes.small is all screwed up...!)
+
+mzt.amavnson.small.q.notes: see mzt.amavnson.q.notes, above.
+
+mzt.clarq.I.q.notes: Mozart, Clarinet Quintet, I.
+
+mzt.sqK159.II.q.notes: Mozart, String Quartet K. 159, II.
+
+schub.mm6.q.notes: Schubert, Moment Musical No. 6. (Main section only,
+not trio.) Meter mostly correct, except level 4 out of phase. Triplets
+in middle section are missed. It gets fooled by syncopation in final
+phrase, tactus goes duple.  Harmonic problems: pedal chord in m. 15;
+German sixths in m. 17 ff.; a couple of Bbb chords at end are labeled
+Gb.
+
+schub.waltz.q.notes: Schubert, Bb Major Waltz. Meter correct except
+level 4 out of phase. A few appoggiatura chords are analyzed
+incorrectly; first beat of m.1 is labeled Bb instead of F.
+
+susannah.q.notes: "Oh Susannah", melody only. Meter correct except 
+level 4 out of phase. Harmony correct.
+
+yankee.q.notes: "Yankee Doodle", melody only. Meter correct; harmony
+correct, except maybe it should go to D at last beat of m. 1. (Compare
+with performance version, where harmony is all wrong.)
+
+* Performed files *
+
+bach.emamin.p.notes: Bach, French Suite in E major, Minuet. Meter
+correct up to quarter-note, then duple instead of triple. This screws
+up harmony in a few places, esp. mm. 11-14.
+
+bach.gmagav.p.notes: Bach, French Suite in G major, Gavotte,
+mm. 1-8. Meter correct; harmony correct except A instead of G in m. 5.
+
+bach.cmainv.p.notes: Bach, Two-Part Invention No. 1. Meter correct up to
+quarter-note (level 1), then out-of-phase. Harmonic problems: C
+instead of G at beginning of m. 2.
+
+battle.p.notes: "Battle Hymn of the Republic", unaccompanied melody.
+Meter: upper levels good. Lower levels switch between duple and triple.
+Second half is duple; sixteenth notes are sometimes labeled as eighths.
+A few small harmonic and spelling problems.
+
+beet.efmamin.p.notes: Beethoven, Sonata Op. 7, III. First section
+(mm. 1-24)mostly good. Meter mostly correct. Upper levels get confused
+in syncopated passages.  Harmonic and spelling problems - diminished
+sevenths often spelled wrong (e.g. G-B-Db-Fb spelled with an E), given
+wrong root as well. (Same problem in m. 11.)
+
+beet.gmason.p.notes: Beethoven, Op. 49 No. 2, I, Exposition. Meter:
+almost perfect.  Handles duple-triple switching well. Some notes
+missed in triplet passages.  Harmony mostly good. Some spelling
+problems, Eb instead of D# in opening section.
+
+beet.path.p.notes: Beethoven, Sonata Op. 13 ("Pathetique"), II, mm. 1-8.
+Meter perfect. Harmony: a couple of unwanted chord-changes on
+sixteenth-notes: fourth and eighth 16ths of m. 5 and sixth 16th of
+m. 7. 
+
+birthday.p.notes: Melody of "Happy Birthday". Meter perfect up to level 4.
+Harmony weird in places.
+
+birthday2.p.notes: Melody of "Happy Birthday", with a big fermata after
+third line. Now meter is screwed up, duple all the way through.
+
+chop.ammaz.p.notes: Chopin, Mazurka Op. 17 No. 4, first half. Meter:
+measure level is duple instead of triple. "Twopass" system fixes this
+to some extent - now it's largely in triple, but still goes duple in
+some sections. Harmony and spelling: not too bad, considering level of
+difficulty. The third measure of the main phrase is sometimes labeled
+as E instead of G.
+
+chop.fsmaprel.p.notes: Chopin, Prelude No. 13. Meter: mostly right. Has some
+problems distinguished extrametrical notes (rolled chords) from metrical ones.
+Harmony: analyzes whole piece in Gb, which is reasonable. Some spelling problems, 
+like Bbb instead of A.
+
+kings.p.notes: "We Three Kings" melody. Meter: perfect, except ritard
+in middle causes an extra tactus beat, which makes upper levels get out
+of phase. Harmony: harmonic rhythm seems somewhat too fast, too many
+chord changes on eighth notes.
+
+letitbe.p.notes: The Beatles, "Let it Be", improvised piano performance.
+Meter pretty good. Level 1 largely triple, probably due to syncopated
+notes in melody. Harmony almost perfect.
+
+mzt.amason.p.notes: Mozart, Sonata K. 331, I, mm. 1-18. Meter correct up
+to dotted-half level, then out-of-phase. Harmony: some problems, like
+A instead of F# in first half of m. 7.
+
+mzt.cmason.p.notes: Mozart, Sonata K. 545, I, mm. 1-12. Meter and harmony
+both perfect.
+
+mzt.fmason.p.notes: Mozart, Sonata K. 332, I, exposition. Meter
+problems: syncopated section near end causes upper levels to get out
+of phase until end.  Some notes missed in passagework sections
+(i.e. mm. 23 ff.), problems also with rolled chords. Sixteenths in
+left at end are analyzed as triplets. A number of small harmonic
+problems, like C instead of G in m. 11, B-A instead of C in m. 44: G#
+spelled as Ab in mm. 82 ff.
+
+ram.amigav.p.notes: Rameau, Gavotte, A minor. Meter: a lot of problems
+with the extrametrical notes, often the wrong notes are placed on
+the beat. Harmony mostly okay.
+
+ram.amigav.p.notes: Rameau, first variation from A minor gavotte.
+
+schum.kind1.p.notes: Schumann, "Kinderscenen", No. 1. Meter almost perfect;
+handles ritard at end of middle section well. (The last two notes are
+wrong...) Harmony good except for occasional eighth-note changes, like
+going to G on last eighth of m. 1. 
+
+schum.kind2.p.notes: Schumann, "Kinderscenen", No. 2. Meter: level 3
+out-of-phase.  "Twopass" system largely fixes this, except for a
+couple of brief moves to duple. A few sixteenth-note chords are
+analyzed as eighth-notes.  Spelling: some problems with Eb/D# and
+F/E#.
+
+schum.kind7.p.notes: Schumann, "Kinderscenen", No. 7. Meter: pretty
+screwed up. Gets confused by ritards, rolled chords, syncopations 
+(long chord on second beat in m. 1). Harmony and spelling mostly right.
+
+star.p.notes: "Star-Spangled Banner". Meter: Right up until fermata;
+then tactus gets off briefly (but then gets right again), level 1
+goes duple until end. Harmony: a few odd things like Bb instead of F
+in m. 4.
+
+susannah.p.notes: Melody, "Oh Susannah". Meter and harmony perfect.
+
+yankee.p.notes: Melody, "Yankee Doodle". Meter correct, except top level
+out of phase. Harmony wrong - entire melody analyzed in E minor
+instead of G major.
+
+

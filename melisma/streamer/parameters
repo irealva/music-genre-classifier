@@ -1,0 +1,12 @@
+verbosity = 1
+maximum_voices = 6
+maximum_grey_squares = 6
+maximum_with_collisions = 4
+pitch_proximity_penalty = 1
+blank_square_penalty = 20
+new_voice_penalty = 20
+collision_penalty = 20
+top_new_voice_penalty = 0
+top_blank_square_penalty = 0
+
+

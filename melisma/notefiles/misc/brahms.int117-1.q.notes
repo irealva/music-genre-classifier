@@ -1,0 +1,3315 @@
+Note-on 1078 70
+Time=912  Parameter, chan=1 c1=64 c2=72
+Time=928  Parameter, chan=1 c1=64 c2=127
+Note-off 1588 70
+Note-on 1817 75
+Note-on 1838 63
+Note-on 1864 39
+Time=1456  Parameter, chan=1 c1=64 c2=40
+Time=1472  Parameter, chan=1 c1=64 c2=0
+Time=1564  Parameter, chan=1 c1=64 c2=72
+Time=1580  Parameter, chan=1 c1=64 c2=127
+Note-off 2166 39
+Note-off 2369 75
+Note-on 2484 74
+Note-off 2546 63
+Note-off 2703 74
+Note-on 3057 75
+Note-on 3057 72
+Note-on 3057 55
+Note-on 3057 51
+Note-on 3057 63
+Time=2400  Parameter, chan=1 c1=64 c2=56
+Time=2416  Parameter, chan=1 c1=64 c2=0
+Time=2480  Parameter, chan=1 c1=64 c2=24
+Time=2496  Parameter, chan=1 c1=64 c2=88
+Time=2508  Parameter, chan=1 c1=64 c2=127
+Note-off 3296 72
+Note-off 3307 55
+Note-off 3328 51
+Note-off 3348 75
+Note-off 3354 63
+Note-on 3734 70
+Note-on 3734 75
+Note-on 3734 63
+Note-on 3750 51
+Note-on 3765 55
+Time=2960  Parameter, chan=1 c1=64 c2=104
+Time=2972  Parameter, chan=1 c1=64 c2=40
+Time=2988  Parameter, chan=1 c1=64 c2=0
+Time=3080  Parameter, chan=1 c1=64 c2=24
+Time=3096  Parameter, chan=1 c1=64 c2=104
+Time=3112  Parameter, chan=1 c1=64 c2=127
+Note-off 4343 55
+Note-off 4369 51
+Note-off 4427 75
+Note-off 4489 70
+Note-off 4765 63
+Time=3808  Parameter, chan=1 c1=64 c2=104
+Time=3824  Parameter, chan=1 c1=64 c2=40
+Note-on 4984 75
+Note-on 5000 68
+Note-on 5000 63
+Note-on 5000 39
+Time=3840  Parameter, chan=1 c1=64 c2=0
+Time=3888  Parameter, chan=1 c1=64 c2=88
+Time=3904  Parameter, chan=1 c1=64 c2=127
+Note-off 5135 39
+Note-off 5166 63
+Note-off 5171 68
+Note-off 5187 75
+Note-on 5286 67
+Note-off 5453 67
+Note-on 5609 75
+Note-on 5614 65
+Note-on 5656 55
+Note-on 5671 51
+Time=4368  Parameter, chan=1 c1=64 c2=72
+Time=4380  Parameter, chan=1 c1=64 c2=0
+Time=4476  Parameter, chan=1 c1=64 c2=56
+Time=4492  Parameter, chan=1 c1=64 c2=127
+Note-off 5901 65
+Note-off 6093 75
+Note-on 6218 63
+Note-off 6453 51
+Note-off 6458 63
+Note-off 6468 55
+Note-on 6838 75
+Note-on 6838 63
+Note-on 6843 67
+Note-on 6864 51
+Note-on 6875 55
+Time=5280  Parameter, chan=1 c1=64 c2=72
+Time=5296  Parameter, chan=1 c1=64 c2=24
+Time=5312  Parameter, chan=1 c1=64 c2=0
+Time=5392  Parameter, chan=1 c1=64 c2=72
+Time=5408  Parameter, chan=1 c1=64 c2=127
+Note-off 7166 67
+Note-off 7182 63
+Note-off 7182 51
+Note-off 7187 75
+Note-off 7192 55
+Note-on 7505 70
+Note-on 7505 75
+Note-on 7510 63
+Note-on 7541 51
+Note-on 7541 55
+Time=5916  Parameter, chan=1 c1=64 c2=104
+Time=5932  Parameter, chan=1 c1=64 c2=56
+Time=5948  Parameter, chan=1 c1=64 c2=0
+Time=6044  Parameter, chan=1 c1=64 c2=56
+Time=6060  Parameter, chan=1 c1=64 c2=127
+Note-off 8218 55
+Note-off 8270 51
+Note-off 8442 63
+Note-off 8463 70
+Note-off 8531 75
+Note-on 8791 75
+Note-on 8791 63
+Time=6752  Parameter, chan=1 c1=64 c2=72
+Note-on 8802 72
+Note-on 8817 31
+Time=6772  Parameter, chan=1 c1=64 c2=0
+Time=6832  Parameter, chan=1 c1=64 c2=56
+Time=6848  Parameter, chan=1 c1=64 c2=127
+Note-off 8947 31
+Note-off 8984 75
+Note-off 9052 72
+Note-on 9119 74
+Note-off 9187 63
+Note-off 9322 74
+Note-on 9432 75
+Note-on 9442 63
+Note-on 9489 51
+Note-on 9494 55
+Note-on 9500 43
+Time=7360  Parameter, chan=1 c1=64 c2=88
+Time=7372  Parameter, chan=1 c1=64 c2=40
+Time=7388  Parameter, chan=1 c1=64 c2=0
+Time=7468  Parameter, chan=1 c1=64 c2=24
+Time=7484  Parameter, chan=1 c1=64 c2=104
+Time=7500  Parameter, chan=1 c1=64 c2=127
+Note-off 9958 75
+Note-on 10052 74
+Note-off 10208 43
+Note-off 10208 63
+Note-off 10276 51
+Note-off 10281 55
+Note-off 10317 74
+Note-on 10666 75
+Note-on 10666 55
+Note-on 10666 43
+Note-on 10666 51
+Note-on 10666 72
+Note-on 10666 63
+Time=8228  Parameter, chan=1 c1=64 c2=88
+Time=8244  Parameter, chan=1 c1=64 c2=40
+Time=8260  Parameter, chan=1 c1=64 c2=0
+Time=8336  Parameter, chan=1 c1=64 c2=56
+Time=8352  Parameter, chan=1 c1=64 c2=127
+Note-off 10911 72
+Note-off 10937 55
+Note-off 10963 43
+Note-off 10968 51
+Note-off 11031 75
+Note-off 11093 63
+Note-on 11348 75
+Note-on 11348 70
+Note-on 11354 63
+Note-on 11359 43
+Note-on 11359 51
+Note-on 11369 55
+Time=8816  Parameter, chan=1 c1=64 c2=88
+Time=8832  Parameter, chan=1 c1=64 c2=56
+Time=8848  Parameter, chan=1 c1=64 c2=24
+Time=8864  Parameter, chan=1 c1=64 c2=0
+Time=8952  Parameter, chan=1 c1=64 c2=72
+Time=8972  Parameter, chan=1 c1=64 c2=127
+Note-off 12005 55
+Note-off 12031 43
+Note-off 12083 51
+Note-off 12114 75
+Note-off 12213 70
+Note-off 12427 63
+Note-on 12630 75
+Time=9700  Parameter, chan=1 c1=64 c2=40
+Note-on 12645 68
+Time=9712  Parameter, chan=1 c1=64 c2=0
+Note-on 12651 63
+Note-on 12661 34
+Time=9792  Parameter, chan=1 c1=64 c2=72
+Time=9808  Parameter, chan=1 c1=64 c2=127
+Note-off 12791 34
+Note-off 12848 68
+Note-off 12885 63
+Note-off 12895 75
+Note-on 12942 67
+Note-off 13119 67
+Note-on 13286 75
+Note-on 13286 55
+Note-on 13286 46
+Note-on 13286 70
+Time=10336  Parameter, chan=1 c1=64 c2=104
+Time=10352  Parameter, chan=1 c1=64 c2=24
+Time=10368  Parameter, chan=1 c1=64 c2=0
+Time=10476  Parameter, chan=1 c1=64 c2=72
+Time=10488  Parameter, chan=1 c1=64 c2=127
+Note-off 13817 75
+Note-on 13890 63
+Note-off 13958 70
+Note-off 14041 55
+Note-off 14067 63
+Note-off 14078 46
+Note-on 14354 67
+Note-off 14463 67
+Note-on 14526 65
+Note-on 14536 74
+Note-on 14536 56
+Note-on 14546 46
+Time=11204  Parameter, chan=1 c1=64 c2=72
+Time=11216  Parameter, chan=1 c1=64 c2=0
+Time=11324  Parameter, chan=1 c1=64 c2=88
+Time=11340  Parameter, chan=1 c1=64 c2=127
+Note-off 14770 65
+Note-off 14916 74
+Note-off 14932 46
+Note-off 14953 56
+Note-on 15213 75
+Note-on 15218 63
+Note-on 15244 55
+Note-on 15244 51
+Time=11932  Parameter, chan=1 c1=64 c2=88
+Time=11948  Parameter, chan=1 c1=64 c2=24
+Time=11960  Parameter, chan=1 c1=64 c2=0
+Time=12024  Parameter, chan=1 c1=64 c2=40
+Time=12040  Parameter, chan=1 c1=64 c2=104
+Time=12056  Parameter, chan=1 c1=64 c2=127
+Note-off 15744 63
+Note-off 15854 55
+Note-off 15864 75
+Note-off 15906 51
+Note-on 16119 67
+Time=12552  Parameter, chan=1 c1=64 c2=104
+Time=12568  Parameter, chan=1 c1=64 c2=40
+Time=12584  Parameter, chan=1 c1=64 c2=0
+Note-on 16401 39
+Note-on 16401 70
+Time=12628  Parameter, chan=1 c1=64 c2=88
+Time=12644  Parameter, chan=1 c1=64 c2=127
+Note-off 16520 39
+Note-on 16687 79
+Note-off 16697 70
+Note-off 16708 67
+Note-off 16796 79
+Note-on 17041 80
+Note-on 17057 68
+Note-on 17067 77
+Note-on 17088 51
+Note-on 17088 60
+Time=13220  Parameter, chan=1 c1=64 c2=72
+Time=13232  Parameter, chan=1 c1=64 c2=0
+Time=13296  Parameter, chan=1 c1=64 c2=72
+Time=13312  Parameter, chan=1 c1=64 c2=127
+Note-off 17651 77
+Note-on 17666 72
+Note-off 17723 80
+Note-off 17786 68
+Note-off 17833 51
+Note-off 17953 72
+Note-off 18177 60
+Note-on 18296 77
+Note-on 18317 65
+Note-on 18322 74
+Note-on 18333 56
+Note-on 18333 51
+Time=14148  Parameter, chan=1 c1=64 c2=88
+Time=14160  Parameter, chan=1 c1=64 c2=24
+Time=14176  Parameter, chan=1 c1=64 c2=0
+Time=14240  Parameter, chan=1 c1=64 c2=72
+Time=14256  Parameter, chan=1 c1=64 c2=127
+Note-off 18661 77
+Note-off 18661 65
+Note-off 18718 74
+Note-off 18718 51
+Note-off 18755 56
+Note-on 18953 79
+Note-on 18963 67
+Note-on 18968 70
+Note-on 18984 51
+Note-on 19005 58
+Time=14704  Parameter, chan=1 c1=64 c2=104
+Time=14720  Parameter, chan=1 c1=64 c2=40
+Time=14736  Parameter, chan=1 c1=64 c2=0
+Time=14844  Parameter, chan=1 c1=64 c2=88
+Time=14860  Parameter, chan=1 c1=64 c2=127
+Note-off 19416 70
+Note-off 19479 67
+Note-off 19562 58
+Note-off 19635 51
+Note-off 19718 79
+Note-on 19854 75
+Note-off 20083 75
+Note-on 20151 82
+Note-on 20161 70
+Time=15496  Parameter, chan=1 c1=64 c2=104
+Note-on 20182 79
+Note-on 20182 39
+Time=15512  Parameter, chan=1 c1=64 c2=40
+Time=15524  Parameter, chan=1 c1=64 c2=0
+Time=15604  Parameter, chan=1 c1=64 c2=40
+Note-off 20328 39
+Time=15620  Parameter, chan=1 c1=64 c2=127
+Note-off 20421 79
+Note-off 20432 82
+Note-on 20458 75
+Note-off 20520 70
+Note-off 20692 75
+Note-on 20802 80
+Note-on 20817 68
+Note-on 20828 51
+Note-on 20838 77
+Note-on 20843 60
+Time=16024  Parameter, chan=1 c1=64 c2=88
+Time=16040  Parameter, chan=1 c1=64 c2=40
+Time=16056  Parameter, chan=1 c1=64 c2=0
+Time=16160  Parameter, chan=1 c1=64 c2=56
+Time=16176  Parameter, chan=1 c1=64 c2=127
+Note-off 21427 77
+Note-on 21447 72
+Note-off 21473 80
+Note-off 21598 68
+Note-off 21760 51
+Note-off 21838 72
+Note-off 21885 60
+Note-on 22046 77
+Note-on 22046 51
+Note-on 22046 56
+Note-on 22046 74
+Note-on 22046 65
+Time=17044  Parameter, chan=1 c1=64 c2=56
+Time=17064  Parameter, chan=1 c1=64 c2=0
+Time=17140  Parameter, chan=1 c1=64 c2=40
+Time=17152  Parameter, chan=1 c1=64 c2=127
+Note-off 22348 74
+Note-off 22354 65
+Note-off 22406 51
+Note-off 22411 56
+Note-off 22432 77
+Note-on 22692 79
+Note-on 22703 67
+Note-on 22713 75
+Note-on 22723 51
+Note-on 22734 58
+Time=17540  Parameter, chan=1 c1=64 c2=88
+Time=17556  Parameter, chan=1 c1=64 c2=24
+Time=17572  Parameter, chan=1 c1=64 c2=0
+Time=17664  Parameter, chan=1 c1=64 c2=104
+Time=17680  Parameter, chan=1 c1=64 c2=127
+Note-off 23223 58
+Note-off 23250 75
+Note-off 23255 51
+Note-off 23302 79
+Note-on 23307 70
+Note-off 23380 67
+Note-off 23572 70
+Note-on 23921 75
+Note-on 23921 72
+Note-on 23921 39
+Note-on 23921 67
+Time=18424  Parameter, chan=1 c1=64 c2=104
+Time=18440  Parameter, chan=1 c1=64 c2=40
+Time=18456  Parameter, chan=1 c1=64 c2=0
+Time=18536  Parameter, chan=1 c1=64 c2=24
+Time=18548  Parameter, chan=1 c1=64 c2=104
+Note-off 24166 39
+Time=18564  Parameter, chan=1 c1=64 c2=127
+Note-off 24229 67
+Note-off 24255 75
+Note-off 24270 72
+Note-on 24583 77
+Note-on 24598 65
+Note-on 24604 74
+Note-on 24614 58
+Note-on 24614 46
+Time=18904  Parameter, chan=1 c1=64 c2=104
+Time=18920  Parameter, chan=1 c1=64 c2=24
+Time=18936  Parameter, chan=1 c1=64 c2=0
+Time=19012  Parameter, chan=1 c1=64 c2=88
+Time=19028  Parameter, chan=1 c1=64 c2=127
+Note-off 24880 46
+Note-off 24937 58
+Note-on 25218 57
+Note-on 25223 45
+Note-off 25286 65
+Note-off 25328 74
+Note-off 25401 77
+Note-off 25442 45
+Note-off 25463 57
+Note-on 25838 82
+Note-on 25848 70
+Note-on 25859 74
+Time=19868  Parameter, chan=1 c1=64 c2=88
+Note-on 25875 55
+Note-on 25885 43
+Time=19884  Parameter, chan=1 c1=64 c2=24
+Time=19896  Parameter, chan=1 c1=64 c2=0
+Time=19944  Parameter, chan=1 c1=64 c2=40
+Time=19960  Parameter, chan=1 c1=64 c2=104
+Time=19976  Parameter, chan=1 c1=64 c2=127
+Note-off 26135 43
+Note-off 26135 55
+Note-on 26458 53
+Note-on 26468 41
+Time=20440  Parameter, chan=1 c1=64 c2=40
+Time=20456  Parameter, chan=1 c1=64 c2=0
+Time=20548  Parameter, chan=1 c1=64 c2=56
+Time=20564  Parameter, chan=1 c1=64 c2=127
+Note-off 26848 74
+Note-off 26890 70
+Note-on 27119 74
+Note-on 27119 70
+Note-off 27218 82
+Note-off 27375 53
+Note-off 27375 41
+Note-off 27406 74
+Note-off 27437 70
+Time=21244  Parameter, chan=1 c1=64 c2=56
+Time=21260  Parameter, chan=1 c1=64 c2=0
+Note-on 27692 77
+Note-on 27692 81
+Note-on 27692 70
+Note-on 27718 51
+Note-on 27723 39
+Time=21304  Parameter, chan=1 c1=64 c2=56
+Time=21320  Parameter, chan=1 c1=64 c2=104
+Time=21336  Parameter, chan=1 c1=64 c2=127
+Note-off 27822 51
+Note-off 27843 39
+Note-on 28041 50
+Note-on 28041 38
+Note-off 28067 77
+Note-off 28067 81
+Note-off 28119 38
+Note-off 28145 50
+Note-off 28255 70
+Note-on 28416 79
+Note-on 28416 70
+Note-on 28416 41
+Note-on 28416 53
+Note-on 28416 75
+Time=21940  Parameter, chan=1 c1=64 c2=56
+Time=21956  Parameter, chan=1 c1=64 c2=0
+Time=22036  Parameter, chan=1 c1=64 c2=40
+Time=22052  Parameter, chan=1 c1=64 c2=127
+Note-off 28791 79
+Note-off 28812 75
+Note-off 28833 70
+Note-on 29052 77
+Note-on 29052 69
+Note-on 29052 74
+Note-off 29213 53
+Note-off 29239 74
+Note-off 29260 41
+Note-off 29281 69
+Note-off 29489 77
+Note-on 29640 75
+Note-on 29640 46
+Note-on 29640 34
+Note-on 29640 67
+Note-on 29640 72
+Time=22764  Parameter, chan=1 c1=64 c2=88
+Time=22776  Parameter, chan=1 c1=64 c2=24
+Time=22796  Parameter, chan=1 c1=64 c2=0
+Time=22828  Parameter, chan=1 c1=64 c2=24
+Note-off 29739 72
+Time=22844  Parameter, chan=1 c1=64 c2=72
+Note-off 29750 67
+Time=22856  Parameter, chan=1 c1=64 c2=127
+Note-off 29812 75
+Note-on 29953 74
+Note-off 29968 34
+Note-on 29968 70
+Note-on 29968 65
+Note-off 30010 46
+Note-off 30020 65
+Note-off 30093 74
+Note-off 30104 70
+Note-on 30166 34
+Note-on 30187 63
+Note-on 30192 46
+Time=23196  Parameter, chan=1 c1=64 c2=72
+Time=23212  Parameter, chan=1 c1=64 c2=0
+Note-off 30281 63
+Time=23260  Parameter, chan=1 c1=64 c2=56
+Note-on 30291 68
+Time=23276  Parameter, chan=1 c1=64 c2=127
+Note-on 30364 72
+Note-on 30515 77
+Note-off 30531 72
+Note-off 30875 77
+Note-off 31078 68
+Note-on 31166 70
+Note-on 31166 62
+Time=24000  Parameter, chan=1 c1=64 c2=72
+Time=24020  Parameter, chan=1 c1=64 c2=0
+Time=24096  Parameter, chan=1 c1=64 c2=56
+Time=24112  Parameter, chan=1 c1=64 c2=127
+Note-off 31427 62
+Note-off 31484 34
+Note-off 31526 46
+Note-off 31531 70
+Time=24468  Parameter, chan=1 c1=64 c2=104
+Note-on 31864 72
+Note-on 31875 63
+Time=24484  Parameter, chan=1 c1=64 c2=24
+Note-on 31890 60
+Time=24500  Parameter, chan=1 c1=64 c2=0
+Note-on 31916 46
+Note-on 31921 56
+Time=24564  Parameter, chan=1 c1=64 c2=24
+Time=24580  Parameter, chan=1 c1=64 c2=104
+Time=24592  Parameter, chan=1 c1=64 c2=127
+Note-off 32052 60
+Note-off 32057 63
+Note-off 32151 72
+Time=24732  Parameter, chan=1 c1=64 c2=56
+Time=24748  Parameter, chan=1 c1=64 c2=0
+Note-on 32244 70
+Note-on 32260 65
+Note-on 32265 62
+Time=24792  Parameter, chan=1 c1=64 c2=56
+Time=24812  Parameter, chan=1 c1=64 c2=127
+Note-off 32359 56
+Note-off 32364 46
+Note-off 32364 65
+Note-off 32385 62
+Note-off 32442 70
+Note-on 32541 39
+Time=25012  Parameter, chan=1 c1=64 c2=88
+Time=25028  Parameter, chan=1 c1=64 c2=24
+Time=25044  Parameter, chan=1 c1=64 c2=0
+Time=25056  Parameter, chan=1 c1=64 c2=40
+Note-off 32645 39
+Time=25072  Parameter, chan=1 c1=64 c2=88
+Time=25088  Parameter, chan=1 c1=64 c2=127
+Note-on 32744 75
+Note-on 32755 63
+Note-on 32776 55
+Note-on 32781 67
+Time=25276  Parameter, chan=1 c1=64 c2=72
+Time=25288  Parameter, chan=1 c1=64 c2=56
+Time=25308  Parameter, chan=1 c1=64 c2=104
+Time=25320  Parameter, chan=1 c1=64 c2=127
+Note-off 32979 67
+Note-off 33317 75
+Note-on 33432 74
+Note-off 33479 63
+Note-off 33609 55
+Note-off 33718 74
+Note-on 33973 75
+Note-on 33989 63
+Note-on 34015 72
+Note-on 34036 51
+Note-on 34041 55
+Time=26172  Parameter, chan=1 c1=64 c2=40
+Time=26188  Parameter, chan=1 c1=64 c2=0
+Time=26268  Parameter, chan=1 c1=64 c2=72
+Time=26284  Parameter, chan=1 c1=64 c2=127
+Note-off 34229 72
+Note-off 34296 75
+Note-off 34312 55
+Note-off 34322 51
+Note-off 34354 63
+Note-on 34651 75
+Note-on 34656 70
+Note-on 34661 63
+Note-on 34677 51
+Note-on 34697 55
+Time=26764  Parameter, chan=1 c1=64 c2=88
+Time=26780  Parameter, chan=1 c1=64 c2=0
+Time=26884  Parameter, chan=1 c1=64 c2=72
+Time=26900  Parameter, chan=1 c1=64 c2=127
+Note-off 35328 55
+Note-off 35380 51
+Note-off 35421 75
+Note-off 35437 70
+Note-off 35484 63
+Time=27520  Parameter, chan=1 c1=64 c2=72
+Note-on 35848 75
+Note-on 35854 68
+Note-on 35854 63
+Time=27540  Parameter, chan=1 c1=64 c2=0
+Note-on 35864 39
+Time=27600  Parameter, chan=1 c1=64 c2=56
+Time=27616  Parameter, chan=1 c1=64 c2=127
+Note-off 36026 68
+Note-off 36031 39
+Note-off 36031 63
+Note-off 36067 75
+Note-on 36161 67
+Note-off 36359 67
+Note-on 36489 75
+Note-on 36489 65
+Note-on 36526 55
+Note-on 36552 51
+Time=28096  Parameter, chan=1 c1=64 c2=72
+Time=28112  Parameter, chan=1 c1=64 c2=0
+Time=28204  Parameter, chan=1 c1=64 c2=56
+Time=28220  Parameter, chan=1 c1=64 c2=127
+Note-off 36781 65
+Note-off 37010 75
+Note-on 37083 63
+Note-off 37328 55
+Note-off 37348 51
+Note-off 37369 63
+Note-on 37697 75
+Note-on 37697 67
+Note-on 37697 63
+Note-on 37718 51
+Note-on 37734 55
+Time=28980  Parameter, chan=1 c1=64 c2=88
+Time=28992  Parameter, chan=1 c1=64 c2=24
+Time=29008  Parameter, chan=1 c1=64 c2=0
+Time=29104  Parameter, chan=1 c1=64 c2=88
+Time=29120  Parameter, chan=1 c1=64 c2=127
+Note-off 38031 51
+Note-off 38046 55
+Note-off 38046 63
+Note-off 38046 67
+Note-off 38062 75
+Note-on 38364 75
+Note-on 38375 70
+Note-on 38385 63
+Note-on 38406 55
+Note-on 38411 51
+Time=29600  Parameter, chan=1 c1=64 c2=88
+Time=29616  Parameter, chan=1 c1=64 c2=24
+Time=29628  Parameter, chan=1 c1=64 c2=0
+Time=29724  Parameter, chan=1 c1=64 c2=40
+Time=29736  Parameter, chan=1 c1=64 c2=104
+Time=29752  Parameter, chan=1 c1=64 c2=127
+Note-off 38994 55
+Note-off 39041 51
+Note-off 39145 63
+Note-off 39151 70
+Note-off 39166 75
+Time=30388  Parameter, chan=1 c1=64 c2=88
+Note-on 39583 75
+Note-on 39588 63
+Note-on 39593 72
+Time=30408  Parameter, chan=1 c1=64 c2=0
+Note-on 39609 36
+Time=30480  Parameter, chan=1 c1=64 c2=72
+Time=30500  Parameter, chan=1 c1=64 c2=127
+Note-off 39723 36
+Note-off 39765 75
+Note-off 39838 72
+Note-off 39859 63
+Note-on 39890 74
+Note-off 40109 74
+Note-on 40213 75
+Note-on 40223 63
+Note-on 40260 48
+Note-on 40260 55
+Time=30996  Parameter, chan=1 c1=64 c2=104
+Time=31008  Parameter, chan=1 c1=64 c2=40
+Time=31024  Parameter, chan=1 c1=64 c2=0
+Time=31116  Parameter, chan=1 c1=64 c2=88
+Time=31132  Parameter, chan=1 c1=64 c2=127
+Note-off 40848 75
+Note-on 40848 74
+Note-off 40963 63
+Note-off 40994 48
+Note-off 41083 55
+Note-off 41119 74
+Note-on 41437 75
+Note-on 41458 63
+Note-on 41463 72
+Time=31848  Parameter, chan=1 c1=64 c2=88
+Note-on 41479 55
+Time=31860  Parameter, chan=1 c1=64 c2=0
+Note-on 41489 48
+Time=31940  Parameter, chan=1 c1=64 c2=24
+Time=31956  Parameter, chan=1 c1=64 c2=104
+Time=31972  Parameter, chan=1 c1=64 c2=127
+Note-off 41687 72
+Note-off 41729 48
+Note-off 41739 75
+Note-off 41755 55
+Note-off 41807 63
+Note-on 42104 70
+Note-on 42114 75
+Note-on 42114 63
+Note-on 42140 55
+Note-on 42151 48
+Time=32468  Parameter, chan=1 c1=64 c2=104
+Time=32480  Parameter, chan=1 c1=64 c2=40
+Time=32496  Parameter, chan=1 c1=64 c2=0
+Time=32604  Parameter, chan=1 c1=64 c2=40
+Time=32620  Parameter, chan=1 c1=64 c2=104
+Time=32640  Parameter, chan=1 c1=64 c2=127
+Note-off 42755 55
+Note-off 42791 48
+Note-off 42901 70
+Note-off 42906 75
+Note-off 43015 63
+Time=33272  Parameter, chan=1 c1=64 c2=88
+Note-on 43333 75
+Note-on 43333 63
+Note-on 43343 69
+Time=33288  Parameter, chan=1 c1=64 c2=0
+Note-on 43364 41
+Note-off 43427 41
+Time=33368  Parameter, chan=1 c1=64 c2=56
+Time=33380  Parameter, chan=1 c1=64 c2=127
+Note-off 43526 75
+Note-off 43567 69
+Note-on 43619 67
+Note-off 43656 63
+Note-off 43723 67
+Note-on 43973 75
+Note-on 43973 69
+Note-on 43989 65
+Note-on 44000 60
+Note-on 44020 53
+Time=33872  Parameter, chan=1 c1=64 c2=72
+Time=33892  Parameter, chan=1 c1=64 c2=0
+Time=33984  Parameter, chan=1 c1=64 c2=24
+Time=34000  Parameter, chan=1 c1=64 c2=104
+Time=34016  Parameter, chan=1 c1=64 c2=127
+Note-off 44302 69
+Note-on 44588 70
+Note-off 44687 65
+Note-off 44744 70
+Note-off 44755 75
+Note-off 44765 53
+Note-off 44895 60
+Note-on 45171 75
+Note-on 45177 57
+Note-on 45177 53
+Note-on 45177 65
+Note-on 45177 72
+Time=34744  Parameter, chan=1 c1=64 c2=88
+Time=34760  Parameter, chan=1 c1=64 c2=24
+Time=34772  Parameter, chan=1 c1=64 c2=0
+Note-off 45354 57
+Note-off 45380 53
+Time=34852  Parameter, chan=1 c1=64 c2=56
+Note-off 45395 72
+Time=34868  Parameter, chan=1 c1=64 c2=127
+Note-off 45453 65
+Note-off 45640 75
+Note-on 45901 46
+Note-on 45901 58
+Note-on 45901 65
+Note-on 45901 77
+Note-on 45901 70
+Note-on 45901 75
+Time=35380  Parameter, chan=1 c1=64 c2=56
+Time=35396  Parameter, chan=1 c1=64 c2=0
+Time=35488  Parameter, chan=1 c1=64 c2=40
+Time=35504  Parameter, chan=1 c1=64 c2=104
+Time=35520  Parameter, chan=1 c1=64 c2=127
+Note-off 46375 70
+Note-off 46406 65
+Note-off 46442 46
+Note-off 46489 58
+Note-off 46494 75
+Note-off 46729 77
+Note-on 46833 74
+Note-off 47046 74
+Note-on 47145 82
+Time=36216  Parameter, chan=1 c1=64 c2=72
+Note-on 47161 72
+Note-on 47177 68
+Time=36232  Parameter, chan=1 c1=64 c2=0
+Note-on 47192 58
+Note-on 47203 62
+Time=36280  Parameter, chan=1 c1=64 c2=56
+Note-off 47244 62
+Time=36296  Parameter, chan=1 c1=64 c2=104
+Note-off 47265 72
+Note-off 47276 68
+Time=36312  Parameter, chan=1 c1=64 c2=127
+Note-off 47328 58
+Note-off 47416 82
+Note-on 47432 70
+Note-off 47546 70
+Time=36588  Parameter, chan=1 c1=64 c2=104
+Note-on 47656 51
+Time=36604  Parameter, chan=1 c1=64 c2=56
+Time=36620  Parameter, chan=1 c1=64 c2=24
+Time=36636  Parameter, chan=1 c1=64 c2=40
+Time=36652  Parameter, chan=1 c1=64 c2=88
+Time=36668  Parameter, chan=1 c1=64 c2=127
+Note-off 47750 51
+Note-on 47770 58
+Note-on 47838 87
+Note-on 47848 75
+Note-on 47895 67
+Note-off 47916 58
+Note-off 47989 67
+Note-off 48291 87
+Note-on 48401 86
+Note-off 48437 75
+Time=37456  Parameter, chan=1 c1=64 c2=88
+Time=37472  Parameter, chan=1 c1=64 c2=0
+Note-on 48802 51
+Time=37516  Parameter, chan=1 c1=64 c2=24
+Note-on 48869 58
+Time=37532  Parameter, chan=1 c1=64 c2=88
+Note-off 48875 51
+Note-off 48880 86
+Time=37548  Parameter, chan=1 c1=64 c2=127
+Note-on 48968 87
+Note-on 48984 75
+Note-on 49000 84
+Note-on 49005 67
+Note-off 49031 58
+Note-off 49104 67
+Note-off 49109 84
+Note-off 49125 75
+Note-off 49135 87
+Note-on 49557 82
+Note-on 49583 74
+Note-off 49729 74
+Note-off 50072 82
+Note-on 50145 80
+Note-on 50145 75
+Note-on 50177 72
+Note-on 50187 51
+Note-on 50197 63
+Note-on 50229 58
+Time=38616  Parameter, chan=1 c1=64 c2=88
+Time=38632  Parameter, chan=1 c1=64 c2=0
+Note-off 50312 75
+Time=38712  Parameter, chan=1 c1=64 c2=40
+Note-off 50421 72
+Time=38728  Parameter, chan=1 c1=64 c2=127
+Note-off 50552 80
+Note-on 50760 79
+Note-on 50770 70
+Note-off 50921 79
+Note-off 51020 51
+Note-off 51020 58
+Note-off 51020 70
+Note-off 51046 63
+Note-on 51359 77
+Note-on 51359 68
+Note-on 51369 75
+Note-on 51385 63
+Note-on 51395 58
+Note-on 51395 51
+Time=39532  Parameter, chan=1 c1=64 c2=56
+Time=39548  Parameter, chan=1 c1=64 c2=0
+Time=39640  Parameter, chan=1 c1=64 c2=88
+Time=39656  Parameter, chan=1 c1=64 c2=127
+Note-off 51734 75
+Note-off 51828 77
+Note-off 51848 68
+Note-on 51973 75
+Note-on 52005 67
+Note-off 52088 67
+Note-off 52197 75
+Note-off 52229 63
+Note-on 52250 65
+Note-off 52307 51
+Note-off 52359 58
+Note-off 52375 65
+Note-on 52567 72
+Note-on 52578 63
+Note-on 52614 55
+Note-on 52661 51
+Time=40480  Parameter, chan=1 c1=64 c2=72
+Time=40496  Parameter, chan=1 c1=64 c2=0
+Time=40604  Parameter, chan=1 c1=64 c2=72
+Note-on 52885 67
+Time=40620  Parameter, chan=1 c1=64 c2=127
+Note-off 52901 72
+Note-off 53104 67
+Note-on 53203 70
+Time=40896  Parameter, chan=1 c1=64 c2=88
+Time=40912  Parameter, chan=1 c1=64 c2=40
+Time=40940  Parameter, chan=1 c1=64 c2=56
+Time=40960  Parameter, chan=1 c1=64 c2=104
+Note-off 53354 55
+Time=40976  Parameter, chan=1 c1=64 c2=127
+Note-off 53406 51
+Note-off 53473 63
+Note-on 53854 43
+Note-on 53859 51
+Note-on 53859 55
+Time=41392  Parameter, chan=1 c1=64 c2=72
+Time=41408  Parameter, chan=1 c1=64 c2=0
+Time=41516  Parameter, chan=1 c1=64 c2=24
+Time=41532  Parameter, chan=1 c1=64 c2=88
+Time=41548  Parameter, chan=1 c1=64 c2=127
+Note-off 54125 70
+Note-off 54411 43
+Note-off 54416 55
+Note-off 54427 51
+Note-on 54458 72
+Note-on 54458 63
+Note-off 54723 72
+Note-on 54760 74
+Note-off 54791 63
+Note-off 55041 74
+Note-on 55119 75
+Note-on 55151 63
+Note-on 55166 45
+Note-on 55171 51
+Note-on 55171 55
+Time=42476  Parameter, chan=1 c1=64 c2=104
+Time=42492  Parameter, chan=1 c1=64 c2=40
+Time=42508  Parameter, chan=1 c1=64 c2=0
+Time=42620  Parameter, chan=1 c1=64 c2=56
+Time=42632  Parameter, chan=1 c1=64 c2=127
+Note-off 55718 75
+Note-on 55786 74
+Note-off 55859 63
+Note-off 55958 45
+Note-off 56046 55
+Note-off 56114 74
+Note-off 56119 51
+Note-on 56416 75
+Note-on 56416 63
+Note-on 56416 55
+Note-on 56416 51
+Note-on 56416 46
+Note-on 56416 72
+Time=43392  Parameter, chan=1 c1=64 c2=72
+Time=43408  Parameter, chan=1 c1=64 c2=0
+Time=43516  Parameter, chan=1 c1=64 c2=72
+Time=43532  Parameter, chan=1 c1=64 c2=127
+Note-off 56734 72
+Note-on 57046 70
+Note-off 57052 75
+Note-off 57088 63
+Note-off 57239 55
+Note-off 57307 46
+Note-off 57312 51
+Note-on 57687 63
+Note-on 57687 75
+Note-on 57718 48
+Note-on 57718 55
+Note-on 57723 51
+Time=44368  Parameter, chan=1 c1=64 c2=104
+Time=44384  Parameter, chan=1 c1=64 c2=40
+Time=44400  Parameter, chan=1 c1=64 c2=0
+Time=44508  Parameter, chan=1 c1=64 c2=72
+Time=44520  Parameter, chan=1 c1=64 c2=127
+Note-on 58260 68
+Note-off 58291 75
+Note-off 58302 70
+Note-off 58427 48
+Note-off 58427 55
+Note-off 58453 68
+Note-off 58473 51
+Note-on 58557 67
+Note-off 58588 63
+Note-off 58739 67
+Note-on 58921 75
+Note-on 58921 55
+Note-on 58921 46
+Note-on 58921 70
+Time=45360  Parameter, chan=1 c1=64 c2=104
+Time=45376  Parameter, chan=1 c1=64 c2=24
+Time=45392  Parameter, chan=1 c1=64 c2=0
+Time=45484  Parameter, chan=1 c1=64 c2=56
+Time=45500  Parameter, chan=1 c1=64 c2=127
+Note-off 59494 75
+Note-on 59526 63
+Note-off 59671 63
+Note-off 59677 70
+Note-off 59729 55
+Note-off 59812 46
+Note-on 60015 67
+Note-off 60135 67
+Note-on 60192 65
+Note-on 60203 74
+Note-on 60223 46
+Note-on 60223 56
+Time=46276  Parameter, chan=1 c1=64 c2=104
+Time=46292  Parameter, chan=1 c1=64 c2=40
+Time=46304  Parameter, chan=1 c1=64 c2=0
+Time=46396  Parameter, chan=1 c1=64 c2=72
+Note-off 60427 65
+Time=46412  Parameter, chan=1 c1=64 c2=127
+Note-off 60578 74
+Note-off 60619 46
+Note-off 60656 56
+Note-on 60875 75
+Note-on 60880 63
+Note-on 60916 55
+Note-on 60947 51
+Time=46912  Parameter, chan=1 c1=64 c2=88
+Time=46928  Parameter, chan=1 c1=64 c2=40
+Time=46940  Parameter, chan=1 c1=64 c2=0
+Time=47048  Parameter, chan=1 c1=64 c2=40
+Time=47064  Parameter, chan=1 c1=64 c2=104
+Time=47080  Parameter, chan=1 c1=64 c2=127
+Note-off 61500 55
+Note-off 61562 63
+Note-off 61578 51
+Note-off 61661 75
+Time=47732  Parameter, chan=1 c1=64 c2=88
+Time=47748  Parameter, chan=1 c1=64 c2=24
+Time=47760  Parameter, chan=1 c1=64 c2=0
+Note-on 62218 76
+Note-on 62223 64
+Note-on 62239 52
+Note-on 62244 40
+Time=47824  Parameter, chan=1 c1=64 c2=24
+Time=47840  Parameter, chan=1 c1=64 c2=72
+Note-off 62302 64
+Note-off 62312 52
+Time=47856  Parameter, chan=1 c1=64 c2=127
+Note-off 62322 40
+Note-off 62354 76
+Note-on 62520 78
+Note-on 62526 66
+Note-on 62536 54
+Note-on 62536 42
+Note-off 62614 66
+Note-off 62614 42
+Note-off 62619 54
+Note-off 62708 78
+Note-on 62843 80
+Note-on 62854 68
+Note-on 62864 56
+Note-on 62864 44
+Time=48336  Parameter, chan=1 c1=64 c2=104
+Time=48352  Parameter, chan=1 c1=64 c2=56
+Time=48368  Parameter, chan=1 c1=64 c2=0
+Time=48440  Parameter, chan=1 c1=64 c2=40
+Time=48460  Parameter, chan=1 c1=64 c2=127
+Note-off 63213 56
+Note-off 63229 44
+Note-off 63260 80
+Note-off 63286 68
+Note-on 63484 78
+Note-on 63489 66
+Note-on 63520 54
+Note-on 63526 42
+Time=48812  Parameter, chan=1 c1=64 c2=88
+Time=48832  Parameter, chan=1 c1=64 c2=40
+Time=48864  Parameter, chan=1 c1=64 c2=56
+Time=48876  Parameter, chan=1 c1=64 c2=88
+Time=48892  Parameter, chan=1 c1=64 c2=127
+Note-off 63760 78
+Note-off 63760 54
+Note-off 63796 66
+Note-off 63880 42
+Note-on 64088 76
+Note-on 64104 64
+Time=49248  Parameter, chan=1 c1=64 c2=88
+Note-on 64130 52
+Note-on 64140 40
+Time=49264  Parameter, chan=1 c1=64 c2=24
+Time=49280  Parameter, chan=1 c1=64 c2=0
+Time=49340  Parameter, chan=1 c1=64 c2=40
+Time=49356  Parameter, chan=1 c1=64 c2=88
+Time=49376  Parameter, chan=1 c1=64 c2=127
+Note-off 64333 64
+Note-off 64348 40
+Note-off 64390 52
+Note-off 64416 76
+Note-on 64776 75
+Note-on 64786 63
+Note-on 64796 39
+Note-on 64807 51
+Time=49900  Parameter, chan=1 c1=64 c2=72
+Time=49916  Parameter, chan=1 c1=64 c2=0
+Time=50040  Parameter, chan=1 c1=64 c2=56
+Time=50056  Parameter, chan=1 c1=64 c2=127
+Note-off 65406 75
+Note-off 65447 63
+Note-off 65531 51
+Note-off 65562 39
+Note-on 65979 51
+Note-on 65984 63
+Note-on 66000 61
+Note-on 66010 37
+Note-on 66015 49
+Note-off 66083 49
+Note-off 66109 37
+Note-on 66317 47
+Note-on 66322 35
+Note-off 66401 47
+Note-off 66411 35
+Note-off 66453 63
+Note-off 66473 51
+Note-off 66473 61
+Note-on 66630 63
+Note-on 66640 51
+Note-on 66661 46
+Note-on 66671 59
+Note-on 66677 34
+Time=51296  Parameter, chan=1 c1=64 c2=72
+Time=51308  Parameter, chan=1 c1=64 c2=0
+Time=51404  Parameter, chan=1 c1=64 c2=24
+Time=51420  Parameter, chan=1 c1=64 c2=104
+Time=51436  Parameter, chan=1 c1=64 c2=127
+Note-off 67078 46
+Note-off 67078 34
+Note-on 67265 44
+Note-on 67270 32
+Time=51700  Parameter, chan=1 c1=64 c2=88
+Time=51712  Parameter, chan=1 c1=64 c2=24
+Time=51728  Parameter, chan=1 c1=64 c2=0
+Time=51776  Parameter, chan=1 c1=64 c2=24
+Time=51792  Parameter, chan=1 c1=64 c2=72
+Time=51808  Parameter, chan=1 c1=64 c2=127
+Note-off 67526 32
+Note-off 67572 44
+Note-off 67619 63
+Note-off 67635 51
+Note-off 67645 59
+Note-on 67901 63
+Note-on 67906 51
+Note-on 67921 56
+Note-on 67947 47
+Note-on 67958 35
+Time=52196  Parameter, chan=1 c1=64 c2=104
+Time=52212  Parameter, chan=1 c1=64 c2=56
+Time=52228  Parameter, chan=1 c1=64 c2=0
+Note-off 68093 35
+Time=52316  Parameter, chan=1 c1=64 c2=72
+Time=52332  Parameter, chan=1 c1=64 c2=127
+Note-off 68145 47
+Note-off 68270 63
+Note-off 68281 56
+Note-off 68286 51
+Note-on 68583 63
+Note-on 68593 51
+Note-on 68630 39
+Time=52828  Parameter, chan=1 c1=64 c2=88
+Time=52844  Parameter, chan=1 c1=64 c2=40
+Time=52860  Parameter, chan=1 c1=64 c2=0
+Time=52972  Parameter, chan=1 c1=64 c2=88
+Time=52984  Parameter, chan=1 c1=64 c2=127
+Note-off 69078 51
+Note-off 69151 39
+Note-off 69234 63
+Note-on 69880 76
+Note-on 69890 64
+Note-on 69890 61
+Time=53684  Parameter, chan=1 c1=64 c2=72
+Note-on 69906 51
+Time=53700  Parameter, chan=1 c1=64 c2=24
+Time=53716  Parameter, chan=1 c1=64 c2=40
+Time=53728  Parameter, chan=1 c1=64 c2=88
+Note-off 69973 64
+Time=53744  Parameter, chan=1 c1=64 c2=127
+Note-off 70020 76
+Note-on 70166 78
+Note-on 70166 66
+Note-off 70312 51
+Note-off 70317 66
+Note-off 70354 61
+Note-off 70442 78
+Note-on 70500 80
+Note-on 70515 68
+Note-on 70541 51
+Note-on 70562 59
+Time=54256  Parameter, chan=1 c1=64 c2=104
+Time=54272  Parameter, chan=1 c1=64 c2=24
+Time=54284  Parameter, chan=1 c1=64 c2=0
+Time=54364  Parameter, chan=1 c1=64 c2=72
+Time=54380  Parameter, chan=1 c1=64 c2=127
+Note-off 70958 80
+Note-off 70963 68
+Note-on 71088 78
+Note-on 71098 66
+Note-off 71291 78
+Note-off 71359 66
+Note-off 71421 51
+Note-off 71546 59
+Note-on 71692 76
+Note-on 71703 64
+Note-on 71729 51
+Note-on 71729 56
+Time=55108  Parameter, chan=1 c1=64 c2=104
+Time=55124  Parameter, chan=1 c1=64 c2=0
+Time=55200  Parameter, chan=1 c1=64 c2=72
+Note-off 71890 64
+Time=55212  Parameter, chan=1 c1=64 c2=127
+Note-off 72020 56
+Note-off 72057 76
+Note-off 72072 51
+Note-on 72338 75
+Note-on 72359 63
+Note-on 72385 51
+Time=55744  Parameter, chan=1 c1=64 c2=72
+Time=55756  Parameter, chan=1 c1=64 c2=0
+Time=55868  Parameter, chan=1 c1=64 c2=72
+Time=55880  Parameter, chan=1 c1=64 c2=127
+Note-off 73067 63
+Note-off 73208 51
+Note-off 73239 75
+Time=56424  Parameter, chan=1 c1=64 c2=104
+Time=56440  Parameter, chan=1 c1=64 c2=40
+Time=56456  Parameter, chan=1 c1=64 c2=0
+Note-on 73520 76
+Note-on 73526 64
+Note-on 73567 49
+Time=56504  Parameter, chan=1 c1=64 c2=127
+Note-on 73583 37
+Note-off 73614 64
+Note-off 73666 76
+Note-off 73817 49
+Note-on 73822 78
+Note-on 73828 66
+Note-off 73838 37
+Note-on 73843 75
+Note-off 73921 66
+Note-off 73973 78
+Note-off 74020 75
+Note-on 74187 80
+Note-on 74192 68
+Note-on 74197 76
+Note-on 74223 46
+Note-on 74239 34
+Time=57092  Parameter, chan=1 c1=64 c2=104
+Time=57108  Parameter, chan=1 c1=64 c2=0
+Time=57200  Parameter, chan=1 c1=64 c2=88
+Time=57216  Parameter, chan=1 c1=64 c2=127
+Note-off 74598 80
+Note-off 74609 76
+Note-off 74619 68
+Note-on 74776 78
+Note-on 74791 66
+Note-on 74791 75
+Note-off 74921 46
+Note-off 75005 34
+Note-off 75046 75
+Note-off 75088 78
+Note-off 75114 66
+Note-on 75395 76
+Note-on 75406 64
+Note-on 75411 73
+Note-on 75442 43
+Note-on 75453 31
+Time=58020  Parameter, chan=1 c1=64 c2=72
+Time=58036  Parameter, chan=1 c1=64 c2=0
+Time=58116  Parameter, chan=1 c1=64 c2=88
+Time=58128  Parameter, chan=1 c1=64 c2=127
+Note-off 75744 64
+Note-off 75765 73
+Note-off 75796 76
+Note-on 76005 75
+Note-on 76020 63
+Note-on 76036 71
+Note-off 76296 43
+Note-off 76312 31
+Note-off 76322 71
+Note-off 76338 75
+Note-off 76395 63
+Note-on 76687 73
+Note-on 76697 61
+Note-on 76718 70
+Note-on 76718 32
+Note-on 76723 44
+Time=58968  Parameter, chan=1 c1=64 c2=104
+Time=58984  Parameter, chan=1 c1=64 c2=24
+Time=59000  Parameter, chan=1 c1=64 c2=0
+Time=59088  Parameter, chan=1 c1=64 c2=56
+Time=59108  Parameter, chan=1 c1=64 c2=127
+Note-off 77010 70
+Note-off 77036 73
+Note-off 77046 61
+Note-on 77447 71
+Note-on 77453 59
+Note-on 77463 68
+Time=59540  Parameter, chan=1 c1=64 c2=104
+Time=59556  Parameter, chan=1 c1=64 c2=40
+Time=59572  Parameter, chan=1 c1=64 c2=0
+Time=59664  Parameter, chan=1 c1=64 c2=40
+Time=59680  Parameter, chan=1 c1=64 c2=104
+Time=59696  Parameter, chan=1 c1=64 c2=127
+Note-off 77848 59
+Note-off 77880 32
+Note-off 77880 71
+Note-off 77906 68
+Note-off 77921 44
+Note-on 78302 34
+Time=60156  Parameter, chan=1 c1=64 c2=104
+Time=60172  Parameter, chan=1 c1=64 c2=56
+Time=60192  Parameter, chan=1 c1=64 c2=0
+Time=60268  Parameter, chan=1 c1=64 c2=24
+Time=60284  Parameter, chan=1 c1=64 c2=88
+Time=60300  Parameter, chan=1 c1=64 c2=127
+Note-off 78614 34
+Note-on 78625 46
+Note-off 78760 46
+Note-on 78942 70
+Note-on 78963 66
+Note-on 79000 51
+Note-off 79197 51
+Note-on 79218 54
+Note-off 79401 54
+Note-on 79531 58
+Note-off 79572 66
+Note-off 79760 58
+Note-off 79927 70
+Note-on 80083 71
+Note-on 80104 68
+Note-on 80151 34
+Time=61572  Parameter, chan=1 c1=64 c2=56
+Time=61588  Parameter, chan=1 c1=64 c2=0
+Time=61680  Parameter, chan=1 c1=64 c2=72
+Time=61696  Parameter, chan=1 c1=64 c2=127
+Note-on 80364 46
+Note-off 80385 34
+Note-off 80458 46
+Note-off 80677 68
+Note-on 80713 59
+Note-on 80744 53
+Note-off 80750 71
+Note-on 80963 56
+Note-off 81010 53
+Note-off 81125 59
+Note-off 81151 56
+Note-on 81265 68
+Note-on 81291 65
+Note-off 81468 65
+Note-off 81718 68
+Time=62888  Parameter, chan=1 c1=64 c2=88
+Note-on 81890 56
+Note-on 81901 34
+Time=62900  Parameter, chan=1 c1=64 c2=24
+Time=62916  Parameter, chan=1 c1=64 c2=0
+Time=62980  Parameter, chan=1 c1=64 c2=56
+Time=62996  Parameter, chan=1 c1=64 c2=127
+Note-off 82062 56
+Note-on 82156 46
+Note-off 82166 34
+Note-off 82250 46
+Note-on 82484 80
+Note-on 82484 77
+Note-on 82489 50
+Note-on 82776 53
+Note-off 82822 50
+Note-off 82854 53
+Note-on 83036 68
+Note-off 83130 77
+Note-off 83411 80
+Note-off 83557 68
+Note-on 83671 82
+Note-on 83682 78
+Note-on 83718 34
+Time=64328  Parameter, chan=1 c1=64 c2=104
+Time=64344  Parameter, chan=1 c1=64 c2=56
+Time=64360  Parameter, chan=1 c1=64 c2=0
+Time=64452  Parameter, chan=1 c1=64 c2=104
+Time=64468  Parameter, chan=1 c1=64 c2=127
+Note-on 83958 46
+Note-off 83984 34
+Note-off 84041 46
+Note-off 84203 82
+Note-off 84234 78
+Note-on 84244 51
+Note-on 84265 70
+Note-on 84526 54
+Note-off 84723 54
+Note-off 84734 51
+Note-on 84817 78
+Note-on 84843 75
+Note-off 84895 70
+Note-off 84942 78
+Note-off 84973 75
+Note-on 85473 66
+Note-on 85520 34
+Time=65692  Parameter, chan=1 c1=64 c2=72
+Time=65708  Parameter, chan=1 c1=64 c2=0
+Time=65800  Parameter, chan=1 c1=64 c2=56
+Time=65816  Parameter, chan=1 c1=64 c2=127
+Note-on 85791 46
+Note-off 85802 34
+Note-off 85828 66
+Note-off 85911 46
+Note-on 86062 66
+Note-on 86104 63
+Note-on 86119 47
+Note-on 86130 59
+Note-on 86354 51
+Note-off 86427 63
+Note-off 86484 47
+Note-off 86494 51
+Note-off 86656 59
+Note-on 86682 54
+Note-off 86890 54
+Note-off 86895 66
+Note-on 87255 65
+Note-on 87286 59
+Note-on 87286 63
+Note-on 87307 32
+Time=67088  Parameter, chan=1 c1=64 c2=88
+Time=67104  Parameter, chan=1 c1=64 c2=40
+Time=67116  Parameter, chan=1 c1=64 c2=0
+Time=67208  Parameter, chan=1 c1=64 c2=104
+Time=67224  Parameter, chan=1 c1=64 c2=127
+Note-off 87552 32
+Note-on 87552 44
+Note-off 87640 44
+Note-off 87822 59
+Note-off 87828 63
+Note-on 87875 53
+Note-on 87916 47
+Note-off 88020 65
+Note-on 88140 51
+Note-off 88244 51
+Note-off 88250 47
+Note-on 88473 65
+Note-on 88494 59
+Note-on 88500 63
+Note-off 88546 53
+Note-off 88598 59
+Note-off 88651 63
+Note-off 88661 65
+Note-on 89000 32
+Time=68376  Parameter, chan=1 c1=64 c2=88
+Time=68388  Parameter, chan=1 c1=64 c2=24
+Time=68404  Parameter, chan=1 c1=64 c2=0
+Time=68480  Parameter, chan=1 c1=64 c2=24
+Time=68496  Parameter, chan=1 c1=64 c2=88
+Time=68512  Parameter, chan=1 c1=64 c2=127
+Note-on 89317 44
+Note-off 89348 32
+Note-off 89416 44
+Note-on 89609 77
+Note-on 89630 75
+Note-on 89640 70
+Note-on 89671 46
+Note-on 89911 49
+Note-off 90026 49
+Note-off 90046 46
+Note-off 90177 70
+Note-on 90229 65
+Note-off 90255 77
+Note-off 90354 75
+Note-off 90520 65
+Note-on 90791 75
+Note-on 90838 73
+Note-on 90843 70
+Note-on 90864 30
+Time=69816  Parameter, chan=1 c1=64 c2=56
+Time=69832  Parameter, chan=1 c1=64 c2=0
+Time=69924  Parameter, chan=1 c1=64 c2=40
+Time=69940  Parameter, chan=1 c1=64 c2=127
+Note-on 91088 42
+Note-off 91109 30
+Note-off 91187 42
+Note-off 91296 75
+Note-off 91354 70
+Note-off 91359 73
+Note-on 91380 46
+Note-on 91390 63
+Note-on 91640 49
+Note-off 91776 46
+Note-off 91807 49
+Note-on 91942 75
+Note-on 91942 73
+Note-on 91989 70
+Note-off 92104 73
+Note-off 92109 75
+Note-off 92119 70
+Note-off 92125 63
+Note-on 92500 30
+Time=71068  Parameter, chan=1 c1=64 c2=72
+Time=71084  Parameter, chan=1 c1=64 c2=24
+Time=71100  Parameter, chan=1 c1=64 c2=0
+Time=71160  Parameter, chan=1 c1=64 c2=40
+Time=71176  Parameter, chan=1 c1=64 c2=127
+Note-on 92786 42
+Note-off 92848 30
+Note-off 92895 42
+Note-on 93088 64
+Note-on 93104 46
+Note-on 93109 60
+Note-on 93119 58
+Note-off 93140 46
+Note-on 93390 48
+Note-off 93505 48
+Note-off 93671 58
+Note-off 93682 60
+Note-on 93692 52
+Note-off 93937 52
+Note-off 93963 64
+Note-on 94312 65
+Note-on 94338 58
+Note-on 94343 60
+Note-on 94380 29
+Time=72512  Parameter, chan=1 c1=64 c2=72
+Time=72524  Parameter, chan=1 c1=64 c2=0
+Time=72616  Parameter, chan=1 c1=64 c2=40
+Note-off 94572 29
+Time=72636  Parameter, chan=1 c1=64 c2=127
+Note-on 94609 41
+Note-off 94765 41
+Note-off 94885 60
+Note-on 94901 46
+Note-off 94911 58
+Note-on 94916 53
+Note-off 95171 46
+Note-on 95182 48
+Note-on 95484 58
+Note-on 95494 60
+Note-off 95520 53
+Note-off 95562 48
+Note-off 95625 58
+Note-off 95645 60
+Note-off 95703 65
+Note-on 96213 77
+Note-on 96229 65
+Note-on 96239 53
+Note-on 96250 48
+Note-on 96250 69
+Note-on 96250 75
+Note-on 96250 51
+Note-on 96322 41
+Time=74028  Parameter, chan=1 c1=64 c2=56
+Time=74044  Parameter, chan=1 c1=64 c2=0
+Time=74152  Parameter, chan=1 c1=64 c2=104
+Time=74168  Parameter, chan=1 c1=64 c2=127
+Note-off 96588 69
+Note-off 96598 51
+Note-off 96885 48
+Note-on 96901 73
+Note-off 96906 75
+Note-on 96927 49
+Note-off 97328 73
+Note-off 97328 49
+Note-on 97494 72
+Note-on 97510 48
+Note-off 97697 53
+Note-off 97713 41
+Note-off 97723 72
+Note-off 97755 48
+Note-off 97791 65
+Note-off 97869 77
+Note-on 98177 77
+Note-on 98177 70
+Note-on 98177 51
+Note-on 98177 41
+Note-on 98177 53
+Note-on 98177 75
+Note-on 98177 46
+Note-on 98177 65
+Time=75484  Parameter, chan=1 c1=64 c2=88
+Time=75504  Parameter, chan=1 c1=64 c2=40
+Time=75520  Parameter, chan=1 c1=64 c2=0
+Time=75612  Parameter, chan=1 c1=64 c2=56
+Time=75624  Parameter, chan=1 c1=64 c2=104
+Time=75640  Parameter, chan=1 c1=64 c2=127
+Note-off 99072 51
+Note-on 99406 73
+Note-on 99406 49
+Note-off 99437 75
+Time=76412  Parameter, chan=1 c1=64 c2=56
+Time=76432  Parameter, chan=1 c1=64 c2=0
+Note-off 99609 53
+Time=76524  Parameter, chan=1 c1=64 c2=72
+Note-off 99645 77
+Note-off 99651 49
+Time=76540  Parameter, chan=1 c1=64 c2=127
+Note-off 99666 41
+Note-off 99697 46
+Note-off 99703 70
+Note-off 99708 65
+Note-off 99755 73
+Note-on 100062 30
+Time=76848  Parameter, chan=1 c1=64 c2=88
+Time=76864  Parameter, chan=1 c1=64 c2=40
+Time=76880  Parameter, chan=1 c1=64 c2=0
+Time=76924  Parameter, chan=1 c1=64 c2=56
+Time=76940  Parameter, chan=1 c1=64 c2=127
+Note-off 100338 30
+Note-on 100348 42
+Note-off 100458 42
+Note-on 100645 64
+Note-on 100645 46
+Note-on 100671 60
+Note-on 100682 58
+Note-off 100937 46
+Note-on 100942 48
+Note-off 101078 48
+Note-off 101182 60
+Note-off 101223 58
+Note-on 101229 52
+Note-off 101421 64
+Note-off 101427 52
+Note-on 101848 66
+Note-on 101869 63
+Note-on 101869 58
+Note-on 101901 24
+Time=78292  Parameter, chan=1 c1=64 c2=72
+Time=78304  Parameter, chan=1 c1=64 c2=24
+Time=78320  Parameter, chan=1 c1=64 c2=0
+Time=78384  Parameter, chan=1 c1=64 c2=24
+Time=78396  Parameter, chan=1 c1=64 c2=88
+Time=78416  Parameter, chan=1 c1=64 c2=127
+Note-on 102114 36
+Note-off 102119 24
+Note-off 102177 36
+Note-on 102427 54
+Note-on 102432 42
+Note-off 102494 58
+Note-off 102531 66
+Note-off 102541 63
+Note-off 102651 54
+Note-on 102713 46
+Note-off 102765 42
+Note-off 102812 46
+Note-on 103046 60
+Note-on 103057 51
+Note-on 103062 54
+Note-off 103151 51
+Note-off 103161 54
+Note-off 103192 60
+Note-on 103755 77
+Note-on 103770 65
+Note-on 103786 69
+Note-on 103786 51
+Note-on 103791 75
+Note-on 103791 45
+Note-on 103802 53
+Note-on 103828 41
+Time=79808  Parameter, chan=1 c1=64 c2=72
+Time=79824  Parameter, chan=1 c1=64 c2=24
+Time=79840  Parameter, chan=1 c1=64 c2=0
+Time=79920  Parameter, chan=1 c1=64 c2=24
+Time=79936  Parameter, chan=1 c1=64 c2=104
+Time=79948  Parameter, chan=1 c1=64 c2=127
+Note-off 104166 69
+Note-on 104421 73
+Note-on 104447 49
+Note-off 104640 49
+Note-off 104729 73
+Note-off 104760 51
+Note-off 104770 75
+Note-off 104875 45
+Note-on 105052 72
+Note-on 105083 48
+Time=80784  Parameter, chan=1 c1=64 c2=72
+Time=80800  Parameter, chan=1 c1=64 c2=40
+Note-off 105223 41
+Time=80848  Parameter, chan=1 c1=64 c2=72
+Time=80864  Parameter, chan=1 c1=64 c2=127
+Note-off 105348 65
+Note-off 105359 48
+Note-off 105385 72
+Note-off 105390 53
+Note-off 105406 77
+Note-on 105765 80
+Note-on 105791 68
+Note-on 105807 70
+Note-on 105812 56
+Note-on 105812 46
+Note-on 105822 44
+Note-on 105828 74
+Note-on 105833 50
+Note-off 105890 50
+Time=81344  Parameter, chan=1 c1=64 c2=72
+Time=81360  Parameter, chan=1 c1=64 c2=40
+Time=81392  Parameter, chan=1 c1=64 c2=56
+Time=81408  Parameter, chan=1 c1=64 c2=88
+Time=81420  Parameter, chan=1 c1=64 c2=127
+Note-on 106119 50
+Note-off 106140 44
+Note-off 106151 80
+Note-off 106203 56
+Note-off 106239 68
+Note-on 106500 78
+Note-on 106505 66
+Note-on 106526 42
+Note-on 106531 54
+Note-off 106843 42
+Note-off 106916 54
+Note-off 106921 78
+Note-off 106932 66
+Note-on 107270 77
+Note-on 107291 41
+Note-on 107291 65
+Note-on 107302 53
+Time=82536  Parameter, chan=1 c1=64 c2=56
+Time=82552  Parameter, chan=1 c1=64 c2=0
+Time=82660  Parameter, chan=1 c1=64 c2=72
+Time=82676  Parameter, chan=1 c1=64 c2=127
+Note-off 107692 41
+Note-off 107703 53
+Note-off 107708 50
+Note-off 107708 77
+Note-off 107708 65
+Note-off 107729 74
+Note-off 107739 46
+Note-off 107765 70
+Note-on 108088 39
+Time=83092  Parameter, chan=1 c1=64 c2=88
+Time=83112  Parameter, chan=1 c1=64 c2=40
+Time=83128  Parameter, chan=1 c1=64 c2=0
+Time=83188  Parameter, chan=1 c1=64 c2=40
+Time=83200  Parameter, chan=1 c1=64 c2=104
+Time=83216  Parameter, chan=1 c1=64 c2=127
+Note-on 108432 46
+Note-off 108500 39
+Note-off 108656 46
+Note-on 108708 70
+Note-on 108734 51
+Note-on 108739 66
+Note-on 109000 54
+Note-off 109020 51
+Note-on 109312 58
+Note-off 109354 66
+Note-off 109380 54
+Note-off 109593 58
+Note-off 109760 70
+Note-on 109880 71
+Note-on 109901 68
+Note-on 109953 32
+Time=84456  Parameter, chan=1 c1=64 c2=72
+Time=84472  Parameter, chan=1 c1=64 c2=24
+Time=84488  Parameter, chan=1 c1=64 c2=0
+Time=84548  Parameter, chan=1 c1=64 c2=40
+Time=84564  Parameter, chan=1 c1=64 c2=127
+Note-on 110161 44
+Note-off 110187 32
+Note-off 110234 44
+Note-off 110427 68
+Note-off 110453 71
+Note-on 110468 59
+Note-on 110484 47
+Note-on 110755 52
+Note-off 110833 47
+Note-off 110864 52
+Note-off 110901 59
+Note-on 111052 68
+Note-on 111052 64
+Note-off 111354 64
+Note-on 111692 56
+Time=85808  Parameter, chan=1 c1=64 c2=88
+Note-on 111734 34
+Time=85820  Parameter, chan=1 c1=64 c2=0
+Time=85928  Parameter, chan=1 c1=64 c2=104
+Time=85944  Parameter, chan=1 c1=64 c2=127
+Note-off 111911 56
+Note-off 111973 68
+Note-off 111994 34
+Note-on 112000 46
+Note-off 112072 46
+Note-on 112302 80
+Note-on 112312 49
+Note-on 112328 76
+Note-on 112567 52
+Note-on 112875 68
+Note-off 112901 76
+Note-off 112927 52
+Note-off 112932 49
+Note-off 113161 80
+Note-off 113265 68
+Note-on 113427 82
+Note-on 113427 79
+Note-on 113427 39
+Time=87200  Parameter, chan=1 c1=64 c2=72
+Time=87216  Parameter, chan=1 c1=64 c2=0
+Time=87292  Parameter, chan=1 c1=64 c2=40
+Time=87308  Parameter, chan=1 c1=64 c2=127
+Note-off 113687 39
+Note-on 113734 46
+Note-off 113932 46
+Note-on 113979 51
+Note-on 113994 70
+Note-off 114026 79
+Note-off 114057 82
+Note-off 114119 70
+Note-on 114250 55
+Note-off 114328 51
+Note-off 114328 55
+Note-on 114557 73
+Note-on 114578 61
+Note-on 114578 70
+Note-off 114817 70
+Note-off 114848 61
+Note-off 114854 73
+Time=88500  Parameter, chan=1 c1=64 c2=88
+Note-on 115239 32
+Time=88516  Parameter, chan=1 c1=64 c2=40
+Time=88532  Parameter, chan=1 c1=64 c2=0
+Time=88612  Parameter, chan=1 c1=64 c2=56
+Time=88628  Parameter, chan=1 c1=64 c2=127
+Note-on 115552 39
+Note-off 115557 32
+Note-off 115687 39
+Note-on 115817 66
+Note-on 115885 60
+Note-on 115885 63
+Note-on 115890 44
+Note-on 116104 48
+Note-off 116182 44
+Note-off 116260 48
+Note-on 116432 54
+Note-off 116447 66
+Note-off 116489 60
+Note-off 116598 63
+Note-off 116869 54
+Note-on 116989 66
+Note-on 117015 59
+Note-on 117020 63
+Note-on 117036 32
+Time=89912  Parameter, chan=1 c1=64 c2=104
+Time=89928  Parameter, chan=1 c1=64 c2=40
+Time=89944  Parameter, chan=1 c1=64 c2=0
+Time=90024  Parameter, chan=1 c1=64 c2=40
+Time=90036  Parameter, chan=1 c1=64 c2=127
+Note-on 117250 39
+Note-off 117281 32
+Note-off 117322 39
+Note-off 117562 59
+Note-on 117578 54
+Note-on 117614 44
+Note-off 117713 66
+Note-off 117781 54
+Note-on 117838 47
+Note-off 117885 44
+Note-off 117916 47
+Note-off 118062 63
+Note-on 118197 64
+Note-on 118213 52
+Note-on 118218 63
+Note-on 118244 59
+Note-off 118406 52
+Note-off 118427 59
+Note-off 118510 63
+Note-off 118520 64
+Note-on 118812 34
+Time=91320  Parameter, chan=1 c1=64 c2=72
+Time=91336  Parameter, chan=1 c1=64 c2=0
+Time=91416  Parameter, chan=1 c1=64 c2=56
+Time=91432  Parameter, chan=1 c1=64 c2=127
+Note-on 119072 46
+Note-off 119114 34
+Note-off 119203 46
+Note-on 119380 80
+Note-on 119385 49
+Note-on 119411 73
+Note-on 119411 76
+Note-on 119666 52
+Note-off 119734 49
+Note-off 119770 52
+Note-off 119854 76
+Note-on 119973 68
+Note-off 119984 73
+Note-off 120062 80
+Note-off 120203 68
+Note-on 120541 76
+Note-on 120557 73
+Note-on 120562 70
+Note-on 120625 31
+Time=92656  Parameter, chan=1 c1=64 c2=56
+Time=92672  Parameter, chan=1 c1=64 c2=0
+Time=92764  Parameter, chan=1 c1=64 c2=56
+Time=92780  Parameter, chan=1 c1=64 c2=127
+Note-off 120859 31
+Note-on 120859 43
+Note-off 120927 43
+Note-on 121151 46
+Note-on 121161 64
+Note-off 121296 73
+Note-off 121359 76
+Note-off 121395 64
+Note-on 121442 51
+Note-off 121640 70
+Note-on 121755 75
+Note-on 121770 63
+Note-on 121791 70
+Note-on 121817 73
+Time=93588  Parameter, chan=1 c1=64 c2=72
+Time=93600  Parameter, chan=1 c1=64 c2=0
+Time=93660  Parameter, chan=1 c1=64 c2=24
+Time=93676  Parameter, chan=1 c1=64 c2=88
+Time=93696  Parameter, chan=1 c1=64 c2=127
+Note-off 122046 51
+Note-off 122067 46
+Note-off 122078 75
+Note-off 122083 63
+Note-off 122093 73
+Note-off 122098 70
+Note-on 122458 32
+Time=94052  Parameter, chan=1 c1=64 c2=72
+Time=94064  Parameter, chan=1 c1=64 c2=0
+Time=94128  Parameter, chan=1 c1=64 c2=24
+Time=94144  Parameter, chan=1 c1=64 c2=104
+Time=94156  Parameter, chan=1 c1=64 c2=127
+Note-on 122703 39
+Note-off 122744 32
+Note-off 122807 39
+Note-on 123010 62
+Note-on 123041 59
+Note-on 123057 44
+Note-off 123197 44
+Note-on 123296 47
+Note-off 123343 47
+Note-off 123562 59
+Note-on 123604 53
+Note-off 123895 62
+Note-off 123958 53
+Note-on 124250 63
+Note-on 124276 58
+Time=95488  Parameter, chan=1 c1=64 c2=104
+Note-on 124338 30
+Time=95504  Parameter, chan=1 c1=64 c2=56
+Time=95524  Parameter, chan=1 c1=64 c2=0
+Time=95600  Parameter, chan=1 c1=64 c2=40
+Time=95616  Parameter, chan=1 c1=64 c2=104
+Time=95628  Parameter, chan=1 c1=64 c2=127
+Note-off 124536 30
+Note-on 124552 39
+Note-off 124697 39
+Note-off 124812 58
+Note-on 124859 42
+Note-on 124880 51
+Note-off 124921 42
+Note-on 125156 46
+Note-off 125218 51
+Note-off 125218 46
+Note-off 125437 63
+Note-on 125447 58
+Note-on 125458 54
+Note-off 125609 54
+Note-off 125718 58
+Note-on 126218 70
+Note-on 126223 58
+Note-on 126260 68
+Note-on 126270 46
+Note-on 126276 62
+Note-on 126276 56
+Note-on 126291 50
+Time=97100  Parameter, chan=1 c1=64 c2=104
+Time=97116  Parameter, chan=1 c1=64 c2=24
+Time=97132  Parameter, chan=1 c1=64 c2=0
+Time=97244  Parameter, chan=1 c1=64 c2=40
+Time=97260  Parameter, chan=1 c1=64 c2=127
+Note-off 126677 62
+Note-off 126848 68
+Note-on 126880 66
+Note-on 126916 54
+Note-off 127145 54
+Note-off 127197 66
+Note-on 127489 65
+Note-off 127500 50
+Note-on 127557 53
+Note-off 127760 46
+Note-off 127786 65
+Note-off 127848 53
+Note-off 127880 56
+Note-off 127953 70
+Note-off 127958 58
+Note-on 128145 58
+Note-on 128156 70
+Note-on 128161 63
+Note-on 128166 56
+Note-on 128171 51
+Note-on 128177 68
+Note-on 128177 46
+Time=98544  Parameter, chan=1 c1=64 c2=88
+Time=98560  Parameter, chan=1 c1=64 c2=40
+Time=98572  Parameter, chan=1 c1=64 c2=0
+Time=98684  Parameter, chan=1 c1=64 c2=40
+Time=98700  Parameter, chan=1 c1=64 c2=104
+Time=98716  Parameter, chan=1 c1=64 c2=127
+Note-off 129395 68
+Note-on 129463 66
+Note-on 129510 54
+Time=99472  Parameter, chan=1 c1=64 c2=72
+Time=99488  Parameter, chan=1 c1=64 c2=24
+Time=99504  Parameter, chan=1 c1=64 c2=0
+Time=99596  Parameter, chan=1 c1=64 c2=72
+Note-off 129697 51
+Time=99612  Parameter, chan=1 c1=64 c2=127
+Note-off 129708 56
+Note-off 129755 54
+Note-off 129770 63
+Note-off 129781 58
+Note-off 129791 46
+Note-off 129817 66
+Note-off 129875 70
+Time=99936  Parameter, chan=1 c1=64 c2=104
+Time=99952  Parameter, chan=1 c1=64 c2=56
+Time=99968  Parameter, chan=1 c1=64 c2=24
+Note-on 130187 32
+Time=99984  Parameter, chan=1 c1=64 c2=0
+Time=100032  Parameter, chan=1 c1=64 c2=40
+Time=100044  Parameter, chan=1 c1=64 c2=104
+Time=100060  Parameter, chan=1 c1=64 c2=127
+Note-on 130468 44
+Note-off 130500 32
+Note-off 130557 44
+Note-on 130781 76
+Note-on 130802 71
+Note-on 130802 68
+Note-on 130864 47
+Note-on 131072 52
+Note-off 131145 52
+Note-off 131156 47
+Note-off 131369 68
+Note-on 131375 64
+Note-off 131380 71
+Note-off 131531 76
+Note-off 131703 64
+Note-on 131921 75
+Note-on 131953 70
+Note-on 131953 66
+Note-on 132000 34
+Time=101396  Parameter, chan=1 c1=64 c2=88
+Time=101408  Parameter, chan=1 c1=64 c2=40
+Time=101424  Parameter, chan=1 c1=64 c2=0
+Time=101500  Parameter, chan=1 c1=64 c2=40
+Time=101516  Parameter, chan=1 c1=64 c2=127
+Note-on 132213 42
+Note-off 132239 34
+Note-off 132312 42
+Note-off 132411 66
+Note-off 132489 70
+Note-on 132520 63
+Note-on 132536 46
+Note-off 132546 75
+Note-on 132781 51
+Note-off 133010 51
+Note-on 133083 70
+Note-on 133093 66
+Note-off 133114 46
+Note-off 133197 63
+Note-off 133234 66
+Note-off 133265 70
+Note-on 133864 58
+Note-on 133869 56
+Note-on 133875 50
+Note-on 133885 44
+Note-on 133890 46
+Time=103052  Parameter, chan=1 c1=64 c2=104
+Time=103068  Parameter, chan=1 c1=64 c2=72
+Time=103080  Parameter, chan=1 c1=64 c2=40
+Time=103100  Parameter, chan=1 c1=64 c2=0
+Time=103240  Parameter, chan=1 c1=64 c2=72
+Time=103252  Parameter, chan=1 c1=64 c2=127
+Note-off 134968 44
+Note-on 135046 42
+Note-off 135182 50
+Note-off 135270 46
+Note-off 135307 56
+Note-off 135322 58
+Note-on 135614 56
+Note-on 135614 58
+Note-on 135625 50
+Note-on 135640 46
+Note-off 136151 42
+Note-on 136276 41
+Time=104756  Parameter, chan=1 c1=64 c2=104
+Time=104772  Parameter, chan=1 c1=64 c2=72
+Time=104788  Parameter, chan=1 c1=64 c2=24
+Time=104804  Parameter, chan=1 c1=64 c2=0
+Time=104928  Parameter, chan=1 c1=64 c2=40
+Time=104944  Parameter, chan=1 c1=64 c2=104
+Time=104960  Parameter, chan=1 c1=64 c2=127
+Note-off 136807 50
+Note-off 136906 56
+Note-off 136979 58
+Note-off 137031 41
+Note-off 137114 46
+Note-on 137552 49
+Note-on 137557 63
+Note-on 137557 39
+Note-on 137567 51
+Note-on 137567 61
+Note-on 137598 55
+Time=105716  Parameter, chan=1 c1=64 c2=88
+Time=105732  Parameter, chan=1 c1=64 c2=56
+Time=105748  Parameter, chan=1 c1=64 c2=24
+Time=105764  Parameter, chan=1 c1=64 c2=0
+Time=105840  Parameter, chan=1 c1=64 c2=24
+Time=105856  Parameter, chan=1 c1=64 c2=72
+Time=105876  Parameter, chan=1 c1=64 c2=127
+Note-off 138291 61
+Note-on 138848 59
+Note-on 138921 47
+Time=106696  Parameter, chan=1 c1=64 c2=104
+Time=106712  Parameter, chan=1 c1=64 c2=56
+Time=106724  Parameter, chan=1 c1=64 c2=24
+Time=106740  Parameter, chan=1 c1=64 c2=0
+Note-off 139031 39
+Time=106784  Parameter, chan=1 c1=64 c2=88
+Note-off 139062 49
+Time=106804  Parameter, chan=1 c1=64 c2=127
+Note-off 139171 51
+Note-off 139192 63
+Note-off 139343 55
+Note-off 139500 47
+Note-on 139520 63
+Note-on 139526 51
+Note-on 139531 39
+Note-off 139947 59
+Note-on 140333 58
+Note-on 140369 46
+Time=107948  Parameter, chan=1 c1=64 c2=72
+Time=107964  Parameter, chan=1 c1=64 c2=0
+Time=108104  Parameter, chan=1 c1=64 c2=40
+Time=108120  Parameter, chan=1 c1=64 c2=104
+Time=108136  Parameter, chan=1 c1=64 c2=127
+Note-off 140958 51
+Note-off 141015 58
+Note-off 141031 39
+Note-off 141067 63
+Note-off 141083 46
+Time=108648  Parameter, chan=1 c1=64 c2=88
+Time=108660  Parameter, chan=1 c1=64 c2=24
+Note-on 141494 39
+Time=108676  Parameter, chan=1 c1=64 c2=0
+Time=108740  Parameter, chan=1 c1=64 c2=56
+Time=108752  Parameter, chan=1 c1=64 c2=127
+Note-off 141614 39
+Note-on 141635 46
+Note-on 141744 75
+Note-on 141750 63
+Note-on 141770 70
+Note-on 141770 67
+Note-on 141786 55
+Note-off 141838 46
+Note-off 141906 55
+Note-off 141984 63
+Note-off 142010 75
+Note-off 142093 67
+Note-off 142145 70
+Note-on 142338 74
+Note-on 142348 62
+Note-off 142468 62
+Note-off 142479 74
+Note-on 142958 72
+Note-on 142968 60
+Note-on 142979 63
+Note-on 142984 87
+Note-on 143000 67
+Note-on 143000 75
+Time=109824  Parameter, chan=1 c1=64 c2=72
+Note-on 143020 79
+Time=109840  Parameter, chan=1 c1=64 c2=0
+Time=109888  Parameter, chan=1 c1=64 c2=104
+Time=109904  Parameter, chan=1 c1=64 c2=127
+Note-off 143130 72
+Note-off 143161 79
+Note-off 143177 87
+Note-off 143197 60
+Note-off 143213 67
+Note-off 143244 75
+Note-off 143276 63
+Note-on 143635 70
+Note-on 143640 87
+Note-on 143640 58
+Note-on 143645 75
+Note-on 143645 67
+Note-on 143661 79
+Note-on 143661 63
+Time=110412  Parameter, chan=1 c1=64 c2=104
+Time=110428  Parameter, chan=1 c1=64 c2=24
+Time=110444  Parameter, chan=1 c1=64 c2=0
+Time=110520  Parameter, chan=1 c1=64 c2=40
+Time=110536  Parameter, chan=1 c1=64 c2=127
+Note-off 144000 87
+Note-off 144088 75
+Note-off 144088 79
+Note-off 144312 67
+Note-off 144354 70
+Note-off 144484 58
+Note-off 144625 63
+Note-on 144802 68
+Note-on 144812 56
+Note-on 144812 63
+Note-on 144833 39
+Note-on 144833 51
+Note-on 144854 46
+Note-off 144968 68
+Note-off 144968 56
+Note-off 145020 51
+Note-off 145062 63
+Note-off 145062 46
+Note-off 145067 39
+Note-on 145098 67
+Note-on 145114 55
+Note-on 145151 57
+Note-off 145192 57
+Note-off 145213 55
+Note-off 145218 67
+Note-on 145442 65
+Note-on 145458 55
+Note-on 145463 53
+Note-on 145468 58
+Note-on 145468 39
+Note-on 145473 46
+Time=111748  Parameter, chan=1 c1=64 c2=56
+Time=111760  Parameter, chan=1 c1=64 c2=0
+Time=111856  Parameter, chan=1 c1=64 c2=40
+Time=111868  Parameter, chan=1 c1=64 c2=127
+Note-off 145744 55
+Note-off 145750 53
+Note-off 145796 65
+Note-off 145796 39
+Note-off 145817 46
+Note-off 145973 58
+Note-on 146041 63
+Note-on 146052 51
+Note-off 146114 51
+Note-off 146229 63
+Note-on 146640 67
+Note-on 146656 55
+Note-on 146661 58
+Note-on 146661 63
+Note-on 146677 75
+Note-on 146682 87
+Time=112660  Parameter, chan=1 c1=64 c2=56
+Note-on 146713 79
+Time=112676  Parameter, chan=1 c1=64 c2=0
+Time=112708  Parameter, chan=1 c1=64 c2=24
+Time=112724  Parameter, chan=1 c1=64 c2=72
+Note-off 146781 58
+Time=112740  Parameter, chan=1 c1=64 c2=127
+Note-off 146817 55
+Note-off 146864 79
+Note-off 146885 63
+Note-off 146890 75
+Note-off 146890 87
+Note-off 146901 67
+Note-on 147333 70
+Note-on 147338 87
+Note-on 147343 75
+Note-on 147343 58
+Note-on 147375 79
+Note-on 147375 67
+Note-on 147385 63
+Time=113264  Parameter, chan=1 c1=64 c2=104
+Time=113280  Parameter, chan=1 c1=64 c2=40
+Time=113296  Parameter, chan=1 c1=64 c2=0
+Time=113392  Parameter, chan=1 c1=64 c2=88
+Time=113404  Parameter, chan=1 c1=64 c2=127
+Note-off 147739 87
+Note-off 147817 79
+Note-off 147843 75
+Note-off 147906 58
+Note-off 148010 67
+Note-off 148052 70
+Note-off 148062 63
+Note-on 148489 72
+Note-on 148505 60
+Note-on 148510 51
+Note-on 148510 63
+Note-on 148515 43
+Note-on 148526 55
+Note-on 148526 67
+Note-off 148567 63
+Note-off 148578 67
+Note-off 148604 60
+Note-off 148651 72
+Note-off 148697 55
+Note-on 148786 74
+Note-on 148796 62
+Note-off 148822 51
+Note-off 148838 43
+Note-off 148880 62
+Note-off 148921 74
+Note-on 149119 75
+Note-on 149130 63
+Note-on 149135 70
+Note-on 149145 67
+Note-on 149166 51
+Note-on 149166 55
+Note-on 149177 43
+Time=114600  Parameter, chan=1 c1=64 c2=72
+Time=114612  Parameter, chan=1 c1=64 c2=0
+Time=114692  Parameter, chan=1 c1=64 c2=40
+Time=114704  Parameter, chan=1 c1=64 c2=127
+Note-off 149458 63
+Note-off 149500 75
+Note-off 149536 43
+Note-off 149541 55
+Note-off 149614 51
+Note-off 149666 67
+Note-off 149682 70
+Note-on 149718 74
+Note-on 149729 62
+Note-off 149848 74
+Note-off 149854 62
+Note-on 150312 72
+Note-on 150333 60
+Note-on 150333 63
+Note-on 150338 67
+Note-on 150385 87
+Note-on 150401 75
+Time=115512  Parameter, chan=1 c1=64 c2=56
+Note-on 150427 79
+Time=115528  Parameter, chan=1 c1=64 c2=0
+Time=115560  Parameter, chan=1 c1=64 c2=40
+Time=115576  Parameter, chan=1 c1=64 c2=88
+Time=115592  Parameter, chan=1 c1=64 c2=127
+Note-off 150515 72
+Note-off 150557 60
+Note-off 150593 79
+Note-off 150598 75
+Note-off 150609 87
+Note-off 150682 67
+Note-off 150760 63
+Note-on 150958 70
+Note-on 150958 58
+Note-on 150979 67
+Note-on 150989 63
+Note-on 150989 79
+Note-on 150994 87
+Note-on 151000 75
+Time=116056  Parameter, chan=1 c1=64 c2=56
+Time=116068  Parameter, chan=1 c1=64 c2=0
+Time=116180  Parameter, chan=1 c1=64 c2=72
+Time=116196  Parameter, chan=1 c1=64 c2=127
+Note-off 151375 87
+Note-off 151458 75
+Note-off 151473 79
+Note-off 151718 67
+Note-off 151739 70
+Note-off 151812 58
+Note-off 152020 63
+Note-on 152145 68
+Note-on 152166 46
+Note-on 152166 56
+Note-on 152166 63
+Note-on 152166 34
+Note-off 152307 56
+Note-off 152312 68
+Note-off 152312 34
+Note-off 152322 46
+Note-off 152401 63
+Note-on 152437 67
+Note-on 152442 55
+Note-off 152515 55
+Note-off 152546 67
+Note-on 152807 70
+Note-on 152817 58
+Note-on 152822 63
+Note-on 152859 46
+Note-on 152859 51
+Note-on 152859 55
+Time=117496  Parameter, chan=1 c1=64 c2=72
+Time=117512  Parameter, chan=1 c1=64 c2=0
+Time=117608  Parameter, chan=1 c1=64 c2=24
+Note-off 153151 63
+Time=117620  Parameter, chan=1 c1=64 c2=104
+Time=117636  Parameter, chan=1 c1=64 c2=127
+Note-off 153260 55
+Note-off 153307 51
+Note-off 153317 46
+Note-off 153375 70
+Note-on 153385 63
+Note-off 153536 58
+Note-off 153562 63
+Note-on 153875 67
+Note-off 153963 67
+Note-on 154026 56
+Note-on 154031 65
+Note-on 154046 62
+Note-on 154067 46
+Note-on 154072 34
+Time=118380  Parameter, chan=1 c1=64 c2=72
+Time=118392  Parameter, chan=1 c1=64 c2=0
+Time=118488  Parameter, chan=1 c1=64 c2=72
+Time=118504  Parameter, chan=1 c1=64 c2=127
+Note-off 154364 62
+Note-off 154395 56
+Note-off 154416 46
+Note-off 154437 34
+Note-off 154510 65
+Note-on 154671 63
+Note-on 154697 55
+Note-on 154697 46
+Note-on 154708 39
+Time=118908  Parameter, chan=1 c1=64 c2=104
+Time=118920  Parameter, chan=1 c1=64 c2=40
+Time=118936  Parameter, chan=1 c1=64 c2=0
+Time=119064  Parameter, chan=1 c1=64 c2=56
+Time=119080  Parameter, chan=1 c1=64 c2=127
+Note-off 155072 55
+Note-off 155218 63
+Note-off 155380 39
+Note-off 155432 46
+Note-on 155583 67
+Note-off 155739 67
+Note-on 155875 70
+Note-on 155885 67
+Note-on 155906 39
+Time=119744  Parameter, chan=1 c1=64 c2=40
+Time=119760  Parameter, chan=1 c1=64 c2=0
+Time=119808  Parameter, chan=1 c1=64 c2=72
+Time=119820  Parameter, chan=1 c1=64 c2=127
+Note-off 156083 39
+Note-on 156171 79
+Note-off 156182 67
+Note-off 156197 70
+Note-off 156281 79
+Note-on 156515 80
+Note-on 156526 68
+Note-on 156552 77
+Note-on 156567 51
+Note-on 156578 60
+Time=120272  Parameter, chan=1 c1=64 c2=40
+Time=120284  Parameter, chan=1 c1=64 c2=0
+Time=120364  Parameter, chan=1 c1=64 c2=56
+Time=120376  Parameter, chan=1 c1=64 c2=127
+Note-on 157156 72
+Note-off 157296 80
+Note-off 157338 77
+Note-off 157380 68
+Note-off 157437 51
+Note-off 157520 60
+Note-off 157541 72
+Note-on 157687 77
+Note-on 157692 65
+Note-on 157703 74
+Note-on 157723 56
+Note-on 157723 51
+Time=121248  Parameter, chan=1 c1=64 c2=40
+Time=121264  Parameter, chan=1 c1=64 c2=0
+Time=121340  Parameter, chan=1 c1=64 c2=88
+Note-off 158010 65
+Time=121356  Parameter, chan=1 c1=64 c2=127
+Note-off 158046 77
+Note-off 158093 51
+Note-off 158125 74
+Note-off 158130 56
+Note-on 158333 79
+Note-on 158343 70
+Note-on 158348 67
+Note-on 158364 51
+Note-on 158380 58
+Time=121756  Parameter, chan=1 c1=64 c2=88
+Time=121772  Parameter, chan=1 c1=64 c2=0
+Note-off 158656 70
+Time=121868  Parameter, chan=1 c1=64 c2=56
+Time=121884  Parameter, chan=1 c1=64 c2=127
+Note-off 158828 67
+Note-off 158932 58
+Note-off 158989 51
+Note-off 159114 79
+Note-on 159208 75
+Note-off 159432 75
+Note-on 159526 82
+Time=122520  Parameter, chan=1 c1=64 c2=88
+Note-on 159536 70
+Note-on 159541 39
+Note-on 159541 79
+Time=122536  Parameter, chan=1 c1=64 c2=0
+Time=122612  Parameter, chan=1 c1=64 c2=56
+Time=122628  Parameter, chan=1 c1=64 c2=127
+Note-off 159703 39
+Note-off 159796 79
+Note-off 159812 82
+Note-on 159812 75
+Note-off 159854 70
+Note-off 160005 75
+Note-on 160140 80
+Note-on 160156 68
+Note-on 160171 77
+Note-on 160187 51
+Note-on 160192 60
+Time=123108  Parameter, chan=1 c1=64 c2=104
+Time=123120  Parameter, chan=1 c1=64 c2=24
+Time=123136  Parameter, chan=1 c1=64 c2=0
+Time=123216  Parameter, chan=1 c1=64 c2=127
+Note-on 160453 75
+Note-off 160468 77
+Note-off 160625 80
+Note-off 160671 75
+Note-on 160739 77
+Note-off 160968 77
+Note-off 161015 68
+Note-on 161020 72
+Note-off 161098 51
+Note-off 161177 60
+Note-off 161203 72
+Note-on 161322 77
+Note-on 161322 65
+Note-on 161322 56
+Note-on 161322 51
+Note-on 161322 75
+Time=123932  Parameter, chan=1 c1=64 c2=24
+Time=123944  Parameter, chan=1 c1=64 c2=0
+Time=124020  Parameter, chan=1 c1=64 c2=88
+Time=124036  Parameter, chan=1 c1=64 c2=127
+Note-on 161640 74
+Note-off 161651 65
+Note-off 161656 77
+Note-off 161718 51
+Note-off 161739 75
+Note-off 161755 56
+Note-off 161781 74
+Note-on 161921 79
+Note-on 161937 67
+Note-on 161958 75
+Note-on 161958 51
+Note-on 161973 58
+Time=124424  Parameter, chan=1 c1=64 c2=88
+Time=124440  Parameter, chan=1 c1=64 c2=24
+Time=124456  Parameter, chan=1 c1=64 c2=0
+Time=124516  Parameter, chan=1 c1=64 c2=56
+Time=124532  Parameter, chan=1 c1=64 c2=127
+Note-on 162229 74
+Note-off 162250 75
+Note-off 162375 79
+Note-off 162479 74
+Note-on 162505 75
+Note-off 162593 58
+Note-off 162630 51
+Note-off 162703 75
+Note-off 162802 67
+Note-on 162807 70
+Note-off 162973 70
+Note-on 163130 75
+Note-on 163135 72
+Note-on 163145 67
+Time=125296  Parameter, chan=1 c1=64 c2=88
+Note-on 163156 39
+Note-on 163161 51
+Time=125308  Parameter, chan=1 c1=64 c2=0
+Time=125388  Parameter, chan=1 c1=64 c2=24
+Time=125400  Parameter, chan=1 c1=64 c2=88
+Time=125416  Parameter, chan=1 c1=64 c2=127
+Note-off 163338 39
+Note-off 163354 51
+Note-off 163380 72
+Note-off 163395 67
+Note-on 163416 70
+Note-off 163447 75
+Note-off 163572 70
+Time=125744  Parameter, chan=1 c1=64 c2=88
+Note-on 163734 77
+Note-on 163739 74
+Note-on 163750 58
+Note-on 163750 65
+Time=125760  Parameter, chan=1 c1=64 c2=0
+Note-on 163765 46
+Time=125820  Parameter, chan=1 c1=64 c2=56
+Time=125836  Parameter, chan=1 c1=64 c2=127
+Note-off 164010 74
+Note-on 164041 72
+Note-off 164072 46
+Note-off 164161 58
+Note-off 164260 72
+Note-on 164317 74
+Note-on 164322 57
+Note-on 164333 45
+Note-off 164578 77
+Note-off 164588 45
+Note-off 164593 74
+Note-on 164593 70
+Note-off 164609 57
+Note-off 164651 65
+Note-off 164765 70
+Note-on 164895 75
+Note-on 164895 55
+Note-on 164895 43
+Note-on 164895 63
+Note-on 164895 72
+Time=126688  Parameter, chan=1 c1=64 c2=56
+Time=126704  Parameter, chan=1 c1=64 c2=0
+Time=126768  Parameter, chan=1 c1=64 c2=56
+Time=126780  Parameter, chan=1 c1=64 c2=127
+Note-off 165151 55
+Note-off 165151 63
+Note-off 165151 72
+Note-off 165161 43
+Note-on 165203 70
+Note-off 165208 75
+Note-off 165390 70
+Note-on 165484 77
+Note-on 165489 74
+Note-on 165505 65
+Note-on 165526 53
+Note-on 165536 41
+Time=127152  Parameter, chan=1 c1=64 c2=56
+Time=127168  Parameter, chan=1 c1=64 c2=0
+Time=127244  Parameter, chan=1 c1=64 c2=56
+Time=127260  Parameter, chan=1 c1=64 c2=127
+Note-on 165770 72
+Note-off 165791 74
+Note-off 165843 77
+Note-off 166010 72
+Note-on 166046 74
+Note-off 166302 74
+Note-off 166312 65
+Note-on 166328 70
+Note-off 166421 53
+Note-off 166458 41
+Note-off 166479 70
+Time=127972  Parameter, chan=1 c1=64 c2=72
+Note-on 166651 81
+Time=127988  Parameter, chan=1 c1=64 c2=0
+Note-on 166661 69
+Note-on 166661 77
+Note-on 166666 51
+Note-on 166666 39
+Time=128020  Parameter, chan=1 c1=64 c2=24
+Time=128036  Parameter, chan=1 c1=64 c2=104
+Time=128052  Parameter, chan=1 c1=64 c2=127
+Note-off 166781 51
+Note-off 166843 39
+Note-off 166864 81
+Note-off 166890 77
+Note-off 166958 69
+Note-on 166979 70
+Note-on 167000 50
+Note-on 167000 38
+Note-off 167078 38
+Note-off 167098 50
+Note-off 167182 70
+Note-on 167348 79
+Note-on 167354 75
+Note-on 167369 70
+Note-on 167395 53
+Note-on 167401 41
+Time=128608  Parameter, chan=1 c1=64 c2=104
+Time=128624  Parameter, chan=1 c1=64 c2=0
+Time=128736  Parameter, chan=1 c1=64 c2=127
+Note-off 167682 79
+Note-on 167682 67
+Note-off 167734 70
+Note-off 167739 75
+Note-off 167927 67
+Note-on 167979 77
+Note-on 167994 69
+Note-on 168005 74
+Note-off 168041 53
+Note-off 168104 41
+Note-off 168130 77
+Note-off 168177 74
+Note-off 168208 69
+Note-on 168291 65
+Note-off 168458 65
+Note-on 168598 75
+Note-on 168614 72
+Note-on 168614 67
+Note-on 168645 46
+Time=129524  Parameter, chan=1 c1=64 c2=40
+Note-on 168656 34
+Time=129540  Parameter, chan=1 c1=64 c2=0
+Note-off 168755 72
+Time=129604  Parameter, chan=1 c1=64 c2=72
+Time=129616  Parameter, chan=1 c1=64 c2=127
+Note-off 168776 67
+Note-off 168812 75
+Note-on 168937 74
+Note-on 168942 65
+Note-on 168947 70
+Note-off 169046 74
+Note-off 169057 70
+Note-off 169062 65
+Note-off 169093 34
+Note-off 169114 46
+Note-on 169328 72
+Note-on 169333 63
+Note-on 169333 68
+Note-on 169348 46
+Note-on 169359 34
+Time=130132  Parameter, chan=1 c1=64 c2=88
+Time=130148  Parameter, chan=1 c1=64 c2=0
+Time=130240  Parameter, chan=1 c1=64 c2=104
+Time=130252  Parameter, chan=1 c1=64 c2=127
+Note-off 169635 63
+Note-off 169656 72
+Note-on 169666 60
+Note-off 169703 68
+Note-off 169875 60
+Note-on 169994 70
+Note-on 170020 67
+Note-on 170031 62
+Time=130656  Parameter, chan=1 c1=64 c2=40
+Time=130672  Parameter, chan=1 c1=64 c2=0
+Time=130748  Parameter, chan=1 c1=64 c2=88
+Time=130764  Parameter, chan=1 c1=64 c2=127
+Note-off 170343 67
+Note-on 170380 58
+Note-off 170453 62
+Note-off 170463 34
+Note-off 170500 46
+Note-off 170531 70
+Note-off 170552 58
+Note-on 170822 70
+Note-on 170822 68
+Note-on 170822 60
+Note-on 170822 46
+Note-on 170822 63
+Note-on 170822 56
+Time=131260  Parameter, chan=1 c1=64 c2=72
+Time=131272  Parameter, chan=1 c1=64 c2=0
+Note-off 171020 63
+Time=131352  Parameter, chan=1 c1=64 c2=40
+Time=131368  Parameter, chan=1 c1=64 c2=127
+Note-off 171067 60
+Note-off 171182 56
+Time=131556  Parameter, chan=1 c1=64 c2=24
+Note-on 171317 65
+Note-on 171317 62
+Time=131572  Parameter, chan=1 c1=64 c2=0
+Note-on 171359 56
+Time=131620  Parameter, chan=1 c1=64 c2=24
+Time=131632  Parameter, chan=1 c1=64 c2=104
+Time=131648  Parameter, chan=1 c1=64 c2=127
+Note-off 171421 46
+Note-off 171468 56
+Note-off 171505 65
+Note-off 171520 62
+Time=131788  Parameter, chan=1 c1=64 c2=104
+Time=131804  Parameter, chan=1 c1=64 c2=24
+Time=131816  Parameter, chan=1 c1=64 c2=0
+Note-off 171661 68
+Note-off 171682 70
+Note-on 171687 39
+Time=131868  Parameter, chan=1 c1=64 c2=72
+Time=131884  Parameter, chan=1 c1=64 c2=127
+Note-off 171791 39
+Note-on 171911 75
+Note-on 171937 63
+Note-on 171953 55
+Note-on 171953 67
+Note-off 172098 67
+Note-off 172427 75
+Note-on 172567 74
+Note-off 172583 63
+Note-off 172723 55
+Note-off 172932 74
+Note-on 173156 72
+Note-on 173156 75
+Note-on 173161 63
+Note-on 173203 51
+Note-on 173203 55
+Time=133028  Parameter, chan=1 c1=64 c2=72
+Time=133044  Parameter, chan=1 c1=64 c2=0
+Time=133136  Parameter, chan=1 c1=64 c2=56
+Time=133152  Parameter, chan=1 c1=64 c2=127
+Note-off 173453 72
+Note-off 173505 55
+Note-off 173520 51
+Note-off 173562 75
+Note-off 173604 63
+Note-on 173770 75
+Note-on 173781 63
+Note-on 173791 70
+Note-on 173812 51
+Note-on 173822 55
+Time=133648  Parameter, chan=1 c1=64 c2=104
+Time=133664  Parameter, chan=1 c1=64 c2=40
+Time=133680  Parameter, chan=1 c1=64 c2=0
+Time=133772  Parameter, chan=1 c1=64 c2=88
+Time=133788  Parameter, chan=1 c1=64 c2=127
+Note-off 174489 55
+Note-off 174520 51
+Note-off 174677 75
+Note-off 174802 70
+Note-off 174812 63
+Note-on 174953 75
+Time=134364  Parameter, chan=1 c1=64 c2=72
+Note-on 174958 68
+Note-on 174958 63
+Time=134376  Parameter, chan=1 c1=64 c2=24
+Note-on 174984 39
+Time=134392  Parameter, chan=1 c1=64 c2=0
+Time=134436  Parameter, chan=1 c1=64 c2=40
+Time=134456  Parameter, chan=1 c1=64 c2=104
+Time=134468  Parameter, chan=1 c1=64 c2=127
+Note-off 175166 63
+Note-off 175177 68
+Note-off 175187 39
+Note-off 175218 75
+Note-on 175255 67
+Note-off 175437 67
+Note-on 175578 75
+Note-on 175598 65
+Note-on 175625 55
+Note-on 175635 51
+Time=134904  Parameter, chan=1 c1=64 c2=88
+Time=134920  Parameter, chan=1 c1=64 c2=24
+Time=134932  Parameter, chan=1 c1=64 c2=0
+Time=135000  Parameter, chan=1 c1=64 c2=24
+Time=135012  Parameter, chan=1 c1=64 c2=104
+Note-off 175802 65
+Time=135028  Parameter, chan=1 c1=64 c2=127
+Note-on 176171 63
+Note-off 176322 75
+Note-off 176385 51
+Note-off 176395 55
+Note-off 176494 63
+Note-on 176744 75
+Note-on 176755 63
+Time=135756  Parameter, chan=1 c1=64 c2=104
+Note-on 176776 67
+Note-on 176786 55
+Time=135772  Parameter, chan=1 c1=64 c2=56
+Note-on 176796 51
+Time=135788  Parameter, chan=1 c1=64 c2=0
+Time=135864  Parameter, chan=1 c1=64 c2=56
+Time=135880  Parameter, chan=1 c1=64 c2=127
+Note-off 177041 55
+Note-off 177057 51
+Note-off 177093 67
+Note-off 177109 63
+Note-off 177130 75
+Note-on 177385 75
+Note-on 177395 70
+Note-on 177401 63
+Note-on 177437 55
+Note-on 177437 51
+Time=136376  Parameter, chan=1 c1=64 c2=104
+Time=136392  Parameter, chan=1 c1=64 c2=40
+Time=136408  Parameter, chan=1 c1=64 c2=0
+Time=136496  Parameter, chan=1 c1=64 c2=40
+Time=136516  Parameter, chan=1 c1=64 c2=127
+Note-off 178093 55
+Note-off 178130 51
+Note-off 178187 70
+Note-off 178354 75
+Note-off 178390 63
+Time=137168  Parameter, chan=1 c1=64 c2=56
+Note-on 178609 75
+Time=137184  Parameter, chan=1 c1=64 c2=0
+Note-on 178630 63
+Note-on 178640 72
+Note-on 178656 36
+Time=137260  Parameter, chan=1 c1=64 c2=72
+Time=137276  Parameter, chan=1 c1=64 c2=127
+Note-off 178781 36
+Note-off 178854 75
+Note-off 178895 72
+Note-on 178932 74
+Note-off 179000 63
+Note-off 179145 74
+Note-on 179265 75
+Note-on 179265 63
+Note-on 179317 55
+Note-on 179338 48
+Time=137768  Parameter, chan=1 c1=64 c2=88
+Time=137784  Parameter, chan=1 c1=64 c2=0
+Time=137880  Parameter, chan=1 c1=64 c2=40
+Time=137896  Parameter, chan=1 c1=64 c2=104
+Time=137912  Parameter, chan=1 c1=64 c2=127
+Note-off 179791 75
+Note-on 179859 74
+Note-off 179921 63
+Note-off 180020 48
+Note-off 180062 55
+Note-off 180145 74
+Note-on 180458 75
+Note-on 180468 63
+Note-on 180473 72
+Note-on 180505 55
+Note-on 180526 48
+Time=138656  Parameter, chan=1 c1=64 c2=88
+Time=138668  Parameter, chan=1 c1=64 c2=24
+Time=138684  Parameter, chan=1 c1=64 c2=0
+Time=138764  Parameter, chan=1 c1=64 c2=56
+Time=138776  Parameter, chan=1 c1=64 c2=127
+Note-off 180750 72
+Note-off 180802 75
+Note-off 180807 48
+Note-off 180812 55
+Note-off 180885 63
+Note-on 181114 75
+Note-on 181125 70
+Note-on 181130 63
+Note-on 181145 55
+Note-on 181171 48
+Time=139212  Parameter, chan=1 c1=64 c2=104
+Time=139228  Parameter, chan=1 c1=64 c2=56
+Time=139244  Parameter, chan=1 c1=64 c2=0
+Time=139336  Parameter, chan=1 c1=64 c2=56
+Time=139352  Parameter, chan=1 c1=64 c2=127
+Note-off 181630 55
+Note-off 181666 48
+Note-off 181822 75
+Note-off 181833 70
+Note-off 182078 63
+Time=139988  Parameter, chan=1 c1=64 c2=72
+Note-on 182281 69
+Note-on 182286 75
+Note-on 182291 63
+Time=140004  Parameter, chan=1 c1=64 c2=24
+Time=140020  Parameter, chan=1 c1=64 c2=0
+Note-on 182322 38
+Time=140076  Parameter, chan=1 c1=64 c2=56
+Time=140096  Parameter, chan=1 c1=64 c2=127
+Note-off 182421 38
+Note-off 182473 75
+Note-off 182520 63
+Note-off 182557 69
+Note-on 182567 67
+Note-off 182786 67
+Note-on 182901 69
+Note-on 182911 75
+Note-on 182916 63
+Note-on 182953 54
+Note-on 182963 50
+Note-on 182963 60
+Time=140576  Parameter, chan=1 c1=64 c2=104
+Time=140592  Parameter, chan=1 c1=64 c2=56
+Time=140604  Parameter, chan=1 c1=64 c2=0
+Time=140684  Parameter, chan=1 c1=64 c2=56
+Time=140700  Parameter, chan=1 c1=64 c2=127
+Note-off 183328 69
+Note-on 183484 70
+Note-off 183552 75
+Note-off 183598 63
+Note-off 183697 50
+Note-off 183703 60
+Note-off 183718 54
+Note-off 183890 70
+Note-on 184104 62
+Note-on 184114 72
+Note-on 184130 74
+Note-on 184151 57
+Note-on 184151 50
+Note-on 184151 54
+Time=141428  Parameter, chan=1 c1=64 c2=56
+Time=141444  Parameter, chan=1 c1=64 c2=0
+Time=141520  Parameter, chan=1 c1=64 c2=24
+Time=141536  Parameter, chan=1 c1=64 c2=88
+Time=141552  Parameter, chan=1 c1=64 c2=127
+Note-off 184317 57
+Note-off 184348 54
+Note-off 184364 50
+Note-off 184479 74
+Note-off 184500 62
+Note-off 184562 72
+Note-on 184802 70
+Note-on 184812 74
+Note-on 184817 62
+Note-on 184864 55
+Note-on 184869 43
+Time=142048  Parameter, chan=1 c1=64 c2=88
+Time=142064  Parameter, chan=1 c1=64 c2=24
+Time=142080  Parameter, chan=1 c1=64 c2=0
+Time=142188  Parameter, chan=1 c1=64 c2=56
+Time=142200  Parameter, chan=1 c1=64 c2=127
+Note-off 185302 62
+Note-off 185328 43
+Note-off 185380 55
+Note-off 185411 70
+Note-off 185437 74
+Note-on 185786 74
+Note-off 186010 74
+Note-on 186104 82
+Time=142928  Parameter, chan=1 c1=64 c2=56
+Note-on 186114 72
+Note-on 186125 68
+Time=142944  Parameter, chan=1 c1=64 c2=0
+Note-on 186145 58
+Note-on 186171 62
+Time=142992  Parameter, chan=1 c1=64 c2=72
+Time=143008  Parameter, chan=1 c1=64 c2=127
+Note-off 186229 62
+Note-off 186234 72
+Note-off 186260 68
+Note-off 186307 58
+Note-off 186375 82
+Note-on 186401 70
+Note-off 186520 70
+Time=143288  Parameter, chan=1 c1=64 c2=56
+Time=143304  Parameter, chan=1 c1=64 c2=40
+Note-on 186598 51
+Time=143320  Parameter, chan=1 c1=64 c2=72
+Time=143336  Parameter, chan=1 c1=64 c2=127
+Note-off 186703 51
+Note-on 186828 87
+Note-on 186828 75
+Note-on 186828 63
+Note-on 186927 67
+Note-off 187026 67
+Note-off 187041 63
+Note-off 187500 87
+Note-on 187734 86
+Time=144184  Parameter, chan=1 c1=64 c2=104
+Time=144200  Parameter, chan=1 c1=64 c2=56
+Note-off 187781 75
+Note-on 187781 51
+Time=144220  Parameter, chan=1 c1=64 c2=24
+Time=144236  Parameter, chan=1 c1=64 c2=40
+Time=144252  Parameter, chan=1 c1=64 c2=88
+Note-off 187838 51
+Note-on 187843 58
+Time=144264  Parameter, chan=1 c1=64 c2=127
+Note-on 187947 63
+Note-off 187973 86
+Note-off 188005 58
+Note-on 188046 87
+Note-on 188052 75
+Note-on 188057 67
+Note-off 188062 63
+Note-off 188109 67
+Note-off 188260 87
+Note-on 188343 84
+Note-off 188354 75
+Note-on 188447 51
+Note-off 188541 51
+Note-on 188567 58
+Note-off 188630 84
+Note-on 188645 63
+Note-on 188651 87
+Note-off 188677 58
+Note-off 188755 63
+Note-on 188765 67
+Note-off 188781 87
+Note-off 188817 67
+Note-on 188994 82
+Note-on 189015 74
+Note-off 189244 74
+Note-on 189307 75
+Note-off 189494 82
+Note-off 189531 75
+Note-on 189562 80
+Note-on 189588 72
+Note-off 189776 72
+Note-on 189848 75
+Time=145828  Parameter, chan=1 c1=64 c2=56
+Time=145844  Parameter, chan=1 c1=64 c2=0
+Note-on 189916 51
+Note-on 189916 63
+Note-on 189927 58
+Time=145908  Parameter, chan=1 c1=64 c2=72
+Time=145920  Parameter, chan=1 c1=64 c2=127
+Note-off 190036 80
+Note-off 190140 75
+Note-on 190166 79
+Note-on 190166 70
+Note-off 190401 79
+Note-on 190463 77
+Note-on 190463 58
+Note-on 190463 51
+Note-off 190484 70
+Time=146312  Parameter, chan=1 c1=64 c2=56
+Time=146324  Parameter, chan=1 c1=64 c2=0
+Time=146400  Parameter, chan=1 c1=64 c2=56
+Time=146420  Parameter, chan=1 c1=64 c2=127
+Note-on 190765 68
+Note-on 190776 74
+Note-off 190796 58
+Note-off 190796 51
+Note-off 190875 68
+Note-off 190885 74
+Note-off 191005 77
+Time=146716  Parameter, chan=1 c1=64 c2=104
+Note-on 191052 75
+Time=146728  Parameter, chan=1 c1=64 c2=24
+Note-on 191072 67
+Time=146744  Parameter, chan=1 c1=64 c2=0
+Time=146792  Parameter, chan=1 c1=64 c2=56
+Time=146804  Parameter, chan=1 c1=64 c2=127
+Note-off 191234 51
+Time=146884  Parameter, chan=1 c1=64 c2=104
+Time=146900  Parameter, chan=1 c1=64 c2=40
+Time=146916  Parameter, chan=1 c1=64 c2=0
+Note-off 191348 67
+Note-off 191354 63
+Time=146960  Parameter, chan=1 c1=64 c2=104
+Note-off 191364 75
+Note-on 191364 79
+Time=146976  Parameter, chan=1 c1=64 c2=127
+Note-off 191390 58
+Note-off 191437 79
+Note-on 191468 51
+Note-off 191572 51
+Note-on 191572 56
+Note-on 191713 82
+Note-on 191729 70
+Note-on 191760 65
+Time=147272  Parameter, chan=1 c1=64 c2=56
+Time=147288  Parameter, chan=1 c1=64 c2=0
+Time=147332  Parameter, chan=1 c1=64 c2=104
+Time=147352  Parameter, chan=1 c1=64 c2=127
+Note-off 191973 65
+Note-off 192036 56
+Note-on 192057 62
+Note-off 192088 82
+Note-off 192114 70
+Note-off 192130 62
+Note-on 192359 82
+Note-on 192385 70
+Time=147752  Parameter, chan=1 c1=64 c2=56
+Note-on 192395 63
+Time=147768  Parameter, chan=1 c1=64 c2=0
+Note-on 192427 51
+Note-on 192432 55
+Time=147844  Parameter, chan=1 c1=64 c2=40
+Note-off 192510 70
+Note-off 192520 82
+Time=147860  Parameter, chan=1 c1=64 c2=104
+Time=147876  Parameter, chan=1 c1=64 c2=127
+Note-on 192671 67
+Note-off 192927 63
+Note-off 192937 67
+Note-on 192958 70
+Note-off 192989 55
+Note-off 193041 51
+Note-off 193244 70
+Note-on 193260 72
+Note-off 193567 72
+Note-on 193593 74
+Note-on 193604 63
+Time=148696  Parameter, chan=1 c1=64 c2=56
+Note-on 193625 51
+Note-on 193625 55
+Time=148712  Parameter, chan=1 c1=64 c2=0
+Note-on 193640 43
+Time=148808  Parameter, chan=1 c1=64 c2=104
+Time=148824  Parameter, chan=1 c1=64 c2=127
+Note-off 193833 74
+Note-off 193864 63
+Note-on 193916 77
+Note-off 193968 43
+Note-off 194088 77
+Note-off 194119 51
+Note-on 194317 75
+Note-on 194333 63
+Note-on 194369 51
+Note-on 194385 45
+Time=149408  Parameter, chan=1 c1=64 c2=72
+Note-off 194557 55
+Time=149428  Parameter, chan=1 c1=64 c2=0
+Time=149516  Parameter, chan=1 c1=64 c2=56
+Time=149536  Parameter, chan=1 c1=64 c2=127
+Note-off 194921 75
+Note-on 194968 74
+Note-off 195109 63
+Note-off 195197 45
+Note-off 195348 51
+Note-off 195432 74
+Note-on 195645 75
+Note-on 195645 63
+Note-on 195656 72
+Note-on 195656 46
+Note-on 195677 55
+Note-on 195687 51
+Time=150324  Parameter, chan=1 c1=64 c2=88
+Time=150340  Parameter, chan=1 c1=64 c2=24
+Time=150356  Parameter, chan=1 c1=64 c2=0
+Time=150464  Parameter, chan=1 c1=64 c2=104
+Time=150480  Parameter, chan=1 c1=64 c2=127
+Note-on 196354 70
+Note-off 196427 63
+Note-off 196427 72
+Note-off 196510 75
+Note-off 196541 46
+Note-off 196614 55
+Note-off 196630 51
+Note-on 197041 75
+Note-on 197052 63
+Note-on 197078 55
+Note-on 197093 51
+Note-on 197119 48
+Time=151396  Parameter, chan=1 c1=64 c2=88
+Time=151408  Parameter, chan=1 c1=64 c2=0
+Time=151516  Parameter, chan=1 c1=64 c2=56
+Time=151532  Parameter, chan=1 c1=64 c2=127
+Note-off 197354 70
+Note-on 197729 68
+Note-off 197802 75
+Note-off 197869 55
+Note-off 197890 68
+Note-off 197937 51
+Note-off 197994 63
+Note-off 198031 48
+Note-on 198057 67
+Note-off 198234 67
+Note-on 198468 70
+Note-on 198468 75
+Note-on 198494 46
+Note-on 198505 55
+Time=152508  Parameter, chan=1 c1=64 c2=56
+Time=152524  Parameter, chan=1 c1=64 c2=0
+Time=152668  Parameter, chan=1 c1=64 c2=88
+Time=152680  Parameter, chan=1 c1=64 c2=127
+Note-on 199182 63
+Note-off 199192 75
+Note-off 199390 63
+Note-off 199447 70
+Note-off 199510 55
+Note-off 199677 46
+Time=153656  Parameter, chan=1 c1=64 c2=56
+Time=153672  Parameter, chan=1 c1=64 c2=0
+Note-on 200098 67
+Note-on 200114 74
+Note-on 200114 46
+Note-on 200114 56
+Time=153764  Parameter, chan=1 c1=64 c2=40
+Time=153780  Parameter, chan=1 c1=64 c2=104
+Time=153796  Parameter, chan=1 c1=64 c2=127
+Note-off 200442 67
+Note-on 200531 65
+Time=154184  Parameter, chan=1 c1=64 c2=72
+Time=154200  Parameter, chan=1 c1=64 c2=0
+Time=154324  Parameter, chan=1 c1=64 c2=40
+Time=154340  Parameter, chan=1 c1=64 c2=104
+Time=154352  Parameter, chan=1 c1=64 c2=127
+Note-off 201244 46
+Note-off 201244 65
+Note-off 201265 56
+Note-off 201270 74
+Time=155144  Parameter, chan=1 c1=64 c2=88
+Time=155160  Parameter, chan=1 c1=64 c2=40
+Time=155172  Parameter, chan=1 c1=64 c2=0
+Note-on 202119 44
+Time=155252  Parameter, chan=1 c1=64 c2=72
+Time=155268  Parameter, chan=1 c1=64 c2=127
+Note-off 202244 44
+Note-on 202307 51
+Note-off 202473 51
+Note-on 202598 75
+Note-on 202619 63
+Note-on 202630 72
+Note-on 202656 60
+Note-on 203364 70
+Note-off 203395 72
+Note-off 204151 60
+Note-off 204401 70
+Note-off 204442 75
+Note-off 204489 63
+Note-on 205130 75
+Note-on 205130 48
+Note-on 205130 69
+Note-on 205130 63
+Time=157756  Parameter, chan=1 c1=64 c2=88
+Time=157772  Parameter, chan=1 c1=64 c2=24
+Time=157784  Parameter, chan=1 c1=64 c2=0
+Time=157880  Parameter, chan=1 c1=64 c2=40
+Time=157896  Parameter, chan=1 c1=64 c2=104
+Time=157912  Parameter, chan=1 c1=64 c2=127
+Note-off 205812 69
+Note-on 205859 68
+Time=158284  Parameter, chan=1 c1=64 c2=56
+Time=158296  Parameter, chan=1 c1=64 c2=0
+Time=158408  Parameter, chan=1 c1=64 c2=72
+Time=158424  Parameter, chan=1 c1=64 c2=127
+Note-off 206661 48
+Note-off 206848 68
+Note-off 206989 75
+Note-off 207098 63
+Note-on 207505 75
+Note-on 207531 67
+Note-on 207536 51
+Note-on 207536 63
+Note-on 207562 46
+Time=159508  Parameter, chan=1 c1=64 c2=72
+Time=159524  Parameter, chan=1 c1=64 c2=0
+Time=159648  Parameter, chan=1 c1=64 c2=72
+Time=159660  Parameter, chan=1 c1=64 c2=127
+Note-off 208067 67
+Note-off 208156 63
+Note-on 208177 70
+Note-off 208781 75
+Note-on 208822 63
+Note-off 208895 70
+Note-off 209078 63
+Note-off 209161 46
+Note-off 209171 51
+Note-on 209651 74
+Note-on 209656 56
+Note-on 209666 46
+Note-on 209671 67
+Time=161028  Parameter, chan=1 c1=64 c2=88
+Time=161040  Parameter, chan=1 c1=64 c2=24
+Time=161052  Parameter, chan=1 c1=64 c2=0
+Time=161132  Parameter, chan=1 c1=64 c2=24
+Time=161148  Parameter, chan=1 c1=64 c2=56
+Time=161164  Parameter, chan=1 c1=64 c2=88
+Time=161180  Parameter, chan=1 c1=64 c2=127
+Note-off 209958 67
+Note-on 210015 65
+Time=161352  Parameter, chan=1 c1=64 c2=104
+Time=161368  Parameter, chan=1 c1=64 c2=72
+Time=161380  Parameter, chan=1 c1=64 c2=56
+Time=161400  Parameter, chan=1 c1=64 c2=24
+Time=161412  Parameter, chan=1 c1=64 c2=0
+Time=161584  Parameter, chan=1 c1=64 c2=40
+Time=161596  Parameter, chan=1 c1=64 c2=88
+Time=161616  Parameter, chan=1 c1=64 c2=127
+Note-off 211026 65
+Note-off 211432 74
+Note-on 211442 63
+Note-off 211619 46
+Note-off 211671 56
+Note-off 211692 63
+Note-on 211932 75
+Note-on 211942 63
+Note-on 211984 55
+Note-on 211994 51
+Time=162948  Parameter, chan=1 c1=64 c2=88
+Time=162964  Parameter, chan=1 c1=64 c2=40
+Time=162976  Parameter, chan=1 c1=64 c2=0
+Time=163056  Parameter, chan=1 c1=64 c2=24
+Time=163068  Parameter, chan=1 c1=64 c2=88
+Time=163084  Parameter, chan=1 c1=64 c2=127
+Note-off 212895 55
+Note-off 212984 51
+Note-off 213036 75
+Note-off 213083 63
+Note-on 214072 58
+Note-on 214072 46
+Note-on 214093 39
+Note-on 214098 27
+Note-on 214109 55
+Note-off 214364 46
+Note-off 214395 55
+Note-off 214458 58
+Note-off 214505 27
+Note-off 214692 39
+Note-on 216453 79
+Note-on 216453 58
+Note-on 216453 63
+Note-on 216453 51
+Note-on 216453 67
+Note-on 216453 75
+Note-off 217046 51
+Note-off 217057 67
+Note-off 217072 75
+Note-off 217078 58
+Note-off 217083 79
+Note-off 217098 63

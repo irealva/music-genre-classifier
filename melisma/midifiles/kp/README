@@ -1,0 +1,117 @@
+This directory contains midifiles for 46 excerpts from the workbook
+and instructor's manual for _Tonal Harmony_ by Stefan Kostka and
+Dorothy Payne. The excerpts are as follows:
+
+Name of file		Composer, Title, Measure numbers		p.# in	p.# in 
+									inst.	wkbk.
+									manual
+
+bach.annamin.mid	Anonymous (but often attributed to Bach),	49	79
+			minuet in G, mm. 1-16
+
+bach.kindlein.mid	Bach, Chorale, "Uns ist ein Kindlein heut' 	103	162
+			geborn"
+
+bach.jesu.mid		Bach, Cholare, "Jesu, der du meine Seele"	104	163
+
+beet.rondo.mid		Beethoven, Rondo Op. 51, no. 1, mm. 103-120	129	212
+
+beet.son10-1.II.mid	Beethoven, Sonata Op. 10 No. 1, II, mm. 1-8	62	92
+
+beet.son10-3.II.mid	Beethoven, Sonata Op. 10 No. 3, II, mm. 9-17	106	168
+
+beet.son13.II.mid	Beethoven, Sonata Op. 13, II, mm. 1-8		85	135
+
+beet.son14-1.III.mid	Beethoven, Sonata Op. 14 No. 1, III		101	-
+
+beet.son2-3.III.mid	Beethoven, Sonata Op. 2 No. 3, III, mm. 81-88	45	72
+
+beet.son27-2.I.mid	Beethoven, Sonata Op. 27 No. I, mm. 1-9		129	209
+
+beet.sq135.III.mid	Beethoven, String Quartet Op. 135, III, 	87	138
+			mm. 1-10 
+
+beet.strio.mid		Beethoven, String Trio Op. 9 No. 3, II, 	134	225
+			mm. 1-10
+
+brahms.undgehst.mid	Brahms, "Und gehst du ueber den Kirchhof", 	95	152
+			Op. 44, mm. 29-37
+
+
+campbell.barb.mid	Ayer (arr. by Campbell), "Oh! You Beautiful	150	249
+			Doll!", mm. 1-9
+
+chop.maz62-7.mid	Chopin, Mazurka Op. 62, No. 7, mm. 1-16		86	137
+
+chop.maz63-2.mid	Chopin, Mazurka Op. 63, No. 2, mm. 1-16		149	248
+
+chop.noc27-1.mid	Chopin, Nocturne Op. 27 No. 1, mm. 41-52	144	238
+
+grieg.mountain.mid	Grieg, "The Mountain Maid", Op. 67 No. 2, 	150	255
+			mm. 1-11
+
+haydn.son22.III.mid	Haydn, Sonata No. 22, III, mm. 1-8		120-1	-
+
+haydn.son30.I.mid	Haydn, Sonata No. 30, I, mm. 84-96		81	125
+
+haydn.sq20-4.I.mid	Haydn, String Quartet Op. 20 No. 4, I, 		76	118
+			mm. 13-24	
+
+haydn.sq50-6.II.mid	Haydn, String Quartet Op. 50 No. 6, II,		76	117
+			mm. 55-63
+
+haydn.sq74-3.II.mid	Haydn, String Quartet Op. 74 No. 3, II,		133	223
+			mm. 30-7
+
+
+haydn.sq.76-6.II.mid	Haydn, String Quartet Op. 76 No. 6, II,		144	241
+			mm. 31-9
+
+mzt.bsnconc.mid		Mozart, Bassoon Concerto K. 191, II, mm. 42-50	87	139-40
+
+mzt.ekn.II.mid		Mozart, "Eine Kleine Nachtmusik", K. 525, II,	61	92
+			mm. 1-8
+
+mzt.pc488.II.mid	Mozart, Piano Concerto K. 488, II, mm. 1-12	131	-
+
+mzt.son330.II.mid	Mozart, Sonata K. 330, II, mm. 21-8		104	164
+
+mzt.son333.III.mid	Mozart, Sonata K. 333, III, mm. 91-8		116	-
+
+mzt.trio.mid		Mozart, Piano Trio K. 542, I, mm. 210-229	123	199
+
+mzt.voiche.mid		Mozart, Marriage of Figaro, "Voi che sapete",	105	167
+			mm. 41-52
+
+schub.bfson.I.mid	Schubert, Sonata in Bb, D. 960, I, mm. 149-68	144	239-40
+
+schub.erlkonig.I.mid	Schubert, "Erlkonig", mm. 113-23		129	210
+
+schub.erlkonig.II.mid	Schubert, "Erlkonig", mm. 134-48		129	211
+
+schub.flusse.mid	Schubert, "Auf dem Flusse", mm. 14-21		112	179
+
+schub.imp1.mid		Schubert, Impromptu Op. 90 No. 1, mm. 42-55	124	201
+
+schub.strio.mid		Schubert, String Trio D. 471, mm. 187-201	138	233
+
+schub.tanze.mid		Schubert, Originaltanze Op. 9 No. 14, mm. 1-24	145	242
+
+schum.grenadiere.mid	Schumann, "Die beiden Grenadiere", mm. 23-37	133	221
+
+schum.sehnsucht.mid	Schumann, "Sehnsucht", mm. 2-11			133	219
+
+schum.thranen.mid	Schumann, "Aus meinen Thranen spriessen",	96	154
+			mm. 1-17
+
+schum.tragodie.mid	Schumann, "Tragodie", mm. 1-9			134	224
+
+schum.wennich.mid	Schumann, "Wenn ich in deine Augen seh'", 	105	165
+			mm. 1-21
+
+tchaik.morning.mid	Tchaikovsky, "Morning Prayer", mm. 1-17		95	-
+
+tchaik.nurse.mid	Tchaikovsky, "The Nurse's Tail", mm. 5-15	138	232
+
+tchaik.symph6.mid	Tchaikovsky, Symphony No. 6, I, mm. 89-97	150	251-3
+

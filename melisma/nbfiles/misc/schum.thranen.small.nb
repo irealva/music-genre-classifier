@@ -1,0 +1,27 @@
+Beat      0  2
+Beat    175  0
+Beat    350  1
+Beat    525  0
+Beat    735  3
+Beat    910  0
+Beat   1120  1
+Beat   1295  0
+Beat   1505  2
+Beat   1680  0
+Beat   1890  1
+Beat   2065  0
+Beat   2240  3
+Beat   2415  0
+Beat   2625  1
+Beat   2800  0
+Beat   3010  2
+Note      0    735  73
+Note      0   1505  69
+Note    735   1505  73
+Note   1505   1890  73
+Note   1505   2240  69
+Note   1505   2240  68
+Note   1890   2240  73
+Note   2240   3010  73
+Note   2240   3010  66
+Note   2240   3010  69

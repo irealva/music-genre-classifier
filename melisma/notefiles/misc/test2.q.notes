@@ -1,0 +1,9 @@
+% Middle C repeated 8 times at 1000 ms intervals.
+Note 0 1000 60
+Note 1000 2000 60
+Note 2000 3000 60
+Note 3000 4000 60
+Note 4000 5000 60
+Note 5000 6000 60
+Note 6000 7000 60
+Note 7000 8000 60

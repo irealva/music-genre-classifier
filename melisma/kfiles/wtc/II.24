@@ -1,0 +1,91 @@
+Beat      0  1
+Beat    175  0
+Beat    350  4
+Beat    525  0
+Beat    700  1
+Beat    875  0
+Beat   1050  1
+Beat   1190  0
+Beat   1365  2
+Beat   1540  0
+Beat   1715  1
+Beat   1890  0
+Beat   2065  1
+Beat   2240  0
+Beat   2415  3
+Beat   2590  0
+Beat   2765  1
+Beat   2940  0
+Beat   3115  1
+Beat   3290  0
+Beat   3465  2
+Beat   3605  0
+Beat   3780  1
+Beat   3955  0
+Beat   4130  1
+Beat   4305  0
+Beat   4480  4
+Beat   4655  0
+Beat   4830  1
+Beat   5005  0
+Beat   5180  1
+Beat   5355  0
+Beat   5530  2
+Beat   5705  0
+Beat   5845  1
+Beat   6020  0
+Beat   6195  1
+Beat   6370  0
+Beat   6545  3
+Chord      0    350  7
+Chord    350    700  7
+Chord    700   1050  7
+Chord   1050   1365  7
+Chord   1365   1715  7
+Chord   1715   1890  7
+Chord   1890   2065  7
+Chord   2065   2240  7
+Chord   2240   2415  7
+Chord   2415   2765  6
+Chord   2765   3115  6
+Chord   3115   3465  6
+Chord   3465   3780  7
+Chord   3780   4130  7
+Chord   4130   4480  7
+Chord   4480   4830  6
+Chord   4830   5005  6
+Chord   5005   5180  6
+Chord   5180   5355  6
+Chord   5355   5530  6
+Chord   5530   5705  7
+Chord   5705   5845  7
+Chord   5845   6020  7
+Chord   6020   6195  7
+Chord   6195   6370  7
+Chord   6370   6545  7
+TPCNote      0    350  66   8
+TPCNote    350    700  62   4
+TPCNote    700   1050  59   7
+TPCNote   1050   1365  58 12
+TPCNote   1365   1715  59   7
+TPCNote   1715   1890  61   9
+TPCNote   1890   2065  62   4
+TPCNote   2065   2240  64   6
+TPCNote   2240   2415  66   8
+TPCNote   2415   2765  67   3
+TPCNote   2765   3115  55   3
+TPCNote   3115   3465  67   3
+TPCNote   3465   3780  66   8
+TPCNote   3780   4130  54   8
+TPCNote   4130   4480  66   8
+TPCNote   4480   4830  64   6
+TPCNote   4830   5005  66   8
+TPCNote   5005   5180  64   6
+TPCNote   5180   5355  62   4
+TPCNote   5355   5530  61   9
+TPCNote   5530   5705  62   4
+TPCNote   5705   5845  66   8
+TPCNote   5845   6020  64   6
+TPCNote   6020   6195  62   4
+TPCNote   6195   6370  61   9
+TPCNote   6370   6545  59   7

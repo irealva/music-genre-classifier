@@ -1,0 +1,168 @@
+Beat      0  1
+Beat    105  0
+Beat    210  2
+Beat    315  0
+Beat    420  1
+Beat    525  0
+Beat    630  2
+Beat    735  0
+Beat    840  1
+Beat    945  0
+Beat   1050  3
+Beat   1155  0
+Beat   1260  1
+Beat   1365  0
+Beat   1470  2
+Beat   1575  0
+Beat   1680  1
+Beat   1785  0
+Beat   1890  2
+Beat   1995  0
+Beat   2100  1
+Beat   2170  0
+Beat   2275  4
+Beat   2380  0
+Beat   2485  1
+Beat   2590  0
+Beat   2695  2
+Beat   2800  0
+Beat   2905  1
+Beat   3010  0
+Beat   3115  2
+Beat   3220  0
+Beat   3325  1
+Beat   3430  0
+Beat   3535  3
+Beat   3640  0
+Beat   3745  1
+Beat   3850  0
+Beat   3955  2
+Beat   4060  0
+Beat   4165  1
+Beat   4270  0
+Beat   4375  2
+Beat   4480  0
+Beat   4585  1
+Beat   4690  0
+Beat   4795  4
+Beat   4900  0
+Beat   5005  1
+Beat   5110  0
+Beat   5215  2
+Beat   5320  0
+Beat   5425  1
+Beat   5530  0
+Beat   5635  2
+Beat   5740  0
+Beat   5845  1
+Beat   5950  0
+Beat   6055  3
+Beat   6160  0
+Beat   6265  1
+Beat   6370  0
+Beat   6475  2
+Beat   6545  0
+Beat   6650  1
+Beat   6755  0
+Beat   6860  2
+Beat   6965  0
+Beat   7070  1
+Beat   7175  0
+Beat   7280  4
+Beat   7385  0
+Beat   7490  1
+Beat   7595  0
+Beat   7700  2
+Beat   7805  0
+Beat   7910  1
+Beat   8015  0
+Beat   8120  2
+Beat   8225  0
+Beat   8330  1
+Beat   8435  0
+Beat   8540  3
+Beat   8645  0
+Chord      0    210  3
+Chord    210    420  3
+Chord    420    630  3
+Chord    630    840  3
+Chord    840   1050  3
+Chord   1050   1260  3
+Chord   1260   1470  3
+Chord   1470   1680  3
+Chord   1680   1890  3
+Chord   1890   2100  3
+Chord   2100   2275  3
+Chord   2275   2485  2
+Chord   2485   2695  2
+Chord   2695   2905  4
+Chord   2905   3115  4
+Chord   3115   3325  4
+Chord   3325   3535  4
+Chord   3535   3745  3
+Chord   3745   3955  3
+Chord   3955   4165  3
+Chord   4165   4375  3
+Chord   4375   4585  2
+Chord   4585   4795  2
+Chord   4795   5005  4
+Chord   5005   5215  4
+Chord   5215   5425  4
+Chord   5425   5635  4
+Chord   5635   5845  4
+Chord   5845   6055  4
+Chord   6055   6265  3
+Chord   6265   6475  3
+Chord   6475   6650  3
+Chord   6650   6860  3
+Chord   6860   7070  3
+Chord   7070   7280  3
+Chord   7280   7490  3
+Chord   7490   7700  3
+Chord   7700   7910  3
+Chord   7910   8120  3
+Chord   8120   8330  3
+Chord   8330   8540  3
+Chord   8540   8645  4
+TPCNote      0    210  74   4
+TPCNote    210    420  71   7
+TPCNote    420    630  74   4
+TPCNote    630    840  79   3
+TPCNote    840   1050  74   4
+TPCNote   1050   1260  71   7
+TPCNote   1260   1470  74   4
+TPCNote   1470   1680  67   3
+TPCNote   1680   1890  74   4
+TPCNote   1890   2100  71   7
+TPCNote   2100   2275  74   4
+TPCNote   2275   2485  76   6
+TPCNote   2485   2695  72   2
+TPCNote   2695   2905  69   5
+TPCNote   2905   3115  72   2
+TPCNote   3115   3325  66   8
+TPCNote   3325   3535  69   5
+TPCNote   3535   3745  74   4
+TPCNote   3745   3955  71   7
+TPCNote   3955   4165  67   3
+TPCNote   4165   4375  71   7
+TPCNote   4375   4585  64   6
+TPCNote   4585   4795  67   3
+TPCNote   4795   5005  72   2
+TPCNote   5005   5215  69   5
+TPCNote   5215   5425  66   8
+TPCNote   5425   5635  69   5
+TPCNote   5635   5845  62   4
+TPCNote   5845   6055  66   8
+TPCNote   6055   6265  71   7
+TPCNote   6265   6475  69   5
+TPCNote   6475   6650  67   3
+TPCNote   6650   6860  69   5
+TPCNote   6860   7070  71   7
+TPCNote   7070   7280  73   9
+TPCNote   7280   7490  74   4
+TPCNote   7490   7700  69   5
+TPCNote   7700   7910  71   7
+TPCNote   7910   8120  73   9
+TPCNote   8120   8330  74   4
+TPCNote   8330   8540  76   6
+TPCNote   8540   8750  78   8

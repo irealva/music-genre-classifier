@@ -1,0 +1,209 @@
+Here are comments about the notefiles contained in this directory.
+
+Each file contains a list of notes with an on-time, and off-time (both
+in milliseconds) and a pitch. These files can be used as input to the
+"met-harm" script (the combined meter and harmony programs). They can
+also be used as input to the "meter" program alone. They cannot be
+used as input to the other programs (the grouping, counterpoint,
+harmony and key programs), since that requires metrical information.
+
+The files are of two basic types: quantized files and performance files.
+Quantized files are those generated from a score, such as a Finale file. 
+In quantized files, all timepoints (ontimes and offtimes) are quantized to
+a large value such as 250 milliseconds. Performance files are generated
+from a live performance on a MIDI keyboard; in such cases, the timepoints are
+not quantized (except of course at the millisecond level).
+
+Each notesfile is listed below. We give the name and composer of the
+piece. If less the entire piece is included, we indicate what portion
+is included. Where we have examined the output of the program
+on a particular file, we give comments on the program's performance.
+
+Almost all of these notefiles (both quantized and performed) are
+generated from MIDI files. The MIDI files are available in the
+directory "midi". (This could be useful, for example, if one wanted to
+actually hear the file.) The name of the midi file is the same as the
+corresponding notesfile except ending in ".mid" instead of ".notes".
+
+The following MIDI files were generously provided by Pierre Schwab
+(through the Classical Midi Archive, www.prs.net): bach.bfmainv.mid,
+bach.bmiinv.mid, bach.cma-vcsuite.bour.mid, bach.cma-vcsuite.cour.mid,
+bach.cmiinv.mid, bach.fmainv.mid, bach.wtc.cmaprel.mid,
+bach.wtc.cmiprel.mid, beet.fmison.I.mid, beet.fmison.III.mid,
+beet.fmison.IV.mid, brahms.int117-1.mid, deb.lisle.mid,
+handel.harm-black.mid, joplin.ent.mid, mend.sww-bee.mid,
+mend.sww102-2.mid, mzt.sqK159.II.mid.
+
+* NOTESFILES *
+
+* Quantized files *
+
+bach.bfmainv.q.notes: Bach, Bb major Two-Part Invention.
+
+bach.bmiinv.q.notes: Bach, B minor Two-Part Invention.
+
+bach.cma-vcsuite.bour.q.notes: Bach, C major Unaccompanied Cello Suite,
+Bourree.
+
+bach.cma-vc.suite.cour.q.notes: Bach, C major Unaccompanied Cello Suite,
+Courante. 
+
+bach.cmainv.q.notes: Bach, C major Invention. 
+
+bach.cmiinv.q.notes: Bach, C minor Invention.
+
+bach.cmimin.q.notes: Bach, C minor English Suite, Minuet. 
+
+bach.emamin.q.notes: Bach, French Suite No. 6, Minuet.
+
+bach.fmainv.q.notes: Bach, F major Two-Part Invention. 
+
+bach.gmagav.q.notes: Bach, French Suite No. 5, Gavotte. 
+
+bach.cmaprel.q.notes: Bach, Well-Tempered Clavier Book I, Prelude
+No. 1. 
+
+bach.cmafug.q.notes: Bach, Well-Tempered Clavier Book I, Fugue No. 1.
+
+bach.cmifug.q.notes: Bach, Well-Tempered Clavier Book I, Fugue No. 2.
+
+bach.csmafug.q.notes: Bach, Well-Tempered Clavier Book I, Fugue No. 3.
+
+bach.csmifug.q.notes: Bach, Well-Tempered Clavier Book I, Fugue No. 4.
+
+bach.dmafug.q.notes: Bach, Well-Tempered Clavier Book I, Fugue No. 5.
+
+bach.cmiprel.q.notes: Bach, Well-Tempered Clavier Book I, Prelude No. 2.
+
+bartok.mikro.q.notes: Bartok, "Syncopation", from Book V of Mikrokosmos.
+
+beet.cmison.q.notes: Beethoven, Sonata Op. 10 No. 1, I, mm. 1-22. 
+
+beet.fmison.I.q.notes: Beethoven, Sonata Op. 2 No. 1, I, exposition.
+
+beet.fmison.III.q.notes: Beethoven, Sonata Op. 2 No. 1, III.
+
+beet.fmison.IV.q.notes: Beethoven, Sonata Op. 2 No. 1, IV.
+
+beet.gmason.q.notes: Beethoven, Sonata Op. 49 No. 2, I, exposition.
+
+beet.path.q.notes: Beethoven, Sonata Op. 13, II, opening.
+
+beet.son14-2.III.q.notes: Beethoven, Sonata Op. 14 No. 2, III, mm. 14.
+
+beet.son14-2.medium.q.notes: Same as above, first eight measures
+
+beet.son14-2.small.q.notes: Same as above, first two measures
+
+beet.sq59-3.II.q.notes: Beethoven, String Quartet Op. 59 No. 3, II,
+mm. 178-85.
+
+brahms.int116-6.q.notes: Brahms, Intermezzo Op. 116 No. 6. 
+
+brahms.int117-1.q.notes: Brahms, Intermezzo Op. 117 No. 1.
+
+chop.ammaz.q.notes: Chopin, Mazurka Op. 17 No. 4.
+
+deb.lisle.q.notes: Debussy, "L'Isle Joyeuse".
+
+handel.harm-black.q.notes: Handel, "Harmonious Blacksmith" theme.
+
+haydn.bmisq.q.notes: Haydn, Quartet Op. 64 #2, I, mm. 1-4.
+
+haydn.bmisq.small.q.notes: see haydn.bmisq.q.notes, mm. 1-2 only.
+
+haydn.gmason.q.notes: Haydn, Quartet Op. 76 No. 1, exposition.
+
+joplin.ent.q.notes: Scott Joplin, "The Entertainer".
+
+kings.q.notes: "We Three Kings", melody only. 
+
+mend.sww-bee.q.notes: Mendelssohn, Songs Without Words, "Bee's Wedding".
+
+mend.sww102-2.q.notes: Mendelssohn, Songs Without Words, Op. 102 No. 2.
+
+mzt.309son.q.notes: Mozart, Sonata K. 309, I, mm. 1-7. 
+
+mzt.amavnson.q.notes: Mozart, Violin Sonata K. 526, I. 
+
+mzt.amavnson.small.q.notes: see mzt.amavnson.q.notes, above.
+
+mzt.clarq.I.q.notes: Mozart, Clarinet Quintet, I.
+
+mzt.fmason.q.notes: Mozart, Sonata K. 332, I, exposition.
+
+mzt.gmason.q.notes: Mozart, String Quartet K. 387, I, exposition.
+
+mzt.sqK159.II.q.notes: Mozart, String Quartet K. 159, II.
+
+schub.mm6.q.notes: Schubert, Moment Musical No. 6. 
+
+schub.waltz.q.notes: Schubert, Bb Major Waltz. 
+
+susannah.q.notes: "Oh Susannah", melody only. 
+
+yankee.q.notes: "Yankee Doodle", melody only. 
+
+* Performed files *
+
+bach.emamin.p.notes: Bach, French Suite in E major, Minuet. 
+
+bach.gmagav.p.notes: Bach, French Suite in G major, Gavotte,
+
+bach.cmainv.p.notes: Bach, Two-Part Invention No. 1. 
+
+battle.p.notes: "Battle Hymn of the Republic", unaccompanied melody.
+
+beet.efmamin.p.notes: Beethoven, Sonata Op. 7, III. 
+
+beet.fmison*: Beethoven, Sonata Op. No. 1
+	.I.p - First movement
+	.II.p - Second movement
+	.II.small.p - First eight measures of second movement
+	.III.p - Third movement
+	.III.expo.p - Exposition of third movement
+	.III.small.p - first four measures of third movement
+beet.gmason.p.notes: Beethoven, Op. 49 No. 2, I, Exposition. 
+
+beet.path.p.notes: Beethoven, Sonata Op. 13 ("Pathetique"), II, mm. 1-8.
+
+birthday.p.notes: Melody of "Happy Birthday". 
+
+birthday2.p.notes: Melody of "Happy Birthday", with a big fermata after
+third line. 
+
+chop.ammaz.p.notes: Chopin, Mazurka Op. 17 No. 4, first half. 
+
+chop.fsmaprel.p.notes: Chopin, Prelude No. 13. 
+
+haydn.cmason...: Haydn C major piano Sonata; I, II and III are the three movements.
+
+kings.p.notes: "We Three Kings" melody. 
+
+letitbe.p.notes: The Beatles, "Let it Be".
+
+mzt.amason.p.notes: Mozart, Sonata K. 331, I, mm. 1-18. 
+
+mzt.cmason...: Mozart Piano Sonata K. 545; I, II and III are the three movements.
+
+mzt.cmason.I.small.p.notes - mm. 1-16 of first movement
+
+mzt.fmason.p.notes: Mozart, Sonata K. 332, I, exposition. 
+
+ram.amigav.p.notes: Rameau, Gavotte, A minor. 
+
+ram.amigav.p.notes: Rameau, first variation from A minor gavotte.
+
+schum.kind1.p.notes: Schumann, "Kinderscenen", No. 1. 
+
+schum.kind2.p.notes: Schumann, "Kinderscenen", No. 2. 
+
+schum.kind7.p.notes: Schumann, "Kinderscenen", No. 7. 
+
+star.p.notes: "Star-Spangled Banner". Meter:
+
+susannah.p.notes: Melody, "Oh Susannah". 
+
+yankee.p.notes: Melody, "Yankee Doodle". 
+
+

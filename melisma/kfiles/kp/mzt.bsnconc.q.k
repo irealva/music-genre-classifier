@@ -1,0 +1,718 @@
+Beat      0  4
+Beat    105  0
+Beat    245  1
+Beat    350  0
+Beat    490  2
+Beat    595  0
+Beat    735  1
+Beat    875  0
+Beat   1015  3
+Beat   1120  0
+Beat   1260  1
+Beat   1365  0
+Beat   1505  2
+Beat   1610  0
+Beat   1750  1
+Beat   1855  0
+Beat   1995  4
+Beat   2100  0
+Beat   2240  1
+Beat   2345  0
+Beat   2485  2
+Beat   2625  0
+Beat   2765  1
+Beat   2870  0
+Beat   3010  3
+Beat   3115  0
+Beat   3255  1
+Beat   3360  0
+Beat   3500  2
+Beat   3605  0
+Beat   3745  1
+Beat   3850  0
+Beat   3990  4
+Beat   4095  0
+Beat   4235  1
+Beat   4375  0
+Beat   4515  2
+Beat   4620  0
+Beat   4760  1
+Beat   4865  0
+Beat   5005  3
+Beat   5110  0
+Beat   5250  1
+Beat   5355  0
+Beat   5495  2
+Beat   5600  0
+Beat   5740  1
+Beat   5845  0
+Beat   5985  4
+Beat   6125  0
+Beat   6265  1
+Beat   6370  0
+Beat   6510  2
+Beat   6615  0
+Beat   6755  1
+Beat   6860  0
+Beat   7000  3
+Beat   7105  0
+Beat   7245  1
+Beat   7350  0
+Beat   7490  2
+Beat   7595  0
+Beat   7735  1
+Beat   7875  0
+Beat   8015  4
+Beat   8120  0
+Beat   8260  1
+Beat   8365  0
+Beat   8505  2
+Beat   8610  0
+Beat   8750  1
+Beat   8855  0
+Beat   8995  3
+Beat   9100  0
+Beat   9240  1
+Beat   9345  0
+Beat   9485  2
+Beat   9625  0
+Beat   9765  1
+Beat   9870  0
+Beat  10010  4
+Beat  10115  0
+Beat  10255  1
+Beat  10360  0
+Beat  10500  2
+Beat  10605  0
+Beat  10745  1
+Beat  10850  0
+Beat  10990  3
+Beat  11095  0
+Beat  11235  1
+Beat  11375  0
+Beat  11515  2
+Beat  11620  0
+Beat  11760  1
+Beat  11865  0
+Beat  12005  4
+Beat  12110  0
+Beat  12250  1
+Beat  12355  0
+Beat  12495  2
+Beat  12600  0
+Beat  12740  1
+Beat  12845  0
+Beat  12985  3
+Beat  13125  0
+Beat  13265  1
+Beat  13370  0
+Beat  13510  2
+Beat  13615  0
+Beat  13755  1
+Beat  13860  0
+Beat  14000  4
+Beat  14175  0
+Beat  14245  1
+Beat  14350  0
+Beat  14490  2
+Beat  14595  0
+Beat  14735  1
+Beat  14875  0
+Beat  15015  3
+Beat  15120  0
+Beat  15260  1
+Beat  15365  0
+Beat  15505  2
+Beat  15610  0
+Beat  15750  1
+Beat  15855  0
+Beat  15995  4
+Beat  16100  0
+Beat  16240  1
+Beat  16345  0
+Beat  16485  2
+Beat  16590  0
+Beat  16730  1
+Beat  16870  0
+Beat  17010  3
+Beat  17115  0
+Beat  17255  1
+Beat  17360  0
+Beat  17500  2
+Beat  17605  0
+Beat  17745  1
+Beat  17850  0
+Beat  17990  4
+Beat  18095  0
+Beat  18235  1
+Beat  18375  0
+Beat  18515  2
+Beat  18620  0
+Beat  18760  1
+Beat  18865  0
+Beat  19005  3
+Beat  19110  0
+Beat  19250  1
+Beat  19390  0
+Beat  19495  2
+Beat  19635  0
+Beat  19740  1
+Beat  19880  0
+Beat  19985  4
+Beat  20125  0
+Beat  20265  1
+Beat  20370  0
+Beat  20510  2
+Beat  20615  0
+Beat  20755  1
+Beat  20860  0
+Beat  21000  3
+Beat  21105  0
+Beat  21245  1
+Beat  21350  0
+Beat  21490  2
+Beat  21595  0
+Beat  21735  1
+Beat  21875  0
+Beat  22015  4
+Beat  22120  0
+Beat  22260  1
+Beat  22365  0
+Beat  22505  2
+Beat  22610  0
+Beat  22750  1
+Beat  22855  0
+Beat  22995  3
+Beat  23100  0
+Beat  23240  1
+Beat  23345  0
+Beat  23485  2
+Beat  23625  0
+Beat  23765  1
+Beat  23870  0
+Beat  24010  4
+Beat  24115  0
+Beat  24255  1
+Beat  24360  0
+Beat  24500  2
+Beat  24605  0
+Beat  24745  1
+Beat  24850  0
+Beat  24990  3
+Beat  25095  0
+Beat  25235  1
+Beat  25375  0
+Beat  25515  2
+Beat  25620  0
+Beat  25760  1
+Beat  25865  0
+Beat  26005  4
+Beat  26110  0
+Beat  26215  1
+Beat  26320  0
+Beat  26460  2
+Beat  26565  0
+Beat  26705  1
+Beat  26810  0
+Beat  26950  3
+Beat  27055  0
+Beat  27195  1
+Beat  27335  0
+Beat  27475  2
+Beat  27580  0
+Beat  27720  1
+Beat  27860  0
+Beat  28000  4
+Beat  28105  0
+Beat  28245  1
+Beat  28350  0
+Beat  28490  2
+Beat  28595  0
+Beat  28735  1
+Beat  28840  0
+Beat  28980  3
+Beat  29085  0
+Beat  29225  1
+Beat  29365  0
+Beat  29505  2
+Beat  29610  0
+Beat  29750  1
+Beat  29855  0
+Beat  29995  4
+Beat  30100  0
+Beat  30240  1
+Beat  30345  0
+Beat  30485  2
+Beat  30625  0
+Beat  30765  1
+Beat  30870  0
+Beat  31010  3
+Beat  31115  0
+Beat  31255  1
+Beat  31360  0
+Beat  31500  2
+Chord      0    245  1
+Chord    245    490  1
+Chord    490    735  1
+Chord    735   1015  1
+Chord   1015   1260  3
+Chord   1260   1505  3
+Chord   1505   1750  3
+Chord   1750   1995  3
+Chord   1995   2240  1
+Chord   2240   2485  1
+Chord   2485   2765  1
+Chord   2765   3010  1
+Chord   3010   3255  2
+Chord   3255   3500  2
+Chord   3500   3745  2
+Chord   3745   3990  2
+Chord   3990   4235  1
+Chord   4235   4515  1
+Chord   4515   4760  1
+Chord   4760   5005  1
+Chord   5005   5250  2
+Chord   5250   5495  2
+Chord   5495   5740  2
+Chord   5740   5985  2
+Chord   5985   6265  1
+Chord   6265   6510  1
+Chord   6510   6755  1
+Chord   6755   7000  1
+Chord   7000   7245  0
+Chord   7245   7490  0
+Chord   7490   7735  0
+Chord   7735   8015  2
+Chord   8015   8260  1
+Chord   8260   8505  1
+Chord   8505   8750  1
+Chord   8750   8995  1
+Chord   8995   9240  1
+Chord   9240   9485  1
+Chord   9485   9765  1
+Chord   9765  10010  1
+Chord  10010  10255  0
+Chord  10255  10500  0
+Chord  10500  10745  0
+Chord  10745  10990  0
+Chord  10990  11235  3
+Chord  11235  11515  3
+Chord  11515  11760  3
+Chord  11760  12005  3
+Chord  12005  12250  1
+Chord  12250  12495  1
+Chord  12495  12740  1
+Chord  12740  12985  1
+Chord  12985  13265  2
+Chord  13265  13510  2
+Chord  13510  13755  2
+Chord  13755  13860  2
+Chord  13860  14000  2
+Chord  14000  14175  1
+Chord  14175  14245  1
+Chord  14245  14350  1
+Chord  14350  14490  1
+Chord  14490  14735  1
+Chord  14735  15015  1
+Chord  15015  15260  1
+Chord  15260  15505  1
+Chord  15505  15750  1
+Chord  15750  15995  1
+Chord  15995  16485  0
+Chord  16485  17010  0
+Chord  17010  17500  2
+Chord  17500  17990  0
+Chord  17990  18235  1
+Chord  18235  18515  1
+Chord  18515  18760  1
+Chord  18760  19005  1
+Chord  19005  19250  1
+Chord  19250  19390  1
+Chord  19390  19495  1
+Chord  19495  19635  1
+Chord  19635  19740  1
+Chord  19740  19880  1
+Chord  19880  19985  1
+Chord  19985  20265  2
+Chord  20265  20510  2
+Chord  20510  20755  2
+Chord  20755  21000  2
+Chord  21000  21245  2
+Chord  21245  21490  2
+Chord  21490  21735  2
+Chord  21735  22015  2
+Chord  22015  22260  1
+Chord  22260  22505  1
+Chord  22505  22750  1
+Chord  22750  22995  1
+Chord  22995  23240  0
+Chord  23240  23485  0
+Chord  23485  23765  0
+Chord  23765  24010  0
+Chord  24010  24255  4
+Chord  24255  24500  1
+Chord  24500  24745  1
+Chord  24745  24990  1
+Chord  24990  25235  4
+Chord  25235  25515  0
+Chord  25515  25760  0
+Chord  25760  26005  0
+Chord  26005  26950  1
+Chord  26950  28000  1
+Chord  28000  29505  2
+Chord  29505  29995  1
+Chord  29995  30240  1
+Chord  30240  30485  1
+Chord  30485  30765  1
+Chord  30765  31010  1
+Chord  31010  31500  1
+TPCNote      0    490  53   1
+TPCNote      0    490  81   5
+TPCNote      0    490  69   5
+TPCNote      0    490  77   1
+TPCNote      0    245  57   5
+TPCNote      0    490  41   1
+TPCNote      0    490  65   1
+TPCNote    245    490  48   2
+TPCNote    490    735  60   2
+TPCNote    735   1015  60   2
+TPCNote   1015   1505  46   0
+TPCNote   1015   1505  67   3
+TPCNote   1015   1260  58   0
+TPCNote   1015   1505  62   4
+TPCNote   1015   1260  60   2
+TPCNote   1015   1505  34   0
+TPCNote   1260   1505  58   0
+TPCNote   1505   1750  57   5
+TPCNote   1750   1995  55   3
+TPCNote   1995   2240  53   1
+TPCNote   1995   2485  65   1
+TPCNote   1995   2485  36   2
+TPCNote   1995   2485  60   2
+TPCNote   1995   2485  57   5
+TPCNote   1995   2485  48   2
+TPCNote   2240   2485  53   1
+TPCNote   2485   2765  53   1
+TPCNote   2765   3010  53   1
+TPCNote   3010   3500  34   0
+TPCNote   3010   3500  64   6
+TPCNote   3010   3500  60   2
+TPCNote   3010   3255  53   1
+TPCNote   3010   3500  46   0
+TPCNote   3010   3500  55   3
+TPCNote   3255   3500  52   6
+TPCNote   3500   3745  50   4
+TPCNote   3745   3990  48   2
+TPCNote   3990   4515  33   5
+TPCNote   3990   4515  48   2
+TPCNote   3990   4515  45   5
+TPCNote   3990   4235  60   2
+TPCNote   3990   4235  72   2
+TPCNote   4235   4515  84   2
+TPCNote   4235   4515  60   2
+TPCNote   4235   4515  72   2
+TPCNote   4515   4760  69   5
+TPCNote   4515   4760  72   2
+TPCNote   4515   4760  52   6
+TPCNote   4515   4760  84   2
+TPCNote   4760   5005  72   2
+TPCNote   4760   5005  53   1
+TPCNote   4760   5005  84   2
+TPCNote   4760   5005  69   5
+TPCNote   5005   5495  46   0
+TPCNote   5005   5250  69   5
+TPCNote   5005   5250  84   2
+TPCNote   5005   5250  72   2
+TPCNote   5005   5495  34   0
+TPCNote   5250   5495  67   3
+TPCNote   5250   5495  82   0
+TPCNote   5250   5495  70   0
+TPCNote   5495   5740  69   5
+TPCNote   5495   5740  81   5
+TPCNote   5495   5740  66   8
+TPCNote   5495   5740  60   2
+TPCNote   5740   5985  70   0
+TPCNote   5740   5985  58   0
+TPCNote   5740   5985  67   3
+TPCNote   5740   5985  79   3
+TPCNote   5985   6265  77   1
+TPCNote   5985   6265  69   5
+TPCNote   5985   6510  48   2
+TPCNote   5985   6265  65   1
+TPCNote   5985   6510  36   2
+TPCNote   6265   6510  57   5
+TPCNote   6265   6510  65   1
+TPCNote   6265   6510  77   1
+TPCNote   6510   6755  77   1
+TPCNote   6510   6755  57   5
+TPCNote   6510   6755  56 10
+TPCNote   6510   6755  65   1
+TPCNote   6755   7000  65   1
+TPCNote   6755   7000  77   1
+TPCNote   6755   7000  57   5
+TPCNote   7000   7245  77   1
+TPCNote   7000   7490  46   0
+TPCNote   7000   7490  34   0
+TPCNote   7000   7245  57   5
+TPCNote   7000   7245  65   1
+TPCNote   7245   7490  76   6
+TPCNote   7245   7490  64   6
+TPCNote   7245   7490  55   3
+TPCNote   7490   7735  53   1
+TPCNote   7490   7735  74   4
+TPCNote   7490   7735  62   4
+TPCNote   7735   8015  60   2
+TPCNote   7735   8015  52   6
+TPCNote   7735   8015  72   2
+TPCNote   8015   8260  72   2
+TPCNote   8015   8260  53   1
+TPCNote   8015   8260  60   2
+TPCNote   8015   8505  33   5
+TPCNote   8015   8505  45   5
+TPCNote   8260   8505  60   2
+TPCNote   8260   8505  53   1
+TPCNote   8260   8505  65   1
+TPCNote   8505   8750  60   2
+TPCNote   8505   8750  65   1
+TPCNote   8505   8750  53   1
+TPCNote   8750   8995  65   1
+TPCNote   8750   8995  60   2
+TPCNote   8750   8995  53   1
+TPCNote   8995   9240  60   2
+TPCNote   8995   9240  65   1
+TPCNote   8995   9240  63  -1
+TPCNote   8995   9485  45   5
+TPCNote   8995   9485  33   5
+TPCNote   9240   9485  63  -1
+TPCNote   9240   9485  65   1
+TPCNote   9240   9485  60   2
+TPCNote   9485   9765  63  -1
+TPCNote   9485   9765  60   2
+TPCNote   9485   9765  65   1
+TPCNote   9765  10010  65   1
+TPCNote   9765  10010  63  -1
+TPCNote   9765  10010  60   2
+TPCNote  10010  10500  46   0
+TPCNote  10010  10255  62   4
+TPCNote  10010  10255  65   1
+TPCNote  10010  10500  34   0
+TPCNote  10010  10255  58   0
+TPCNote  10255  10500  62   4
+TPCNote  10255  10500  58   0
+TPCNote  10255  10500  65   1
+TPCNote  10500  10745  62   4
+TPCNote  10500  10745  65   1
+TPCNote  10500  10745  58   0
+TPCNote  10745  10990  65   1
+TPCNote  10745  10990  62   4
+TPCNote  10745  10990  58   0
+TPCNote  10990  11235  62   4
+TPCNote  10990  11235  67   3
+TPCNote  10990  11235  65   1
+TPCNote  10990  11515  47   7
+TPCNote  10990  11515  35   7
+TPCNote  11235  11515  65   1
+TPCNote  11235  11515  67   3
+TPCNote  11235  11515  62   4
+TPCNote  11515  11760  65   1
+TPCNote  11515  11760  62   4
+TPCNote  11515  11760  67   3
+TPCNote  11760  12005  67   3
+TPCNote  11760  12005  62   4
+TPCNote  11760  12005  65   1
+TPCNote  12005  12495  36   2
+TPCNote  12005  12495  48   2
+TPCNote  12250  12495  65   1
+TPCNote  12250  12495  69   5
+TPCNote  12250  12495  60   2
+TPCNote  12495  12740  65   1
+TPCNote  12495  12740  69   5
+TPCNote  12495  12740  60   2
+TPCNote  12740  12985  69   5
+TPCNote  12740  12985  65   1
+TPCNote  12740  12985  60   2
+TPCNote  12985  13265  60   2
+TPCNote  12985  13265  67   3
+TPCNote  12985  13265  64   6
+TPCNote  12985  13755  55   3
+TPCNote  12985  13510  46   0
+TPCNote  12985  13510  34   0
+TPCNote  13265  13510  64   6
+TPCNote  13265  13510  67   3
+TPCNote  13265  13510  60   2
+TPCNote  13510  13755  64   6
+TPCNote  13510  13755  60   2
+TPCNote  13510  13755  67   3
+TPCNote  13755  13860  53   1
+TPCNote  13755  14000  60   2
+TPCNote  13755  14000  64   6
+TPCNote  13755  14000  67   3
+TPCNote  13860  14000  55   3
+TPCNote  14000  14490  33   5
+TPCNote  14000  14490  45   5
+TPCNote  14000  14175  53   1
+TPCNote  14175  14350  57   5
+TPCNote  14245  14350  60   2
+TPCNote  14245  14490  65   1
+TPCNote  14350  14490  60   2
+TPCNote  14490  14735  72   2
+TPCNote  14490  14735  57   5
+TPCNote  14490  14735  65   1
+TPCNote  14490  15505  60   2
+TPCNote  14735  15015  72   2
+TPCNote  14735  15015  65   1
+TPCNote  14735  15015  57   5
+TPCNote  15015  15260  72   2
+TPCNote  15015  15505  45   5
+TPCNote  15015  15260  65   1
+TPCNote  15015  15260  57   5
+TPCNote  15260  15505  57   5
+TPCNote  15260  15505  65   1
+TPCNote  15260  15505  72   2
+TPCNote  15505  15750  57   5
+TPCNote  15505  15750  73   9
+TPCNote  15505  15995  61   9
+TPCNote  15505  15750  65   1
+TPCNote  15750  15995  57   5
+TPCNote  15750  15995  73   9
+TPCNote  15750  15995  65   1
+TPCNote  15995  16485  46   0
+TPCNote  15995  16485  74   4
+TPCNote  15995  16485  65   1
+TPCNote  15995  16485  62   4
+TPCNote  15995  16485  58   0
+TPCNote  16485  17010  62   4
+TPCNote  16485  17010  74   4
+TPCNote  16485  17010  58   0
+TPCNote  17010  17500  64   6
+TPCNote  17010  17500  76   6
+TPCNote  17010  17500  60   2
+TPCNote  17500  17990  65   1
+TPCNote  17500  17990  62   4
+TPCNote  17500  17990  77   1
+TPCNote  17990  18515  48   2
+TPCNote  17990  18235  60   2
+TPCNote  18235  18515  65   1
+TPCNote  18235  18515  60   2
+TPCNote  18235  18515  69   5
+TPCNote  18515  18760  65   1
+TPCNote  18515  18760  69   5
+TPCNote  18515  18760  60   2
+TPCNote  18760  19005  69   5
+TPCNote  18760  19005  60   2
+TPCNote  18760  19005  65   1
+TPCNote  19005  21000  77   1
+TPCNote  19005  19250  69   5
+TPCNote  19005  19250  60   2
+TPCNote  19005  19250  65   1
+TPCNote  19005  19495  48   2
+TPCNote  19005  19985  81   5
+TPCNote  19250  19390  62   4
+TPCNote  19250  19495  65   1
+TPCNote  19250  19390  60   2
+TPCNote  19250  19495  69   5
+TPCNote  19390  19495  60   2
+TPCNote  19495  19635  58   0
+TPCNote  19495  19740  69   5
+TPCNote  19495  19740  60   2
+TPCNote  19495  19740  65   1
+TPCNote  19635  19740  57   5
+TPCNote  19740  19985  69   5
+TPCNote  19740  19985  60   2
+TPCNote  19740  19985  65   1
+TPCNote  19740  19880  55   3
+TPCNote  19880  19985  53   1
+TPCNote  19985  22015  79   3
+TPCNote  19985  20510  36   2
+TPCNote  19985  20265  65   1
+TPCNote  19985  22015  55   3
+TPCNote  19985  20510  48   2
+TPCNote  19985  20265  67   3
+TPCNote  19985  20265  60   2
+TPCNote  20265  20510  65   1
+TPCNote  20265  20510  60   2
+TPCNote  20265  20510  67   3
+TPCNote  20510  20755  65   1
+TPCNote  20510  20755  60   2
+TPCNote  20510  20755  67   3
+TPCNote  20755  21000  65   1
+TPCNote  20755  21000  60   2
+TPCNote  20755  21000  67   3
+TPCNote  21000  21490  36   2
+TPCNote  21000  21245  64   6
+TPCNote  21000  21490  48   2
+TPCNote  21000  21245  67   3
+TPCNote  21000  21245  58   0
+TPCNote  21000  22015  76   6
+TPCNote  21245  21490  58   0
+TPCNote  21245  21490  67   3
+TPCNote  21245  21490  64   6
+TPCNote  21490  21735  58   0
+TPCNote  21490  21735  64   6
+TPCNote  21490  21735  67   3
+TPCNote  21735  22015  64   6
+TPCNote  21735  22015  58   0
+TPCNote  21735  22015  67   3
+TPCNote  22015  22260  65   1
+TPCNote  22015  22260  77   1
+TPCNote  22015  22995  41   1
+TPCNote  22015  22995  57   5
+TPCNote  22015  22995  53   1
+TPCNote  22260  22505  77   1
+TPCNote  22260  22505  65   1
+TPCNote  22505  22750  65   1
+TPCNote  22505  22750  77   1
+TPCNote  22750  22995  77   1
+TPCNote  22750  22995  65   1
+TPCNote  22995  24010  46   0
+TPCNote  22995  24010  58   0
+TPCNote  22995  23240  65   1
+TPCNote  22995  23240  77   1
+TPCNote  22995  24010  34   0
+TPCNote  23240  23485  74   4
+TPCNote  23240  23485  62   4
+TPCNote  23485  23765  74   4
+TPCNote  23485  23765  62   4
+TPCNote  23765  24010  74   4
+TPCNote  23765  24010  62   4
+TPCNote  24010  24990  45   5
+TPCNote  24010  24255  74   4
+TPCNote  24010  24255  62   4
+TPCNote  24010  24990  57   5
+TPCNote  24010  24990  33   5
+TPCNote  24255  24500  72   2
+TPCNote  24255  24500  60   2
+TPCNote  24500  24745  60   2
+TPCNote  24500  24745  72   2
+TPCNote  24745  24990  72   2
+TPCNote  24745  24990  60   2
+TPCNote  24990  25235  60   2
+TPCNote  24990  25235  72   2
+TPCNote  24990  26005  38   4
+TPCNote  24990  26005  50   4
+TPCNote  25235  25515  70   0
+TPCNote  25235  25515  58   0
+TPCNote  25515  25760  70   0
+TPCNote  25515  25760  58   0
+TPCNote  25760  26005  58   0
+TPCNote  25760  26005  70   0
+TPCNote  26005  26985  69   5
+TPCNote  26005  28000  53   1
+TPCNote  26005  26985  36   2
+TPCNote  26005  26985  57   5
+TPCNote  26005  26985  48   2
+TPCNote  26005  26985  60   2
+TPCNote  28000  29505  55   3
+TPCNote  29505  29995  53   1
+TPCNote  29995  30485  77   1
+TPCNote  29995  30485  65   1
+TPCNote  29995  30485  57   5
+TPCNote  29995  31010  41   1
+TPCNote  29995  31010  53   1
+TPCNote  30240  30485  81   5
+TPCNote  30485  31500  60   2
+TPCNote  30485  31500  81   5
+TPCNote  30485  30765  72   2
+TPCNote  30485  31500  69   5
+TPCNote  30485  31500  84   2
+TPCNote  30765  31010  72   2

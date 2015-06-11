@@ -7,7 +7,7 @@
  /*                                                                         */
  /***************************************************************************/ 
 
-
+#include "stdlib.h"
 #define CHANGE_PENALTY 12
 #define SEGMENT_BEAT_LEVEL 3
 #define BEAT_PRINTOUT_LEVEL 2

@@ -1,0 +1,5 @@
+#!/usr/bin/csh
+
+../meter/meter -p ../meter/parameters.prechord $1 | ../harmony/harmony -p ../harmony/parameters.prechord | ../meter/meter | ../harmony/harmony 
+
+

@@ -1,0 +1,1503 @@
+Beat      0  1
+Beat    100  0
+Beat    200  3
+Beat    300  0
+Beat    400  1
+Beat    500  0
+Beat    600  2
+Beat    700  0
+Beat    800  1
+Beat    900  0
+Beat   1000  2
+Beat   1100  0
+Beat   1200  1
+Beat   1300  0
+Beat   1400  4
+Beat   1500  0
+Beat   1600  1
+Beat   1700  0
+Beat   1800  2
+Beat   1900  0
+Beat   2000  1
+Beat   2100  0
+Beat   2200  2
+Beat   2300  0
+Beat   2400  1
+Beat   2500  0
+Beat   2600  3
+Beat   2700  0
+Beat   2800  1
+Beat   2900  0
+Beat   3000  2
+Beat   3100  0
+Beat   3200  1
+Beat   3300  0
+Beat   3400  2
+Beat   3500  0
+Beat   3600  1
+Beat   3700  0
+Beat   3800  4
+Beat   3900  0
+Beat   4000  1
+Beat   4100  0
+Beat   4200  2
+Beat   4300  0
+Beat   4400  1
+Beat   4500  0
+Beat   4600  2
+Beat   4700  0
+Beat   4800  1
+Beat   4900  0
+Beat   5000  3
+Beat   5100  0
+Beat   5200  1
+Beat   5300  0
+Beat   5400  2
+Beat   5500  0
+Beat   5600  1
+Beat   5700  0
+Beat   5800  2
+Beat   5900  0
+Beat   6000  1
+Beat   6100  0
+Beat   6200  4
+Beat   6300  0
+Beat   6400  1
+Beat   6500  0
+Beat   6600  2
+Beat   6700  0
+Beat   6800  1
+Beat   6900  0
+Beat   7000  2
+Beat   7100  0
+Beat   7200  1
+Beat   7300  0
+Beat   7400  3
+Beat   7500  0
+Beat   7600  1
+Beat   7700  0
+Beat   7800  2
+Beat   7900  0
+Beat   8000  1
+Beat   8100  0
+Beat   8200  2
+Beat   8300  0
+Beat   8400  1
+Beat   8500  0
+Beat   8600  4
+Beat   8700  0
+Beat   8800  1
+Beat   8900  0
+Beat   9000  2
+Beat   9100  0
+Beat   9200  1
+Beat   9300  0
+Beat   9400  2
+Beat   9500  0
+Beat   9600  1
+Beat   9700  0
+Beat   9800  3
+Beat   9900  0
+Beat  10000  1
+Beat  10100  0
+Beat  10200  2
+Beat  10300  0
+Beat  10400  1
+Beat  10500  0
+Beat  10600  2
+Beat  10700  0
+Beat  10800  1
+Beat  10900  0
+Beat  11000  4
+Beat  11100  0
+Beat  11200  1
+Beat  11300  0
+Beat  11400  2
+Beat  11500  0
+Beat  11600  1
+Beat  11700  0
+Beat  11800  2
+Beat  11900  0
+Beat  12000  1
+Beat  12100  0
+Beat  12200  3
+Beat  12300  0
+Beat  12400  1
+Beat  12500  0
+Beat  12600  2
+Beat  12700  0
+Beat  12800  1
+Beat  12900  0
+Beat  13000  2
+Beat  13100  0
+Beat  13200  1
+Beat  13300  0
+Beat  13400  4
+Beat  13500  0
+Beat  13600  1
+Beat  13700  0
+Beat  13800  2
+Beat  13900  0
+Beat  14000  1
+Beat  14100  0
+Beat  14200  2
+Beat  14300  0
+Beat  14400  1
+Beat  14500  0
+Beat  14600  3
+Beat  14700  0
+Beat  14800  1
+Beat  14900  0
+Beat  15000  2
+Beat  15100  0
+Beat  15200  1
+Beat  15300  0
+Beat  15400  2
+Beat  15500  0
+Beat  15600  1
+Beat  15700  0
+Beat  15800  4
+Beat  15900  0
+Beat  16000  1
+Beat  16100  0
+Beat  16200  2
+Beat  16300  0
+Beat  16400  1
+Beat  16500  0
+Beat  16600  2
+Beat  16700  0
+Beat  16800  1
+Beat  16900  0
+Beat  17000  3
+Beat  17100  0
+Beat  17200  1
+Beat  17300  0
+Beat  17400  2
+Beat  17500  0
+Beat  17600  1
+Beat  17700  0
+Beat  17800  2
+Beat  17900  0
+Beat  18000  1
+Beat  18100  0
+Beat  18200  4
+Beat  18300  0
+Beat  18400  1
+Beat  18500  0
+Beat  18600  2
+Beat  18700  0
+Beat  18800  1
+Beat  18900  0
+Beat  19000  2
+Beat  19100  0
+Beat  19200  1
+Beat  19300  0
+Beat  19400  3
+Beat  19500  0
+Beat  19600  1
+Beat  19700  0
+Beat  19800  2
+Beat  19900  0
+Beat  20000  1
+Beat  20100  0
+Beat  20200  2
+Beat  20300  0
+Beat  20400  1
+Beat  20500  0
+Beat  20600  4
+Beat  20700  0
+Beat  20800  1
+Beat  20900  0
+Beat  21000  2
+Beat  21100  0
+Beat  21200  1
+Beat  21300  0
+Beat  21400  2
+Beat  21500  0
+Beat  21600  1
+Beat  21700  0
+Beat  21800  3
+Beat  21900  0
+Beat  22000  1
+Beat  22100  0
+Beat  22200  2
+Beat  22300  0
+Beat  22400  1
+Beat  22500  0
+Beat  22600  2
+Beat  22700  0
+Beat  22800  1
+Beat  22900  0
+Beat  23000  4
+Beat  23100  0
+Beat  23200  1
+Beat  23300  0
+Beat  23400  2
+Beat  23500  0
+Beat  23600  1
+Beat  23700  0
+Beat  23800  2
+Beat  23900  0
+Beat  24000  1
+Beat  24100  0
+Beat  24200  3
+Beat  24300  0
+Beat  24400  1
+Beat  24500  0
+Beat  24600  2
+Beat  24700  0
+Beat  24800  1
+Beat  24900  0
+Beat  25000  2
+Beat  25100  0
+Beat  25200  1
+Beat  25300  0
+Beat  25400  4
+Beat  25500  0
+Beat  25600  1
+Beat  25700  0
+Beat  25800  2
+Beat  25900  0
+Beat  26000  1
+Beat  26100  0
+Beat  26200  2
+Beat  26300  0
+Beat  26400  1
+Beat  26500  0
+Beat  26600  3
+Beat  26700  0
+Beat  26800  1
+Beat  26900  0
+Beat  27000  2
+Beat  27100  0
+Beat  27200  1
+Beat  27300  0
+Beat  27400  2
+Beat  27500  0
+Beat  27600  1
+Beat  27700  0
+Beat  27800  4
+Beat  27900  0
+Beat  28000  1
+Beat  28100  0
+Beat  28200  2
+Beat  28300  0
+Beat  28400  1
+Beat  28500  0
+Beat  28600  2
+Beat  28700  0
+Beat  28800  1
+Beat  28900  0
+Beat  29000  3
+Beat  29100  0
+Beat  29200  1
+Beat  29300  0
+Beat  29400  2
+Beat  29500  0
+Beat  29600  1
+Beat  29700  0
+Beat  29800  2
+Beat  29900  0
+Beat  30000  1
+Beat  30100  0
+Beat  30200  4
+Beat  30300  0
+Beat  30400  1
+Beat  30500  0
+Beat  30600  2
+Beat  30700  0
+Beat  30800  1
+Beat  30900  0
+Beat  31000  2
+Beat  31100  0
+Beat  31200  1
+Beat  31300  0
+Beat  31400  3
+Beat  31500  0
+Beat  31600  1
+Beat  31700  0
+Beat  31800  2
+Beat  31900  0
+Beat  32000  1
+Beat  32100  0
+Beat  32200  2
+Beat  32300  0
+Beat  32400  1
+Beat  32500  0
+Beat  32600  4
+Beat  32700  0
+Beat  32800  1
+Beat  32900  0
+Beat  33000  2
+Beat  33100  0
+Beat  33200  1
+Beat  33300  0
+Beat  33400  2
+Beat  33500  0
+Beat  33600  1
+Beat  33700  0
+Beat  33800  3
+Beat  33900  0
+Beat  34000  1
+Beat  34100  0
+Beat  34200  2
+Beat  34300  0
+Beat  34400  1
+Beat  34500  0
+Beat  34600  2
+Beat  34700  0
+Beat  34800  1
+Beat  34900  0
+Beat  35000  4
+Beat  35100  0
+Beat  35200  1
+Beat  35300  0
+Beat  35400  2
+Beat  35500  0
+Beat  35600  1
+Beat  35700  0
+Beat  35800  2
+Beat  35900  0
+Beat  36000  1
+Beat  36100  0
+Beat  36200  3
+Beat  36300  0
+Beat  36400  1
+Beat  36500  0
+Beat  36600  2
+Beat  36700  0
+Beat  36800  1
+Beat  36900  0
+Beat  37000  2
+Beat  37100  0
+Beat  37200  1
+Beat  37300  0
+Beat  37400  4
+Beat  37500  0
+Beat  37600  1
+Beat  37700  0
+Beat  37800  2
+Beat  37900  0
+Beat  38000  1
+Beat  38100  0
+Beat  38200  2
+Beat  38300  0
+Beat  38400  1
+Beat  38500  0
+Beat  38600  3
+Beat  38700  0
+Beat  38800  1
+Beat  38900  0
+Beat  39000  2
+Beat  39100  0
+Beat  39200  1
+Beat  39300  0
+Beat  39400  2
+Beat  39500  0
+Beat  39600  1
+Beat  39700  0
+Beat  39800  4
+Beat  39900  0
+Beat  40000  1
+Beat  40100  0
+Beat  40200  2
+Beat  40300  0
+Beat  40400  1
+Beat  40500  0
+Beat  40600  2
+Beat  40700  0
+Beat  40800  1
+Beat  40900  0
+Beat  41000  3
+Beat  41100  0
+Beat  41200  1
+Beat  41300  0
+Beat  41400  2
+Beat  41500  0
+Beat  41600  1
+Beat  41700  0
+Beat  41800  2
+Beat  41900  0
+Beat  42000  1
+Beat  42100  0
+Beat  42200  4
+Beat  42300  0
+Beat  42400  1
+Beat  42500  0
+Beat  42600  2
+Beat  42700  0
+Beat  42800  1
+Beat  42900  0
+Beat  43000  2
+Beat  43100  0
+Beat  43200  1
+Beat  43300  0
+Beat  43400  3
+Beat  43500  0
+Beat  43600  1
+Beat  43700  0
+Beat  43800  2
+Beat  43900  0
+Beat  44000  1
+Beat  44100  0
+Beat  44200  2
+Beat  44300  0
+Beat  44400  1
+Beat  44500  0
+Beat  44600  4
+Beat  44700  0
+Beat  44800  1
+Beat  44900  0
+Beat  45000  2
+Beat  45100  0
+Beat  45200  1
+Beat  45300  0
+Beat  45400  2
+Beat  45500  0
+Beat  45600  1
+Beat  45700  0
+Beat  45800  3
+Beat  45900  0
+Beat  46000  1
+Beat  46100  0
+Beat  46200  2
+Beat  46300  0
+Beat  46400  1
+Beat  46500  0
+Beat  46600  2
+Beat  46700  0
+Beat  46800  1
+Beat  46900  0
+Beat  47000  4
+Beat  47100  0
+Beat  47200  1
+Beat  47300  0
+Beat  47400  2
+Beat  47500  0
+Beat  47600  1
+Beat  47700  0
+Beat  47800  2
+Beat  47900  0
+Beat  48000  1
+Beat  48100  0
+Beat  48200  3
+Beat  48300  0
+Beat  48400  1
+Beat  48500  0
+Beat  48600  2
+Beat  48700  0
+Beat  48800  1
+Beat  48900  0
+Beat  49000  2
+Beat  49100  0
+Beat  49200  1
+Beat  49300  0
+Beat  49400  4
+Beat  49500  0
+Beat  49600  1
+Beat  49700  0
+Beat  49800  2
+Beat  49900  0
+Beat  50000  1
+Beat  50100  0
+Beat  50200  2
+Beat  50300  0
+Beat  50400  1
+Beat  50500  0
+Beat  50600  3
+Beat  50700  0
+Beat  50800  1
+Beat  50900  0
+Beat  51000  2
+Beat  51100  0
+Beat  51200  1
+Beat  51300  0
+Beat  51400  2
+Beat  51500  0
+Beat  51600  1
+Beat  51700  0
+Beat  51800  4
+Beat  51900  0
+Beat  52000  1
+Beat  52100  0
+Beat  52200  2
+Beat  52300  0
+Beat  52400  1
+Beat  52500  0
+Beat  52600  2
+Beat  52700  0
+Beat  52800  1
+Beat  52900  0
+Beat  53000  3
+Beat  53100  0
+Beat  53200  1
+Beat  53300  0
+Beat  53400  2
+Beat  53500  0
+Beat  53600  1
+Beat  53700  0
+Beat  53800  2
+Beat  53900  0
+Beat  54000  1
+Beat  54100  0
+Beat  54200  4
+Beat  54300  0
+Beat  54400  1
+Beat  54500  0
+Beat  54600  2
+Beat  54700  0
+Beat  54800  1
+Beat  54900  0
+Beat  55000  2
+Beat  55100  0
+Beat  55200  1
+Beat  55300  0
+Beat  55400  3
+Beat  55500  0
+Beat  55600  1
+Beat  55700  0
+Beat  55800  2
+Beat  55900  0
+Beat  56000  1
+Beat  56100  0
+Beat  56200  2
+Beat  56300  0
+Beat  56400  1
+Beat  56500  0
+Beat  56600  4
+Beat  56700  0
+Beat  56800  1
+Beat  56900  0
+Beat  57000  2
+Beat  57100  0
+Beat  57200  1
+Beat  57300  0
+Beat  57400  2
+Beat  57500  0
+Beat  57600  1
+Beat  57700  0
+Beat  57800  3
+Beat  57900  0
+Beat  58000  1
+Beat  58100  0
+Beat  58200  2
+Beat  58300  0
+Beat  58400  1
+Beat  58500  0
+Beat  58600  2
+Beat  58700  0
+Beat  58800  1
+Beat  58900  0
+Beat  59000  4
+Beat  59100  0
+Beat  59200  1
+Beat  59300  0
+Beat  59400  2
+Beat  59500  0
+Beat  59600  1
+Beat  59700  0
+Beat  59800  2
+Beat  59900  0
+Beat  60000  1
+Beat  60100  0
+Beat  60200  3
+Beat  60300  0
+Beat  60400  1
+Beat  60500  0
+Beat  60600  2
+Beat  60700  0
+Beat  60800  1
+Beat  60900  0
+Beat  61000  2
+Beat  61100  0
+Beat  61200  1
+Beat  61300  0
+Beat  61400  4
+Beat  61500  0
+Beat  61600  1
+Beat  61700  0
+Beat  61800  2
+Beat  61900  0
+Beat  62000  1
+Beat  62100  0
+Beat  62200  2
+Beat  62300  0
+Beat  62400  1
+Beat  62500  0
+Beat  62600  3
+Beat  62700  0
+Beat  62800  1
+Beat  62900  0
+Beat  63000  2
+Beat  63100  0
+Beat  63200  1
+Beat  63300  0
+Beat  63400  2
+Beat  63500  0
+Beat  63600  1
+Beat  63700  0
+Beat  63800  4
+Beat  63900  0
+Beat  64000  1
+Beat  64100  0
+Beat  64200  2
+Beat  64300  0
+Beat  64400  1
+Beat  64500  0
+Beat  64600  2
+Beat  64700  0
+Beat  64800  1
+Beat  64900  0
+Beat  65000  3
+Beat  65100  0
+Beat  65200  1
+Beat  65300  0
+Beat  65400  2
+Beat  65500  0
+Beat  65600  1
+Beat  65700  0
+Beat  65800  2
+Beat  65900  0
+Beat  66000  1
+Beat  66100  0
+Beat  66200  4
+Beat  66300  0
+Beat  66400  1
+Beat  66500  0
+Beat  66600  2
+Beat  66700  0
+Beat  66800  1
+Beat  66900  0
+Beat  67000  2
+Beat  67100  0
+Beat  67200  1
+Beat  67300  0
+Beat  67400  3
+Beat  67500  0
+Beat  67600  1
+Beat  67700  0
+Beat  67800  2
+Beat  67900  0
+Beat  68000  1
+Beat  68100  0
+Beat  68200  2
+Beat  68300  0
+Beat  68400  1
+Beat  68500  0
+Beat  68600  4
+Beat  68700  0
+Beat  68800  1
+Beat  68900  0
+Beat  69000  2
+Beat  69100  0
+Beat  69200  1
+Beat  69300  0
+Beat  69400  2
+Beat  69500  0
+Beat  69600  1
+Beat  69700  0
+Beat  69800  3
+Beat  69900  0
+Beat  70000  1
+Beat  70100  0
+Beat  70200  2
+Beat  70300  0
+Beat  70400  1
+Beat  70500  0
+Beat  70600  2
+Beat  70700  0
+Beat  70800  1
+Beat  70900  0
+Beat  71000  4
+Beat  71100  0
+Beat  71200  1
+Beat  71300  0
+Beat  71400  2
+Beat  71500  0
+Beat  71600  1
+Beat  71700  0
+Beat  71800  2
+Beat  71900  0
+Beat  72000  1
+Beat  72100  0
+Beat  72200  3
+Beat  72300  0
+Beat  72400  1
+Beat  72500  0
+Beat  72600  2
+Beat  72700  0
+Beat  72800  1
+Beat  72900  0
+Beat  73000  2
+Beat  73100  0
+Beat  73200  1
+Beat  73300  0
+Beat  73400  4
+Beat  73500  0
+Beat  73600  1
+Beat  73700  0
+Beat  73800  2
+Beat  73900  0
+Beat  74000  1
+Beat  74100  0
+Beat  74200  2
+Beat  74300  0
+Beat  74400  1
+Beat  74500  0
+Beat  74600  3
+Beat  74700  0
+Beat  74800  1
+Beat  74900  0
+Beat  75000  2
+Beat  75100  0
+Beat  75200  1
+Beat  75300  0
+Beat  75400  2
+Beat  75500  0
+Beat  75600  1
+Beat  75700  0
+Beat  75800  4
+Beat  75900  0
+Beat  76000  1
+Beat  76100  0
+Beat  76200  2
+Beat  76300  0
+Beat  76400  1
+Beat  76500  0
+Beat  76600  2
+Beat  76700  0
+Beat  76800  1
+Beat  76900  0
+Beat  77000  3
+Beat  77100  0
+Beat  77200  1
+Beat  77300  0
+Beat  77400  2
+Beat  77500  0
+Beat  77600  1
+Beat  77700  0
+Beat  77800  2
+Beat  77900  0
+Beat  78000  1
+Beat  78100  0
+Beat  78200  4
+Beat  78300  0
+Beat  78400  1
+Beat  78500  0
+Beat  78600  2
+Beat  78700  0
+Beat  78800  1
+Beat  78900  0
+Beat  79000  2
+Beat  79100  0
+Beat  79200  1
+Beat  79300  0
+Beat  79400  3
+Beat  79500  0
+Beat  79600  1
+Beat  79700  0
+Beat  79800  2
+Beat  79900  0
+Beat  80000  1
+Beat  80100  0
+Beat  80200  2
+Beat  80300  0
+Beat  80400  1
+Beat  80500  0
+Beat  80600  4
+Beat  80700  0
+Beat  80800  1
+Beat  80900  0
+Beat  81000  2
+Beat  81100  0
+Beat  81200  1
+Beat  81300  0
+Beat  81400  2
+Beat  81500  0
+Beat  81600  1
+Beat  81700  0
+Beat  81800  3
+Beat  81900  0
+Beat  82000  1
+Beat  82100  0
+Beat  82200  2
+Beat  82300  0
+Beat  82400  1
+Beat  82500  0
+Beat  82600  2
+Beat  82700  0
+Beat  82800  1
+Beat  82900  0
+Beat  83000  4
+Beat  83100  0
+Beat  83200  1
+Beat  83300  0
+Beat  83400  2
+Beat  83500  0
+Beat  83600  1
+Beat  83700  0
+Beat  83800  2
+Beat  83900  0
+Beat  84000  1
+Beat  84100  0
+Beat  84200  3
+Beat  84300  0
+Beat  84400  1
+Beat  84500  0
+Beat  84600  2
+Beat  84700  0
+Beat  84800  1
+Beat  84900  0
+Beat  85000  2
+Beat  85100  0
+Beat  85200  1
+Beat  85300  0
+Beat  85400  4
+Beat  85500  0
+Beat  85600  1
+Beat  85700  0
+Beat  85800  2
+Beat  85900  0
+Beat  86000  1
+Beat  86100  0
+Beat  86200  2
+Beat  86300  0
+Beat  86400  1
+Beat  86500  0
+Beat  86600  3
+Beat  86700  0
+Beat  86800  1
+Beat  86900  0
+Beat  87000  2
+Beat  87100  0
+Beat  87200  1
+Beat  87300  0
+Beat  87400  2
+Beat  87500  0
+Beat  87600  1
+Beat  87700  0
+Beat  87800  4
+Beat  87900  0
+Beat  88000  1
+Beat  88100  0
+Beat  88200  2
+Beat  88300  0
+Beat  88400  1
+Beat  88500  0
+Beat  88600  2
+Beat  88700  0
+Beat  88800  1
+Beat  88900  0
+Beat  89000  3
+Beat  89100  0
+Beat  89200  1
+Beat  89300  0
+Beat  89400  2
+Beat  89500  0
+Beat  89600  1
+Beat  89700  0
+Beat  89800  2
+Beat  89900  0
+Beat  90000  1
+Beat  90100  0
+Beat  90200  4
+Beat  90300  0
+Beat  90400  1
+Beat  90500  0
+Beat  90600  2
+Beat  90700  0
+Beat  90800  1
+Beat  90900  0
+Beat  91000  2
+Beat  91100  0
+Beat  91200  1
+Beat  91300  0
+Beat  91400  3
+Beat  91500  0
+Beat  91600  1
+Beat  91700  0
+Beat  91800  2
+Beat  91900  0
+Beat  92000  1
+Beat  92100  0
+Beat  92200  2
+Beat  92300  0
+Beat  92400  1
+Beat  92500  0
+Beat  92600  4
+Beat  92700  0
+Beat  92800  1
+Beat  92900  0
+Beat  93000  2
+Beat  93100  0
+Beat  93200  1
+Beat  93300  0
+Beat  93400  2
+Beat  93500  0
+Beat  93600  1
+Beat  93700  0
+Beat  93800  3
+Beat  93900  0
+Beat  94000  1
+Beat  94100  0
+Beat  94200  2
+Beat  94300  0
+Beat  94400  1
+Beat  94500  0
+Beat  94600  2
+Beat  94700  0
+Beat  94800  1
+Beat  94900  0
+Beat  95000  4
+Beat  95100  0
+Beat  95200  1
+Beat  95300  0
+Beat  95400  2
+Beat  95500  0
+Beat  95600  1
+Beat  95700  0
+Beat  95800  2
+Beat  95900  0
+Beat  96000  1
+Beat  96100  0
+Beat  96200  3
+Beat  96300  0
+Beat  96400  1
+Beat  96500  0
+Beat  96600  2
+Beat  96700  0
+Beat  96800  1
+Beat  96900  0
+Beat  97000  2
+Beat  97100  0
+Beat  97200  1
+Beat  97300  0
+Beat  97400  4
+Beat  97500  0
+Beat  97600  1
+Beat  97700  0
+Beat  97800  2
+Beat  97900  0
+Beat  98000  1
+Beat  98100  0
+Beat  98200  2
+Beat  98300  0
+Beat  98400  1
+Beat  98500  0
+Beat  98600  3
+Beat  98700  0
+Beat  98800  1
+Beat  98900  0
+Beat  99000  2
+Beat  99100  0
+Beat  99200  1
+Beat  99300  0
+Beat  99400  2
+Beat  99500  0
+Beat  99600  1
+Beat  99700  0
+Beat  99800  4
+Beat  99900  0
+Beat 100000  1
+Beat 100100  0
+Beat 100200  2
+Beat 100300  0
+Beat 100400  1
+Beat 100500  0
+Beat 100600  2
+Note      0    200  60
+Note    200    400  60
+Note    400    600  55
+Note    600    800  52
+Note    800   1000  48
+Note   1000   1200  43
+Note   1200   1400  40
+Note   1400   1600  36
+Note   1600   1800  60
+Note   1800   2000  62
+Note   2000   2200  60
+Note   2200   2400  59
+Note   2400   2600  60
+Note   2600   2800  62
+Note   2800   3000  59
+Note   3000   3200  55
+Note   3200   3400  50
+Note   3400   3600  47
+Note   3600   3800  43
+Note   3800   4000  41
+Note   4000   4200  62
+Note   4200   4400  60
+Note   4400   4600  59
+Note   4600   4800  57
+Note   4800   5000  55
+Note   5000   5200  60
+Note   5200   5400  59
+Note   5400   5600  57
+Note   5600   5800  55
+Note   5800   6000  53
+Note   6000   6200  52
+Note   6200   6400  53
+Note   6400   6600  50
+Note   6600   6800  43
+Note   6800   7000  57
+Note   7000   7200  55
+Note   7200   7400  53
+Note   7400   7600  52
+Note   7600   7800  50
+Note   7800   8000  48
+Note   8000   8200  47
+Note   8200   8400  48
+Note   8400   8600  43
+Note   8600   9200  36
+Note   9200   9300  48
+Note   9300   9400  50
+Note   9400   9600  52
+Note   9600   9800  54
+Note   9800  10000  47
+Note  10000  10200  50
+Note  10200  10400  55
+Note  10400  10600  57
+Note  10600  10800  59
+Note  10800  11000  60
+Note  11000  11200  56
+Note  11200  11400  62
+Note  11400  11600  52
+Note  11600  11800  62
+Note  11800  12000  60
+Note  12000  12200  59
+Note  12200  12400  60
+Note  12400  12600  59
+Note  12600  12800  57
+Note  12800  13000  56
+Note  13000  13200  57
+Note  13200  13400  52
+Note  13400  13600  48
+Note  13600  13800  50
+Note  13800  14000  52
+Note  14000  14200  48
+Note  14200  14400  45
+Note  14400  14600  43
+Note  14600  14800  42
+Note  14800  15000  45
+Note  15000  15200  50
+Note  15200  15400  52
+Note  15400  15600  54
+Note  15600  15800  55
+Note  15800  16000  57
+Note  16000  16200  54
+Note  16200  16400  50
+Note  16400  16600  60
+Note  16600  16800  59
+Note  16800  17000  57
+Note  17000  17200  59
+Note  17200  17400  57
+Note  17400  17600  55
+Note  17600  17800  54
+Note  17800  18000  55
+Note  18000  18200  50
+Note  18200  18400  47
+Note  18400  18600  48
+Note  18600  18800  50
+Note  18800  19000  47
+Note  19000  19200  43
+Note  19200  19400  41
+Note  19400  19600  40
+Note  19600  19800  55
+Note  19800  20000  57
+Note  20000  20200  55
+Note  20200  20400  54
+Note  20400  20600  55
+Note  20600  20800  48
+Note  20800  21000  50
+Note  21000  21200  48
+Note  21200  21400  47
+Note  21400  21600  45
+Note  21600  21800  43
+Note  21800  22000  42
+Note  22000  22200  57
+Note  22200  22400  59
+Note  22400  22600  57
+Note  22600  22800  55
+Note  22800  23000  57
+Note  23000  23200  48
+Note  23200  23400  52
+Note  23400  23600  50
+Note  23600  23800  48
+Note  23800  24000  47
+Note  24000  24200  45
+Note  24200  24400  43
+Note  24400  24600  59
+Note  24600  24800  60
+Note  24800  25000  59
+Note  25000  25200  52
+Note  25200  25400  59
+Note  25400  25600  45
+Note  25600  25800  60
+Note  25800  26000  62
+Note  26000  26200  60
+Note  26200  26400  54
+Note  26400  26600  60
+Note  26600  26800  47
+Note  26800  27000  62
+Note  27000  27200  64
+Note  27200  27400  62
+Note  27400  27600  60
+Note  27600  27800  59
+Note  27800  28000  57
+Note  28000  28200  55
+Note  28200  28400  53
+Note  28400  28600  52
+Note  28600  28800  53
+Note  28800  29000  50
+Note  29000  29200  36
+Note  29200  29400  53
+Note  29400  29600  52
+Note  29600  29800  50
+Note  29800  30000  52
+Note  30000  30200  48
+Note  30200  30400  47
+Note  30400  30600  48
+Note  30600  30800  50
+Note  30800  31000  52
+Note  31000  31200  54
+Note  31200  31400  55
+Note  31400  31600  45
+Note  31600  31800  50
+Note  31800  32000  52
+Note  32000  32200  54
+Note  32200  32400  55
+Note  32400  32600  57
+Note  32600  32800  43
+Note  32800  33000  52
+Note  33000  33200  54
+Note  33200  33400  55
+Note  33400  33600  57
+Note  33600  33800  59
+Note  33800  34000  38
+Note  34000  34200  60
+Note  34200  34400  57
+Note  34400  34600  60
+Note  34600  34800  54
+Note  34800  35000  60
+Note  35000  35200  50
+Note  35200  35400  60
+Note  35400  35600  57
+Note  35600  35800  60
+Note  35800  36000  54
+Note  36000  36200  60
+Note  36200  36400  50
+Note  36400  36600  58
+Note  36600  36800  55
+Note  36800  37000  58
+Note  37000  37200  54
+Note  37200  37400  58
+Note  37400  37600  50
+Note  37600  37800  58
+Note  37800  38000  55
+Note  38000  38200  58
+Note  38200  38400  54
+Note  38400  38600  58
+Note  38600  38800  51
+Note  38800  39000  57
+Note  39000  39200  55
+Note  39200  39400  57
+Note  39400  39600  54
+Note  39600  39800  57
+Note  39800  40000  51
+Note  40000  40200  57
+Note  40200  40400  55
+Note  40400  40600  57
+Note  40600  40800  54
+Note  40800  41000  57
+Note  41000  41200  60
+Note  41200  41400  57
+Note  41400  41600  54
+Note  41600  41800  50
+Note  41800  42000  45
+Note  42000  42200  42
+Note  42200  42800  38
+Note  42800  43000  50
+Note  43000  43200  54
+Note  43200  43400  57
+Note  43400  43600  59
+Note  43600  43800  60
+Note  43800  44000  62
+Note  44000  44200  57
+Note  44200  44400  59
+Note  44400  44600  55
+Note  44600  44800  57
+Note  44800  45000  59
+Note  45000  45200  60
+Note  45200  45400  55
+Note  45400  45600  57
+Note  45600  45800  54
+Note  45800  46000  55
+Note  46000  46200  50
+Note  46200  46400  52
+Note  46400  46600  48
+Note  46600  46800  45
+Note  46800  47000  54
+Note  47000  47800  43
+Note  48000  48200  62
+Note  48200  48400  62
+Note  48400  48600  59
+Note  48600  48800  55
+Note  48800  49000  50
+Note  49000  49200  47
+Note  49200  49400  50
+Note  49400  49600  53
+Note  49600  49800  50
+Note  49800  50000  47
+Note  50000  50200  45
+Note  50200  50400  47
+Note  50400  50600  43
+Note  50600  50800  36
+Note  50800  51000  53
+Note  51000  51200  52
+Note  51200  51400  50
+Note  51400  51600  52
+Note  51600  51800  55
+Note  51800  52000  60
+Note  52000  52200  62
+Note  52200  52400  64
+Note  52400  52600  59
+Note  52600  52800  60
+Note  52800  53000  57
+Note  53000  53200  53
+Note  53200  53400  55
+Note  53400  53600  57
+Note  53600  53800  52
+Note  53800  54000  53
+Note  54000  54200  50
+Note  54200  54400  47
+Note  54400  54600  57
+Note  54600  54800  59
+Note  54800  55000  60
+Note  55000  55200  62
+Note  55200  55400  59
+Note  55400  55600  56
+Note  55600  55800  54
+Note  55800  56000  56
+Note  56000  56200  57
+Note  56200  56400  59
+Note  56400  56600  56
+Note  56600  56800  52
+Note  56800  57000  59
+Note  57000  57200  56
+Note  57200  57400  52
+Note  57400  57600  64
+Note  57600  57800  50
+Note  57800  58000  48
+Note  58000  58200  57
+Note  58200  58400  52
+Note  58400  58600  48
+Note  58600  58800  47
+Note  58800  59000  55
+Note  59000  59200  45
+Note  59200  59400  53
+Note  59400  59600  48
+Note  59600  59800  45
+Note  59800  60000  43
+Note  60000  60200  52
+Note  60200  60400  41
+Note  60400  60600  50
+Note  60600  60800  45
+Note  60800  61000  41
+Note  61000  61200  40
+Note  61200  61400  48
+Note  61400  61600  38
+Note  61600  61800  60
+Note  61800  62000  59
+Note  62000  62200  60
+Note  62200  62400  62
+Note  62400  62600  56
+Note  62600  62800  36
+Note  62800  63000  64
+Note  63000  63200  62
+Note  63200  63400  60
+Note  63400  63600  59
+Note  63600  63800  57
+Note  63800  64000  52
+Note  64000  64200  62
+Note  64200  64400  60
+Note  64400  64600  59
+Note  64600  64800  57
+Note  64800  65000  56
+Note  65000  65200  57
+Note  65200  65400  52
+Note  65400  65600  50
+Note  65600  65800  48
+Note  65800  66000  50
+Note  66000  66200  52
+Note  66200  66800  45
+Note  66800  66900  57
+Note  66900  67000  59
+Note  67000  67100  60
+Note  67100  67200  59
+Note  67200  67300  60
+Note  67300  67400  57
+Note  67400  67600  55
+Note  67600  67800  52
+Note  67800  68000  48
+Note  68000  68200  52
+Note  68200  68400  55
+Note  68400  68600  58
+Note  68600  68800  40
+Note  68800  69000  62
+Note  69000  69200  60
+Note  69200  69400  58
+Note  69400  69600  57
+Note  69600  69800  55
+Note  69800  70000  57
+Note  70000  70200  53
+Note  70200  70400  52
+Note  70400  70600  53
+Note  70600  70800  48
+Note  70800  71000  53
+Note  71000  71200  45
+Note  71200  71400  48
+Note  71400  71600  41
+Note  71600  71800  57
+Note  71800  72000  55
+Note  72000  72200  57
+Note  72200  72400  58
+Note  72400  72600  57
+Note  72600  72800  55
+Note  72800  73000  53
+Note  73000  73200  52
+Note  73200  73400  55
+Note  73400  73600  49
+Note  73600  73800  52
+Note  73800  74000  43
+Note  74000  74200  46
+Note  74200  74400  45
+Note  74400  74600  43
+Note  74600  74800  41
+Note  74800  75000  40
+Note  75000  75200  41
+Note  75200  75400  43
+Note  75400  75600  45
+Note  75600  75800  41
+Note  75800  76000  38
+Note  76000  76200  41
+Note  76200  76400  45
+Note  76400  76600  50
+Note  76600  76800  52
+Note  76800  77000  53
+Note  77000  77200  44
+Note  77200  77400  53
+Note  77400  77600  52
+Note  77600  77800  50
+Note  77800  78000  48
+Note  78000  78200  47
+Note  78200  78400  45
+Note  78400  78600  48
+Note  78600  78800  53
+Note  78800  79000  57
+Note  79000  79200  53
+Note  79200  79400  50
+Note  79400  79600  47
+Note  79600  79800  57
+Note  79800  80000  55
+Note  80000  80200  53
+Note  80200  80400  52
+Note  80400  80600  50
+Note  80600  80800  48
+Note  80800  81000  52
+Note  81000  81200  57
+Note  81200  81400  60
+Note  81400  81600  57
+Note  81600  81800  53
+Note  81800  82000  50
+Note  82000  82200  60
+Note  82200  82400  59
+Note  82400  82600  57
+Note  82600  82800  55
+Note  82800  83000  53
+Note  83000  83200  52
+Note  83200  83400  55
+Note  83400  83600  60
+Note  83600  83800  64
+Note  83800  84000  60
+Note  84000  84200  57
+Note  84200  84400  53
+Note  84400  84600  64
+Note  84600  84800  62
+Note  84800  85000  60
+Note  85000  85200  59
+Note  85200  85400  57
+Note  85400  85600  59
+Note  85600  85800  62
+Note  85800  86000  59
+Note  86000  86200  55
+Note  86200  86400  50
+Note  86400  86600  47
+Note  86600  86800  43
+Note  86800  87000  53
+Note  87000  87200  50
+Note  87200  87400  53
+Note  87400  87600  47
+Note  87600  87800  53
+Note  87800  88000  43
+Note  88000  88200  53
+Note  88200  88400  50
+Note  88400  88600  53
+Note  88600  88800  47
+Note  88800  89000  53
+Note  89000  89200  43
+Note  89200  89400  51
+Note  89400  89600  48
+Note  89600  89800  51
+Note  89800  90000  47
+Note  90000  90200  51
+Note  90200  90400  43
+Note  90400  90600  51
+Note  90600  90800  48
+Note  90800  91000  51
+Note  91000  91200  47
+Note  91200  91400  51
+Note  91400  91600  44
+Note  91600  91800  50
+Note  91800  92000  48
+Note  92000  92200  50
+Note  92200  92400  47
+Note  92400  92600  50
+Note  92600  92800  44
+Note  92800  93000  50
+Note  93000  93200  48
+Note  93200  93400  50
+Note  93400  93600  47
+Note  93600  93800  50
+Note  93800  94000  53
+Note  94000  94200  43
+Note  94200  94400  47
+Note  94400  94600  50
+Note  94600  94800  53
+Note  94800  95000  59
+Note  95000  95600  62
+Note  95600  95800  60
+Note  95800  96000  59
+Note  96000  96200  57
+Note  96200  96400  55
+Note  96400  96600  53
+Note  96600  96800  52
+Note  96800  97000  55
+Note  97000  97200  53
+Note  97200  97400  50
+Note  97400  97600  52
+Note  97600  97800  50
+Note  97800  98000  48
+Note  98000  98200  52
+Note  98200  98400  50
+Note  98400  98600  47
+Note  98600  98800  48
+Note  98800  99000  55
+Note  99000  99200  57
+Note  99200  99400  53
+Note  99400  99600  50
+Note  99600  99800  59
+Note  99800 100600  36
+Note  99800 100600  43
+Note  99800 100600  60
+Note  99800 100600  52
+

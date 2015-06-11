@@ -41,6 +41,8 @@
 #include <string.h>
 #include <math.h>
 #include "key.h"
+#include "stdlib.h"
+
 
 print_keyname(int f) {
       printf("%c", letter[f % 7]);
